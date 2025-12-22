@@ -1,0 +1,241 @@
+source,date,attack_type,sector,incident_count,severity,data_type
+BSSN Report (Structured),2023-01,Malware,Manufaktur,1210,Low,monthly_statistics
+BSSN Report (Structured),2023-01,Ransomware,Kesehatan,1017,Low,monthly_statistics
+BSSN Report (Structured),2023-01,Phishing,Pendidikan,1732,High,monthly_statistics
+BSSN Report (Structured),2023-01,Trojan,Pendidikan,529,Critical,monthly_statistics
+BSSN Report (Structured),2023-01,Spyware,Energi,1980,Low,monthly_statistics
+BSSN Report (Structured),2023-01,APT (Advanced Persistent Threat),Manufaktur,1265,Medium,monthly_statistics
+BSSN Report (Structured),2023-01,DDoS,Pendidikan,1181,Critical,monthly_statistics
+BSSN Report (Structured),2023-01,SQL Injection,Kesehatan,1450,Critical,monthly_statistics
+BSSN Report (Structured),2023-01,Man-in-the-Middle,Transportasi,922,High,monthly_statistics
+BSSN Report (Structured),2023-01,Social Engineering,Transportasi,2358,Medium,monthly_statistics
+BSSN Report (Structured),2023-01,Malware,Telekomunikasi,1056,Medium,monthly_statistics
+BSSN Report (Structured),2023-01,Ransomware,Pendidikan,1698,Low,monthly_statistics
+BSSN Report (Structured),2023-01,Phishing,Pertahanan,800,Medium,monthly_statistics
+BSSN Report (Structured),2023-01,Trojan,Media,1552,Medium,monthly_statistics
+BSSN Report (Structured),2023-01,Spyware,Telekomunikasi,1339,Critical,monthly_statistics
+BSSN Report (Structured),2023-01,APT (Advanced Persistent Threat),Telekomunikasi,2493,Medium,monthly_statistics
+BSSN Report (Structured),2023-01,DDoS,Transportasi,1737,Critical,monthly_statistics
+BSSN Report (Structured),2023-01,SQL Injection,Energi,689,Low,monthly_statistics
+BSSN Report (Structured),2023-01,Man-in-the-Middle,Retail & E-commerce,3018,Critical,monthly_statistics
+BSSN Report (Structured),2023-01,Social Engineering,Pemerintahan,907,Low,monthly_statistics
+BSSN Report (Structured),2023-03,Malware,Energi,3254,Low,monthly_statistics
+BSSN Report (Structured),2023-03,Ransomware,Media,2659,Medium,monthly_statistics
+BSSN Report (Structured),2023-03,Phishing,Retail & E-commerce,952,Low,monthly_statistics
+BSSN Report (Structured),2023-03,Trojan,Manufaktur,1921,Medium,monthly_statistics
+BSSN Report (Structured),2023-03,Spyware,Energi,895,High,monthly_statistics
+BSSN Report (Structured),2023-03,APT (Advanced Persistent Threat),Transportasi,1821,High,monthly_statistics
+BSSN Report (Structured),2023-03,DDoS,Pertahanan,1621,Low,monthly_statistics
+BSSN Report (Structured),2023-03,SQL Injection,Pendidikan,1130,Medium,monthly_statistics
+BSSN Report (Structured),2023-03,Man-in-the-Middle,Manufaktur,1151,Medium,monthly_statistics
+BSSN Report (Structured),2023-03,Social Engineering,Pemerintahan,2737,High,monthly_statistics
+BSSN Report (Structured),2023-04,Malware,Perbankan & Keuangan,749,Medium,monthly_statistics
+BSSN Report (Structured),2023-04,Ransomware,Transportasi,2996,Critical,monthly_statistics
+BSSN Report (Structured),2023-04,Phishing,Kesehatan,3263,Medium,monthly_statistics
+BSSN Report (Structured),2023-04,Trojan,Energi,1044,Low,monthly_statistics
+BSSN Report (Structured),2023-04,Spyware,Telekomunikasi,1374,Low,monthly_statistics
+BSSN Report (Structured),2023-04,APT (Advanced Persistent Threat),Pemerintahan,1577,Critical,monthly_statistics
+BSSN Report (Structured),2023-04,DDoS,Pertahanan,3223,Critical,monthly_statistics
+BSSN Report (Structured),2023-04,SQL Injection,Telekomunikasi,1330,Medium,monthly_statistics
+BSSN Report (Structured),2023-04,Man-in-the-Middle,Pemerintahan,2894,Medium,monthly_statistics
+BSSN Report (Structured),2023-04,Social Engineering,Pendidikan,2405,Critical,monthly_statistics
+BSSN Report (Structured),2023-05,Malware,Transportasi,2281,High,monthly_statistics
+BSSN Report (Structured),2023-05,Ransomware,Pendidikan,3458,High,monthly_statistics
+BSSN Report (Structured),2023-05,Phishing,Pendidikan,2304,Low,monthly_statistics
+BSSN Report (Structured),2023-05,Trojan,Pemerintahan,3327,Critical,monthly_statistics
+BSSN Report (Structured),2023-05,Spyware,Perbankan & Keuangan,1444,Medium,monthly_statistics
+BSSN Report (Structured),2023-05,APT (Advanced Persistent Threat),Media,2509,High,monthly_statistics
+BSSN Report (Structured),2023-05,DDoS,Telekomunikasi,2809,Critical,monthly_statistics
+BSSN Report (Structured),2023-05,SQL Injection,Transportasi,1514,Critical,monthly_statistics
+BSSN Report (Structured),2023-05,Man-in-the-Middle,Transportasi,1303,Critical,monthly_statistics
+BSSN Report (Structured),2023-05,Social Engineering,Energi,2106,Low,monthly_statistics
+BSSN Report (Structured),2023-05,Malware,Media,1855,Medium,monthly_statistics
+BSSN Report (Structured),2023-05,Ransomware,Pendidikan,3170,Medium,monthly_statistics
+BSSN Report (Structured),2023-05,Phishing,Perbankan & Keuangan,1547,Critical,monthly_statistics
+BSSN Report (Structured),2023-05,Trojan,Pemerintahan,1193,Medium,monthly_statistics
+BSSN Report (Structured),2023-05,Spyware,Pemerintahan,2188,High,monthly_statistics
+BSSN Report (Structured),2023-05,APT (Advanced Persistent Threat),Manufaktur,1656,Low,monthly_statistics
+BSSN Report (Structured),2023-05,DDoS,Energi,2122,Low,monthly_statistics
+BSSN Report (Structured),2023-05,SQL Injection,Pemerintahan,712,Medium,monthly_statistics
+BSSN Report (Structured),2023-05,Man-in-the-Middle,Media,3671,High,monthly_statistics
+BSSN Report (Structured),2023-05,Social Engineering,Manufaktur,1546,High,monthly_statistics
+BSSN Report (Structured),2023-06,Malware,Telekomunikasi,1244,Critical,monthly_statistics
+BSSN Report (Structured),2023-06,Ransomware,Telekomunikasi,726,High,monthly_statistics
+BSSN Report (Structured),2023-06,Phishing,Telekomunikasi,3403,High,monthly_statistics
+BSSN Report (Structured),2023-06,Trojan,Transportasi,1953,High,monthly_statistics
+BSSN Report (Structured),2023-06,Spyware,Energi,2475,Low,monthly_statistics
+BSSN Report (Structured),2023-06,APT (Advanced Persistent Threat),Manufaktur,3373,Medium,monthly_statistics
+BSSN Report (Structured),2023-06,DDoS,Pertahanan,2190,Critical,monthly_statistics
+BSSN Report (Structured),2023-06,SQL Injection,Perbankan & Keuangan,2746,Critical,monthly_statistics
+BSSN Report (Structured),2023-06,Man-in-the-Middle,Media,3213,Critical,monthly_statistics
+BSSN Report (Structured),2023-06,Social Engineering,Telekomunikasi,2645,Critical,monthly_statistics
+BSSN Report (Structured),2023-07,Malware,Pemerintahan,680,Critical,monthly_statistics
+BSSN Report (Structured),2023-07,Ransomware,Retail & E-commerce,1327,Low,monthly_statistics
+BSSN Report (Structured),2023-07,Phishing,Perbankan & Keuangan,1728,Critical,monthly_statistics
+BSSN Report (Structured),2023-07,Trojan,Manufaktur,2816,Low,monthly_statistics
+BSSN Report (Structured),2023-07,Spyware,Retail & E-commerce,696,Critical,monthly_statistics
+BSSN Report (Structured),2023-07,APT (Advanced Persistent Threat),Energi,3823,High,monthly_statistics
+BSSN Report (Structured),2023-07,DDoS,Pertahanan,2824,Critical,monthly_statistics
+BSSN Report (Structured),2023-07,SQL Injection,Transportasi,3894,Low,monthly_statistics
+BSSN Report (Structured),2023-07,Man-in-the-Middle,Energi,765,Medium,monthly_statistics
+BSSN Report (Structured),2023-07,Social Engineering,Perbankan & Keuangan,3406,Critical,monthly_statistics
+BSSN Report (Structured),2023-08,Malware,Energi,898,High,monthly_statistics
+BSSN Report (Structured),2023-08,Ransomware,Media,2014,Critical,monthly_statistics
+BSSN Report (Structured),2023-08,Phishing,Kesehatan,845,Low,monthly_statistics
+BSSN Report (Structured),2023-08,Trojan,Kesehatan,1058,High,monthly_statistics
+BSSN Report (Structured),2023-08,Spyware,Media,2525,Critical,monthly_statistics
+BSSN Report (Structured),2023-08,APT (Advanced Persistent Threat),Media,2906,Medium,monthly_statistics
+BSSN Report (Structured),2023-08,DDoS,Media,2325,Critical,monthly_statistics
+BSSN Report (Structured),2023-08,SQL Injection,Pertahanan,2821,Low,monthly_statistics
+BSSN Report (Structured),2023-08,Man-in-the-Middle,Pendidikan,2737,Medium,monthly_statistics
+BSSN Report (Structured),2023-08,Social Engineering,Kesehatan,3613,High,monthly_statistics
+BSSN Report (Structured),2023-09,Malware,Kesehatan,793,Critical,monthly_statistics
+BSSN Report (Structured),2023-09,Ransomware,Kesehatan,1122,High,monthly_statistics
+BSSN Report (Structured),2023-09,Phishing,Transportasi,2704,Low,monthly_statistics
+BSSN Report (Structured),2023-09,Trojan,Pemerintahan,2240,High,monthly_statistics
+BSSN Report (Structured),2023-09,Spyware,Telekomunikasi,2012,Medium,monthly_statistics
+BSSN Report (Structured),2023-09,APT (Advanced Persistent Threat),Pendidikan,909,Medium,monthly_statistics
+BSSN Report (Structured),2023-09,DDoS,Energi,2051,High,monthly_statistics
+BSSN Report (Structured),2023-09,SQL Injection,Pertahanan,3427,Low,monthly_statistics
+BSSN Report (Structured),2023-09,Man-in-the-Middle,Kesehatan,2045,High,monthly_statistics
+BSSN Report (Structured),2023-09,Social Engineering,Media,1928,Medium,monthly_statistics
+BSSN Report (Structured),2023-10,Malware,Pendidikan,2077,High,monthly_statistics
+BSSN Report (Structured),2023-10,Ransomware,Energi,2613,Low,monthly_statistics
+BSSN Report (Structured),2023-10,Phishing,Media,1968,Medium,monthly_statistics
+BSSN Report (Structured),2023-10,Trojan,Pemerintahan,4054,Medium,monthly_statistics
+BSSN Report (Structured),2023-10,Spyware,Manufaktur,3439,Medium,monthly_statistics
+BSSN Report (Structured),2023-10,APT (Advanced Persistent Threat),Manufaktur,1414,Critical,monthly_statistics
+BSSN Report (Structured),2023-10,DDoS,Retail & E-commerce,1500,Low,monthly_statistics
+BSSN Report (Structured),2023-10,SQL Injection,Kesehatan,3039,Critical,monthly_statistics
+BSSN Report (Structured),2023-10,Man-in-the-Middle,Pemerintahan,1615,Critical,monthly_statistics
+BSSN Report (Structured),2023-10,Social Engineering,Telekomunikasi,2214,Low,monthly_statistics
+BSSN Report (Structured),2023-11,Malware,Pertahanan,4040,Critical,monthly_statistics
+BSSN Report (Structured),2023-11,Ransomware,Perbankan & Keuangan,3234,High,monthly_statistics
+BSSN Report (Structured),2023-11,Phishing,Retail & E-commerce,3101,Critical,monthly_statistics
+BSSN Report (Structured),2023-11,Trojan,Kesehatan,3907,High,monthly_statistics
+BSSN Report (Structured),2023-11,Spyware,Pendidikan,1367,Low,monthly_statistics
+BSSN Report (Structured),2023-11,APT (Advanced Persistent Threat),Retail & E-commerce,1470,Low,monthly_statistics
+BSSN Report (Structured),2023-11,DDoS,Retail & E-commerce,1325,High,monthly_statistics
+BSSN Report (Structured),2023-11,SQL Injection,Media,3496,Low,monthly_statistics
+BSSN Report (Structured),2023-11,Man-in-the-Middle,Pendidikan,976,High,monthly_statistics
+BSSN Report (Structured),2023-11,Social Engineering,Energi,4073,Low,monthly_statistics
+BSSN Report (Structured),2023-12,Malware,Media,3486,High,monthly_statistics
+BSSN Report (Structured),2023-12,Ransomware,Media,4392,Low,monthly_statistics
+BSSN Report (Structured),2023-12,Phishing,Kesehatan,3200,High,monthly_statistics
+BSSN Report (Structured),2023-12,Trojan,Telekomunikasi,3718,High,monthly_statistics
+BSSN Report (Structured),2023-12,Spyware,Pemerintahan,1545,High,monthly_statistics
+BSSN Report (Structured),2023-12,APT (Advanced Persistent Threat),Media,4705,Critical,monthly_statistics
+BSSN Report (Structured),2023-12,DDoS,Energi,4123,Critical,monthly_statistics
+BSSN Report (Structured),2023-12,SQL Injection,Energi,2502,Low,monthly_statistics
+BSSN Report (Structured),2023-12,Man-in-the-Middle,Perbankan & Keuangan,2987,Medium,monthly_statistics
+BSSN Report (Structured),2023-12,Social Engineering,Pendidikan,3129,High,monthly_statistics
+BSSN Report (Structured),2024-01,Malware,Kesehatan,3983,High,monthly_statistics
+BSSN Report (Structured),2024-01,Ransomware,Energi,3918,Critical,monthly_statistics
+BSSN Report (Structured),2024-01,Phishing,Media,2597,Medium,monthly_statistics
+BSSN Report (Structured),2024-01,Trojan,Manufaktur,3045,Critical,monthly_statistics
+BSSN Report (Structured),2024-01,Spyware,Media,3143,High,monthly_statistics
+BSSN Report (Structured),2024-01,APT (Advanced Persistent Threat),Retail & E-commerce,3539,High,monthly_statistics
+BSSN Report (Structured),2024-01,DDoS,Media,4131,Low,monthly_statistics
+BSSN Report (Structured),2024-01,SQL Injection,Pertahanan,3615,Low,monthly_statistics
+BSSN Report (Structured),2024-01,Man-in-the-Middle,Kesehatan,2161,Low,monthly_statistics
+BSSN Report (Structured),2024-01,Social Engineering,Manufaktur,4710,Low,monthly_statistics
+BSSN Report (Structured),2024-02,Malware,Pemerintahan,1514,Medium,monthly_statistics
+BSSN Report (Structured),2024-02,Ransomware,Media,1043,Critical,monthly_statistics
+BSSN Report (Structured),2024-02,Phishing,Telekomunikasi,2264,Medium,monthly_statistics
+BSSN Report (Structured),2024-02,Trojan,Telekomunikasi,3308,Low,monthly_statistics
+BSSN Report (Structured),2024-02,Spyware,Manufaktur,2459,Low,monthly_statistics
+BSSN Report (Structured),2024-02,APT (Advanced Persistent Threat),Media,1968,Low,monthly_statistics
+BSSN Report (Structured),2024-02,DDoS,Telekomunikasi,3479,High,monthly_statistics
+BSSN Report (Structured),2024-02,SQL Injection,Telekomunikasi,1735,Critical,monthly_statistics
+BSSN Report (Structured),2024-02,Man-in-the-Middle,Energi,3469,High,monthly_statistics
+BSSN Report (Structured),2024-02,Social Engineering,Telekomunikasi,4173,Low,monthly_statistics
+BSSN Report (Structured),2024-03,Malware,Energi,2073,Critical,monthly_statistics
+BSSN Report (Structured),2024-03,Ransomware,Manufaktur,2857,High,monthly_statistics
+BSSN Report (Structured),2024-03,Phishing,Energi,5020,Critical,monthly_statistics
+BSSN Report (Structured),2024-03,Trojan,Transportasi,2194,Medium,monthly_statistics
+BSSN Report (Structured),2024-03,Spyware,Telekomunikasi,4123,Low,monthly_statistics
+BSSN Report (Structured),2024-03,APT (Advanced Persistent Threat),Perbankan & Keuangan,3365,Low,monthly_statistics
+BSSN Report (Structured),2024-03,DDoS,Kesehatan,1403,Medium,monthly_statistics
+BSSN Report (Structured),2024-03,SQL Injection,Media,3612,Medium,monthly_statistics
+BSSN Report (Structured),2024-03,Man-in-the-Middle,Transportasi,3962,Medium,monthly_statistics
+BSSN Report (Structured),2024-03,Social Engineering,Pendidikan,1820,Critical,monthly_statistics
+BSSN Report (Structured),2024-04,Malware,Pemerintahan,5374,High,monthly_statistics
+BSSN Report (Structured),2024-04,Ransomware,Pendidikan,5335,Low,monthly_statistics
+BSSN Report (Structured),2024-04,Phishing,Manufaktur,2896,Critical,monthly_statistics
+BSSN Report (Structured),2024-04,Trojan,Pemerintahan,3645,Medium,monthly_statistics
+BSSN Report (Structured),2024-04,Spyware,Retail & E-commerce,4944,High,monthly_statistics
+BSSN Report (Structured),2024-04,APT (Advanced Persistent Threat),Perbankan & Keuangan,3396,Critical,monthly_statistics
+BSSN Report (Structured),2024-04,DDoS,Media,3834,High,monthly_statistics
+BSSN Report (Structured),2024-04,SQL Injection,Perbankan & Keuangan,2428,Low,monthly_statistics
+BSSN Report (Structured),2024-04,Man-in-the-Middle,Pemerintahan,4192,Medium,monthly_statistics
+BSSN Report (Structured),2024-04,Social Engineering,Media,1929,Critical,monthly_statistics
+BSSN Report (Structured),2024-05,Malware,Media,4615,Low,monthly_statistics
+BSSN Report (Structured),2024-05,Ransomware,Energi,4168,Low,monthly_statistics
+BSSN Report (Structured),2024-05,Phishing,Pemerintahan,2728,Medium,monthly_statistics
+BSSN Report (Structured),2024-05,Trojan,Pertahanan,1011,Low,monthly_statistics
+BSSN Report (Structured),2024-05,Spyware,Manufaktur,5514,Critical,monthly_statistics
+BSSN Report (Structured),2024-05,APT (Advanced Persistent Threat),Kesehatan,4536,Medium,monthly_statistics
+BSSN Report (Structured),2024-05,DDoS,Pendidikan,3620,Low,monthly_statistics
+BSSN Report (Structured),2024-05,SQL Injection,Telekomunikasi,1679,Low,monthly_statistics
+BSSN Report (Structured),2024-05,Man-in-the-Middle,Telekomunikasi,1633,Low,monthly_statistics
+BSSN Report (Structured),2024-05,Social Engineering,Kesehatan,5106,Low,monthly_statistics
+BSSN Report (Structured),2024-06,Malware,Pendidikan,3687,Medium,monthly_statistics
+BSSN Report (Structured),2024-06,Ransomware,Telekomunikasi,2813,Critical,monthly_statistics
+BSSN Report (Structured),2024-06,Phishing,Energi,3007,High,monthly_statistics
+BSSN Report (Structured),2024-06,Trojan,Telekomunikasi,4677,Medium,monthly_statistics
+BSSN Report (Structured),2024-06,Spyware,Telekomunikasi,4301,Medium,monthly_statistics
+BSSN Report (Structured),2024-06,APT (Advanced Persistent Threat),Pendidikan,2515,Medium,monthly_statistics
+BSSN Report (Structured),2024-06,DDoS,Kesehatan,1362,Low,monthly_statistics
+BSSN Report (Structured),2024-06,SQL Injection,Telekomunikasi,1725,High,monthly_statistics
+BSSN Report (Structured),2024-06,Man-in-the-Middle,Kesehatan,3777,Critical,monthly_statistics
+BSSN Report (Structured),2024-06,Social Engineering,Retail & E-commerce,4402,Low,monthly_statistics
+BSSN Report (Structured),2024-07,Malware,Pertahanan,3783,Low,monthly_statistics
+BSSN Report (Structured),2024-07,Ransomware,Energi,1230,Critical,monthly_statistics
+BSSN Report (Structured),2024-07,Phishing,Retail & E-commerce,4869,Low,monthly_statistics
+BSSN Report (Structured),2024-07,Trojan,Manufaktur,1101,Low,monthly_statistics
+BSSN Report (Structured),2024-07,Spyware,Pendidikan,4882,Critical,monthly_statistics
+BSSN Report (Structured),2024-07,APT (Advanced Persistent Threat),Pemerintahan,3441,Low,monthly_statistics
+BSSN Report (Structured),2024-07,DDoS,Manufaktur,2804,Low,monthly_statistics
+BSSN Report (Structured),2024-07,SQL Injection,Retail & E-commerce,1378,Critical,monthly_statistics
+BSSN Report (Structured),2024-07,Man-in-the-Middle,Telekomunikasi,3523,High,monthly_statistics
+BSSN Report (Structured),2024-07,Social Engineering,Manufaktur,3359,Critical,monthly_statistics
+BSSN Report (Structured),2024-08,Malware,Energi,4516,Medium,monthly_statistics
+BSSN Report (Structured),2024-08,Ransomware,Retail & E-commerce,3984,Critical,monthly_statistics
+BSSN Report (Structured),2024-08,Phishing,Media,2514,High,monthly_statistics
+BSSN Report (Structured),2024-08,Trojan,Media,4322,Medium,monthly_statistics
+BSSN Report (Structured),2024-08,Spyware,Energi,4774,Low,monthly_statistics
+BSSN Report (Structured),2024-08,APT (Advanced Persistent Threat),Kesehatan,4228,Low,monthly_statistics
+BSSN Report (Structured),2024-08,DDoS,Pemerintahan,3586,Critical,monthly_statistics
+BSSN Report (Structured),2024-08,SQL Injection,Energi,3580,Low,monthly_statistics
+BSSN Report (Structured),2024-08,Man-in-the-Middle,Retail & E-commerce,2652,Low,monthly_statistics
+BSSN Report (Structured),2024-08,Social Engineering,Pendidikan,5118,Low,monthly_statistics
+BSSN Report (Structured),2024-09,Malware,Manufaktur,5580,High,monthly_statistics
+BSSN Report (Structured),2024-09,Ransomware,Telekomunikasi,2304,Low,monthly_statistics
+BSSN Report (Structured),2024-09,Phishing,Pendidikan,4594,Medium,monthly_statistics
+BSSN Report (Structured),2024-09,Trojan,Transportasi,3519,High,monthly_statistics
+BSSN Report (Structured),2024-09,Spyware,Media,4856,Low,monthly_statistics
+BSSN Report (Structured),2024-09,APT (Advanced Persistent Threat),Perbankan & Keuangan,2138,High,monthly_statistics
+BSSN Report (Structured),2024-09,DDoS,Pertahanan,2337,High,monthly_statistics
+BSSN Report (Structured),2024-09,SQL Injection,Telekomunikasi,1115,Medium,monthly_statistics
+BSSN Report (Structured),2024-09,Man-in-the-Middle,Pertahanan,2197,Critical,monthly_statistics
+BSSN Report (Structured),2024-09,Social Engineering,Energi,4555,Low,monthly_statistics
+BSSN Report (Structured),2024-10,Malware,Retail & E-commerce,2356,Low,monthly_statistics
+BSSN Report (Structured),2024-10,Ransomware,Pendidikan,5806,Medium,monthly_statistics
+BSSN Report (Structured),2024-10,Phishing,Pertahanan,1659,High,monthly_statistics
+BSSN Report (Structured),2024-10,Trojan,Manufaktur,1360,Low,monthly_statistics
+BSSN Report (Structured),2024-10,Spyware,Media,1314,Low,monthly_statistics
+BSSN Report (Structured),2024-10,APT (Advanced Persistent Threat),Manufaktur,2587,Medium,monthly_statistics
+BSSN Report (Structured),2024-10,DDoS,Perbankan & Keuangan,2601,High,monthly_statistics
+BSSN Report (Structured),2024-10,SQL Injection,Energi,1455,Medium,monthly_statistics
+BSSN Report (Structured),2024-10,Man-in-the-Middle,Pertahanan,6287,Medium,monthly_statistics
+BSSN Report (Structured),2024-10,Social Engineering,Pendidikan,4382,High,monthly_statistics
+BSSN Report (Structured),2024-11,Malware,Retail & E-commerce,3246,Low,monthly_statistics
+BSSN Report (Structured),2024-11,Ransomware,Energi,5067,High,monthly_statistics
+BSSN Report (Structured),2024-11,Phishing,Retail & E-commerce,1393,Medium,monthly_statistics
+BSSN Report (Structured),2024-11,Trojan,Energi,3973,Critical,monthly_statistics
+BSSN Report (Structured),2024-11,Spyware,Energi,6299,Low,monthly_statistics
+BSSN Report (Structured),2024-11,APT (Advanced Persistent Threat),Retail & E-commerce,5327,Low,monthly_statistics
+BSSN Report (Structured),2024-11,DDoS,Kesehatan,3018,Critical,monthly_statistics
+BSSN Report (Structured),2024-11,SQL Injection,Manufaktur,5738,Low,monthly_statistics
+BSSN Report (Structured),2024-11,Man-in-the-Middle,Pemerintahan,4542,High,monthly_statistics
+BSSN Report (Structured),2024-11,Social Engineering,Transportasi,4753,High,monthly_statistics

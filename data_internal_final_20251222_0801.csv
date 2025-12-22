@@ -1,0 +1,289 @@
+date,year,month,attack_type,sector,province,incident_count,financial_loss_million_idr,severity,detection_rate_percent,avg_response_time_hours,source,data_type
+2023-01-01,2023,1,Phishing,Telekomunikasi,Jawa Timur,898,8082,Medium,73,27.29,BSSN/Kominfo Statistics,internal_structured
+2023-01-01,2023,1,Ransomware,Transportasi,DKI Jakarta,522,6786,Medium,78,39.27,BSSN/Kominfo Statistics,internal_structured
+2023-01-01,2023,1,Malware,Pemerintahan,DKI Jakarta,2707,75796,Medium,78,49.86,BSSN/Kominfo Statistics,internal_structured
+2023-01-01,2023,1,DDoS,Teknologi Informasi,DKI Jakarta,528,20592,Low,66,113.05,BSSN/Kominfo Statistics,internal_structured
+2023-01-01,2023,1,Data Breach,Teknologi Informasi,Jawa Tengah,353,6001,High,61,13.99,BSSN/Kominfo Statistics,internal_structured
+2023-01-01,2023,1,Social Engineering,Teknologi Informasi,Kalimantan Timur,1029,15435,High,47,18.84,BSSN/Kominfo Statistics,internal_structured
+2023-01-01,2023,1,Scam/Fraud,Teknologi Informasi,Jawa Barat,3127,118826,Medium,50,70.36,BSSN/Kominfo Statistics,internal_structured
+2023-01-01,2023,1,SQL Injection,Manufaktur,Lainnya,233,8155,Medium,74,68.49,BSSN/Kominfo Statistics,internal_structured
+2023-01-01,2023,1,Brute Force,Pemerintahan,Banten,358,9308,Medium,81,39.15,BSSN/Kominfo Statistics,internal_structured
+2023-01-01,2023,1,APT,Pemerintahan,Jawa Tengah,101,1313,Low,84,154.88,BSSN/Kominfo Statistics,internal_structured
+2023-01-01,2023,1,Cryptojacking,Perbankan & Keuangan,Sumatera Utara,328,3608,High,71,19.75,BSSN/Kominfo Statistics,internal_structured
+2023-01-01,2023,1,Zero-Day Exploit,Pemerintahan,Bali,46,1380,Critical,82,5.23,BSSN/Kominfo Statistics,internal_structured
+2023-01-31,2023,1,Phishing,Media,Jawa Timur,1487,25279,Low,84,82.12,BSSN/Kominfo Statistics,internal_structured
+2023-01-31,2023,1,Ransomware,Telekomunikasi,Sumatera Utara,540,15660,Low,52,164.94,BSSN/Kominfo Statistics,internal_structured
+2023-01-31,2023,1,Malware,Teknologi Informasi,Sulawesi Selatan,1259,32734,High,60,16.98,BSSN/Kominfo Statistics,internal_structured
+2023-01-31,2023,1,DDoS,Perbankan & Keuangan,Jawa Timur,244,2928,Critical,63,2.53,BSSN/Kominfo Statistics,internal_structured
+2023-01-31,2023,1,Data Breach,Pemerintahan,Jawa Timur,472,8496,Low,71,131.01,BSSN/Kominfo Statistics,internal_structured
+2023-01-31,2023,1,Social Engineering,Energi,Jawa Timur,987,12831,Critical,66,4.29,BSSN/Kominfo Statistics,internal_structured
+2023-01-31,2023,1,Scam/Fraud,Telekomunikasi,Jawa Barat,1685,20220,Medium,78,49.37,BSSN/Kominfo Statistics,internal_structured
+2023-01-31,2023,1,SQL Injection,Pemerintahan,DKI Jakarta,233,11184,Low,59,73.19,BSSN/Kominfo Statistics,internal_structured
+2023-01-31,2023,1,Brute Force,Teknologi Informasi,Bali,694,14574,High,69,20.81,BSSN/Kominfo Statistics,internal_structured
+2023-01-31,2023,1,APT,Manufaktur,Jawa Timur,193,4439,Medium,47,55.96,BSSN/Kominfo Statistics,internal_structured
+2023-01-31,2023,1,Cryptojacking,Kesehatan,Lainnya,417,17931,Medium,80,57.2,BSSN/Kominfo Statistics,internal_structured
+2023-01-31,2023,1,Zero-Day Exploit,Transportasi,Lainnya,91,1365,Low,65,114.56,BSSN/Kominfo Statistics,internal_structured
+2023-03-02,2023,3,Phishing,Perbankan & Keuangan,Jawa Timur,1965,29475,Critical,85,2.0,BSSN/Kominfo Statistics,internal_structured
+2023-03-02,2023,3,Ransomware,Kesehatan,Sumatera Utara,792,38808,Low,70,108.08,BSSN/Kominfo Statistics,internal_structured
+2023-03-02,2023,3,Malware,Teknologi Informasi,Banten,1716,36036,Low,59,85.18,BSSN/Kominfo Statistics,internal_structured
+2023-03-02,2023,3,DDoS,Manufaktur,Sulawesi Selatan,595,10710,High,69,11.08,BSSN/Kominfo Statistics,internal_structured
+2023-03-02,2023,3,Data Breach,Pendidikan,Kalimantan Timur,275,4675,Critical,56,2.98,BSSN/Kominfo Statistics,internal_structured
+2023-03-02,2023,3,Social Engineering,Pemerintahan,Jawa Timur,1585,12680,Medium,73,27.0,BSSN/Kominfo Statistics,internal_structured
+2023-03-02,2023,3,Scam/Fraud,Manufaktur,DKI Jakarta,2945,114855,Medium,52,28.62,BSSN/Kominfo Statistics,internal_structured
+2023-03-02,2023,3,SQL Injection,Pendidikan,DKI Jakarta,319,11165,Medium,40,65.66,BSSN/Kominfo Statistics,internal_structured
+2023-03-02,2023,3,Brute Force,Pendidikan,Lainnya,931,13965,Medium,76,40.91,BSSN/Kominfo Statistics,internal_structured
+2023-03-02,2023,3,APT,Perbankan & Keuangan,Bali,138,2622,Medium,45,50.12,BSSN/Kominfo Statistics,internal_structured
+2023-03-02,2023,3,Cryptojacking,Retail & E-commerce,DKI Jakarta,144,2448,Low,80,161.93,BSSN/Kominfo Statistics,internal_structured
+2023-03-02,2023,3,Zero-Day Exploit,Pemerintahan,Kalimantan Timur,27,1080,Critical,40,4.71,BSSN/Kominfo Statistics,internal_structured
+2023-04-01,2023,4,Phishing,Energi,DKI Jakarta,2015,48360,Critical,42,5.26,BSSN/Kominfo Statistics,internal_structured
+2023-04-01,2023,4,Ransomware,Media,Jawa Barat,925,41625,Low,50,80.42,BSSN/Kominfo Statistics,internal_structured
+2023-04-01,2023,4,Malware,Teknologi Informasi,DKI Jakarta,1155,48510,Medium,40,71.9,BSSN/Kominfo Statistics,internal_structured
+2023-04-01,2023,4,DDoS,Kesehatan,DKI Jakarta,186,7068,Medium,57,52.25,BSSN/Kominfo Statistics,internal_structured
+2023-04-01,2023,4,Data Breach,Pendidikan,DKI Jakarta,494,9386,High,53,13.22,BSSN/Kominfo Statistics,internal_structured
+2023-04-01,2023,4,Social Engineering,Pendidikan,Sulawesi Selatan,1440,41760,Medium,55,58.15,BSSN/Kominfo Statistics,internal_structured
+2023-04-01,2023,4,Scam/Fraud,Pemerintahan,DKI Jakarta,2646,108486,Low,54,167.18,BSSN/Kominfo Statistics,internal_structured
+2023-04-01,2023,4,SQL Injection,Transportasi,Jawa Tengah,336,8064,Medium,81,32.18,BSSN/Kominfo Statistics,internal_structured
+2023-04-01,2023,4,Brute Force,Transportasi,Jawa Tengah,866,5196,Medium,74,67.5,BSSN/Kominfo Statistics,internal_structured
+2023-04-01,2023,4,APT,Energi,DKI Jakarta,98,4410,Critical,60,5.69,BSSN/Kominfo Statistics,internal_structured
+2023-04-01,2023,4,Cryptojacking,Manufaktur,Jawa Barat,305,9455,Medium,75,70.76,BSSN/Kominfo Statistics,internal_structured
+2023-04-01,2023,4,Zero-Day Exploit,Teknologi Informasi,DKI Jakarta,94,1974,Low,79,95.22,BSSN/Kominfo Statistics,internal_structured
+2023-05-01,2023,5,Phishing,Pendidikan,DKI Jakarta,1935,92880,High,49,7.36,BSSN/Kominfo Statistics,internal_structured
+2023-05-01,2023,5,Ransomware,Telekomunikasi,Banten,1034,5170,Medium,70,24.26,BSSN/Kominfo Statistics,internal_structured
+2023-05-01,2023,5,Malware,Energi,DKI Jakarta,1886,37720,Low,55,76.58,BSSN/Kominfo Statistics,internal_structured
+2023-05-01,2023,5,DDoS,Pendidikan,DKI Jakarta,243,8262,Medium,62,59.21,BSSN/Kominfo Statistics,internal_structured
+2023-05-01,2023,5,Data Breach,Pemerintahan,Lainnya,579,23739,Low,85,88.74,BSSN/Kominfo Statistics,internal_structured
+2023-05-01,2023,5,Social Engineering,Energi,Lainnya,1564,73508,Medium,83,41.63,BSSN/Kominfo Statistics,internal_structured
+2023-05-01,2023,5,Scam/Fraud,Perbankan & Keuangan,DKI Jakarta,2573,120931,Critical,68,1.71,BSSN/Kominfo Statistics,internal_structured
+2023-05-01,2023,5,SQL Injection,Teknologi Informasi,Bali,229,8244,Medium,60,70.57,BSSN/Kominfo Statistics,internal_structured
+2023-05-01,2023,5,Brute Force,Media,DKI Jakarta,467,17279,Medium,73,29.53,BSSN/Kominfo Statistics,internal_structured
+2023-05-01,2023,5,APT,Pemerintahan,Jawa Tengah,56,1904,Critical,66,3.92,BSSN/Kominfo Statistics,internal_structured
+2023-05-01,2023,5,Cryptojacking,Kesehatan,Bali,425,19975,Medium,73,66.68,BSSN/Kominfo Statistics,internal_structured
+2023-05-01,2023,5,Zero-Day Exploit,Energi,Sumatera Utara,74,3182,Low,79,80.05,BSSN/Kominfo Statistics,internal_structured
+2023-05-31,2023,5,Phishing,Kesehatan,DKI Jakarta,2436,31668,Low,51,117.29,BSSN/Kominfo Statistics,internal_structured
+2023-05-31,2023,5,Ransomware,Energi,Jawa Tengah,1148,51660,Medium,41,40.25,BSSN/Kominfo Statistics,internal_structured
+2023-05-31,2023,5,Malware,Kesehatan,DKI Jakarta,1742,50518,Medium,57,53.08,BSSN/Kominfo Statistics,internal_structured
+2023-05-31,2023,5,DDoS,Manufaktur,Banten,936,41184,Low,59,157.39,BSSN/Kominfo Statistics,internal_structured
+2023-05-31,2023,5,Data Breach,Kesehatan,DKI Jakarta,323,9044,Low,59,157.63,BSSN/Kominfo Statistics,internal_structured
+2023-05-31,2023,5,Social Engineering,Perbankan & Keuangan,Banten,800,6400,Medium,85,35.25,BSSN/Kominfo Statistics,internal_structured
+2023-05-31,2023,5,Scam/Fraud,Media,Jawa Barat,2487,87045,Medium,72,64.3,BSSN/Kominfo Statistics,internal_structured
+2023-05-31,2023,5,SQL Injection,Transportasi,Jawa Tengah,360,12240,Medium,60,44.9,BSSN/Kominfo Statistics,internal_structured
+2023-05-31,2023,5,Brute Force,Retail & E-commerce,Sulawesi Selatan,801,6408,Low,85,106.69,BSSN/Kominfo Statistics,internal_structured
+2023-05-31,2023,5,APT,Energi,Banten,197,6698,High,56,7.79,BSSN/Kominfo Statistics,internal_structured
+2023-05-31,2023,5,Cryptojacking,Pemerintahan,DKI Jakarta,399,15960,High,49,22.84,BSSN/Kominfo Statistics,internal_structured
+2023-05-31,2023,5,Zero-Day Exploit,Telekomunikasi,Sumatera Utara,33,957,Medium,76,49.41,BSSN/Kominfo Statistics,internal_structured
+2023-06-30,2023,6,Phishing,Manufaktur,Jawa Tengah,2316,16212,Low,60,119.19,BSSN/Kominfo Statistics,internal_structured
+2023-06-30,2023,6,Ransomware,Retail & E-commerce,DKI Jakarta,542,27100,Medium,70,58.04,BSSN/Kominfo Statistics,internal_structured
+2023-06-30,2023,6,Malware,Retail & E-commerce,Sumatera Utara,2564,107688,Medium,45,27.71,BSSN/Kominfo Statistics,internal_structured
+2023-06-30,2023,6,DDoS,Manufaktur,DKI Jakarta,266,6650,Low,51,106.35,BSSN/Kominfo Statistics,internal_structured
+2023-06-30,2023,6,Data Breach,Pemerintahan,Bali,246,6150,Low,63,159.32,BSSN/Kominfo Statistics,internal_structured
+2023-06-30,2023,6,Social Engineering,Perbankan & Keuangan,Jawa Tengah,1628,26048,High,65,8.26,BSSN/Kominfo Statistics,internal_structured
+2023-06-30,2023,6,Scam/Fraud,Retail & E-commerce,Jawa Tengah,4481,156835,Medium,81,39.19,BSSN/Kominfo Statistics,internal_structured
+2023-06-30,2023,6,SQL Injection,Perbankan & Keuangan,Jawa Timur,368,11776,Critical,62,4.73,BSSN/Kominfo Statistics,internal_structured
+2023-06-30,2023,6,Brute Force,Transportasi,Jawa Barat,709,9217,High,54,15.01,BSSN/Kominfo Statistics,internal_structured
+2023-06-30,2023,6,APT,Telekomunikasi,Jawa Barat,101,1414,Low,63,103.99,BSSN/Kominfo Statistics,internal_structured
+2023-06-30,2023,6,Cryptojacking,Energi,Jawa Barat,133,6384,Critical,83,2.12,BSSN/Kominfo Statistics,internal_structured
+2023-06-30,2023,6,Zero-Day Exploit,Perbankan & Keuangan,DKI Jakarta,38,1140,Low,84,94.79,BSSN/Kominfo Statistics,internal_structured
+2023-07-30,2023,7,Phishing,Kesehatan,Jawa Timur,2709,83979,Medium,40,30.16,BSSN/Kominfo Statistics,internal_structured
+2023-07-30,2023,7,Ransomware,Pendidikan,Jawa Timur,739,11085,High,44,13.83,BSSN/Kominfo Statistics,internal_structured
+2023-07-30,2023,7,Malware,Perbankan & Keuangan,Lainnya,2307,78438,Critical,73,6.0,BSSN/Kominfo Statistics,internal_structured
+2023-07-30,2023,7,DDoS,Transportasi,Jawa Timur,514,22102,Medium,59,26.62,BSSN/Kominfo Statistics,internal_structured
+2023-07-30,2023,7,Data Breach,Telekomunikasi,DKI Jakarta,400,13600,Medium,40,44.22,BSSN/Kominfo Statistics,internal_structured
+2023-07-30,2023,7,Social Engineering,Kesehatan,Jawa Timur,824,9064,Low,59,109.27,BSSN/Kominfo Statistics,internal_structured
+2023-07-30,2023,7,Scam/Fraud,Teknologi Informasi,DKI Jakarta,3924,70632,Low,62,82.62,BSSN/Kominfo Statistics,internal_structured
+2023-07-30,2023,7,SQL Injection,Retail & E-commerce,Jawa Tengah,392,12544,Critical,45,2.27,BSSN/Kominfo Statistics,internal_structured
+2023-07-30,2023,7,Brute Force,Transportasi,Jawa Barat,476,15232,Medium,43,68.28,BSSN/Kominfo Statistics,internal_structured
+2023-07-30,2023,7,APT,Kesehatan,Jawa Timur,123,4551,Medium,64,35.25,BSSN/Kominfo Statistics,internal_structured
+2023-07-30,2023,7,Cryptojacking,Manufaktur,DKI Jakarta,428,11556,Medium,73,61.2,BSSN/Kominfo Statistics,internal_structured
+2023-07-30,2023,7,Zero-Day Exploit,Kesehatan,Jawa Tengah,61,1281,Medium,73,29.74,BSSN/Kominfo Statistics,internal_structured
+2023-08-29,2023,8,Phishing,Retail & E-commerce,Lainnya,1789,66193,Medium,54,46.89,BSSN/Kominfo Statistics,internal_structured
+2023-08-29,2023,8,Ransomware,Retail & E-commerce,Jawa Timur,1127,20286,Low,63,105.71,BSSN/Kominfo Statistics,internal_structured
+2023-08-29,2023,8,Malware,Pendidikan,Lainnya,2406,72180,Low,81,84.07,BSSN/Kominfo Statistics,internal_structured
+2023-08-29,2023,8,DDoS,Teknologi Informasi,DKI Jakarta,447,7152,Medium,57,35.75,BSSN/Kominfo Statistics,internal_structured
+2023-08-29,2023,8,Data Breach,Transportasi,Jawa Tengah,334,16366,Low,42,105.06,BSSN/Kominfo Statistics,internal_structured
+2023-08-29,2023,8,Social Engineering,Teknologi Informasi,Bali,1143,46863,Low,60,84.31,BSSN/Kominfo Statistics,internal_structured
+2023-08-29,2023,8,Scam/Fraud,Kesehatan,Bali,4249,106225,Medium,82,31.75,BSSN/Kominfo Statistics,internal_structured
+2023-08-29,2023,8,SQL Injection,Kesehatan,Sulawesi Selatan,125,4250,Low,61,100.02,BSSN/Kominfo Statistics,internal_structured
+2023-08-29,2023,8,Brute Force,Transportasi,Kalimantan Timur,622,22392,Medium,75,59.3,BSSN/Kominfo Statistics,internal_structured
+2023-08-29,2023,8,APT,Retail & E-commerce,DKI Jakarta,168,4200,Medium,84,69.09,BSSN/Kominfo Statistics,internal_structured
+2023-08-29,2023,8,Cryptojacking,Pemerintahan,DKI Jakarta,195,6630,Medium,47,64.74,BSSN/Kominfo Statistics,internal_structured
+2023-08-29,2023,8,Zero-Day Exploit,Kesehatan,DKI Jakarta,32,736,Medium,50,54.95,BSSN/Kominfo Statistics,internal_structured
+2023-09-28,2023,9,Phishing,Media,Jawa Tengah,1407,61908,Medium,78,27.75,BSSN/Kominfo Statistics,internal_structured
+2023-09-28,2023,9,Ransomware,Retail & E-commerce,DKI Jakarta,694,18738,Medium,49,57.23,BSSN/Kominfo Statistics,internal_structured
+2023-09-28,2023,9,Malware,Teknologi Informasi,Jawa Tengah,2632,23688,Medium,47,63.07,BSSN/Kominfo Statistics,internal_structured
+2023-09-28,2023,9,DDoS,Telekomunikasi,Bali,689,22048,Low,42,95.93,BSSN/Kominfo Statistics,internal_structured
+2023-09-28,2023,9,Data Breach,Manufaktur,DKI Jakarta,438,4380,Medium,58,53.99,BSSN/Kominfo Statistics,internal_structured
+2023-09-28,2023,9,Social Engineering,Energi,Banten,1092,44772,Low,63,155.76,BSSN/Kominfo Statistics,internal_structured
+2023-09-28,2023,9,Scam/Fraud,Teknologi Informasi,Sulawesi Selatan,4556,95676,Low,48,125.03,BSSN/Kominfo Statistics,internal_structured
+2023-09-28,2023,9,SQL Injection,Energi,Bali,188,3196,Low,54,91.23,BSSN/Kominfo Statistics,internal_structured
+2023-09-28,2023,9,Brute Force,Pendidikan,Jawa Timur,767,13806,Medium,58,48.18,BSSN/Kominfo Statistics,internal_structured
+2023-09-28,2023,9,APT,Kesehatan,Jawa Barat,180,4140,Low,61,94.0,BSSN/Kominfo Statistics,internal_structured
+2023-09-28,2023,9,Cryptojacking,Transportasi,Jawa Tengah,632,24016,Medium,42,35.04,BSSN/Kominfo Statistics,internal_structured
+2023-09-28,2023,9,Zero-Day Exploit,Kesehatan,Jawa Timur,48,1920,Critical,72,5.6,BSSN/Kominfo Statistics,internal_structured
+2023-10-28,2023,10,Phishing,Retail & E-commerce,Kalimantan Timur,1717,63529,Medium,54,37.37,BSSN/Kominfo Statistics,internal_structured
+2023-10-28,2023,10,Ransomware,Retail & E-commerce,Jawa Tengah,698,33504,Medium,56,25.59,BSSN/Kominfo Statistics,internal_structured
+2023-10-28,2023,10,Malware,Manufaktur,Bali,2377,85572,Low,65,150.62,BSSN/Kominfo Statistics,internal_structured
+2023-10-28,2023,10,DDoS,Pendidikan,Jawa Timur,890,29370,Medium,70,71.03,BSSN/Kominfo Statistics,internal_structured
+2023-10-28,2023,10,Data Breach,Manufaktur,DKI Jakarta,612,29988,Low,47,72.57,BSSN/Kominfo Statistics,internal_structured
+2023-10-28,2023,10,Social Engineering,Retail & E-commerce,Bali,1079,7553,Low,51,88.97,BSSN/Kominfo Statistics,internal_structured
+2023-10-28,2023,10,Scam/Fraud,Transportasi,Jawa Timur,4505,139655,Medium,49,24.48,BSSN/Kominfo Statistics,internal_structured
+2023-10-28,2023,10,SQL Injection,Energi,DKI Jakarta,334,2672,Low,83,143.38,BSSN/Kominfo Statistics,internal_structured
+2023-10-28,2023,10,Brute Force,Pendidikan,Jawa Barat,403,8060,Medium,50,32.21,BSSN/Kominfo Statistics,internal_structured
+2023-10-28,2023,10,APT,Pendidikan,DKI Jakarta,56,1848,Low,67,88.08,BSSN/Kominfo Statistics,internal_structured
+2023-10-28,2023,10,Cryptojacking,Perbankan & Keuangan,Jawa Barat,282,4230,Medium,41,53.79,BSSN/Kominfo Statistics,internal_structured
+2023-10-28,2023,10,Zero-Day Exploit,Perbankan & Keuangan,DKI Jakarta,45,2025,Low,58,105.75,BSSN/Kominfo Statistics,internal_structured
+2023-11-27,2023,11,Phishing,Energi,Sulawesi Selatan,2072,74592,Low,51,129.42,BSSN/Kominfo Statistics,internal_structured
+2023-11-27,2023,11,Ransomware,Telekomunikasi,DKI Jakarta,715,8580,Low,82,162.62,BSSN/Kominfo Statistics,internal_structured
+2023-11-27,2023,11,Malware,Pemerintahan,Sulawesi Selatan,1542,77100,Low,84,165.42,BSSN/Kominfo Statistics,internal_structured
+2023-11-27,2023,11,DDoS,Manufaktur,Lainnya,513,19494,Medium,61,25.34,BSSN/Kominfo Statistics,internal_structured
+2023-11-27,2023,11,Data Breach,Perbankan & Keuangan,Sulawesi Selatan,494,19266,High,47,11.89,BSSN/Kominfo Statistics,internal_structured
+2023-11-27,2023,11,Social Engineering,Telekomunikasi,Kalimantan Timur,1222,59878,Medium,68,67.68,BSSN/Kominfo Statistics,internal_structured
+2023-11-27,2023,11,Scam/Fraud,Kesehatan,Sumatera Utara,2242,31388,Low,54,147.07,BSSN/Kominfo Statistics,internal_structured
+2023-11-27,2023,11,SQL Injection,Manufaktur,DKI Jakarta,240,5280,Medium,44,60.14,BSSN/Kominfo Statistics,internal_structured
+2023-11-27,2023,11,Brute Force,Perbankan & Keuangan,Banten,859,24911,Medium,79,44.49,BSSN/Kominfo Statistics,internal_structured
+2023-11-27,2023,11,APT,Kesehatan,Jawa Barat,76,2280,Medium,81,31.19,BSSN/Kominfo Statistics,internal_structured
+2023-11-27,2023,11,Cryptojacking,Perbankan & Keuangan,Jawa Barat,458,21526,Medium,82,63.47,BSSN/Kominfo Statistics,internal_structured
+2023-11-27,2023,11,Zero-Day Exploit,Retail & E-commerce,Jawa Tengah,27,1053,Low,80,160.27,BSSN/Kominfo Statistics,internal_structured
+2023-12-27,2023,12,Phishing,Pemerintahan,Kalimantan Timur,3228,119436,Medium,54,60.06,BSSN/Kominfo Statistics,internal_structured
+2023-12-27,2023,12,Ransomware,Retail & E-commerce,Jawa Barat,1568,78400,Critical,58,5.21,BSSN/Kominfo Statistics,internal_structured
+2023-12-27,2023,12,Malware,Transportasi,DKI Jakarta,2193,50439,Medium,44,46.58,BSSN/Kominfo Statistics,internal_structured
+2023-12-27,2023,12,DDoS,Kesehatan,Jawa Barat,614,28858,High,50,21.73,BSSN/Kominfo Statistics,internal_structured
+2023-12-27,2023,12,Data Breach,Media,Sulawesi Selatan,656,28864,Low,60,107.92,BSSN/Kominfo Statistics,internal_structured
+2023-12-27,2023,12,Social Engineering,Telekomunikasi,Jawa Timur,1054,49538,Medium,77,58.32,BSSN/Kominfo Statistics,internal_structured
+2023-12-27,2023,12,Scam/Fraud,Manufaktur,DKI Jakarta,5052,136404,Low,58,167.44,BSSN/Kominfo Statistics,internal_structured
+2023-12-27,2023,12,SQL Injection,Pemerintahan,Jawa Tengah,111,5328,Low,83,98.15,BSSN/Kominfo Statistics,internal_structured
+2023-12-27,2023,12,Brute Force,Perbankan & Keuangan,Jawa Barat,433,11258,High,43,22.38,BSSN/Kominfo Statistics,internal_structured
+2023-12-27,2023,12,APT,Retail & E-commerce,Sumatera Utara,182,7098,Medium,75,40.08,BSSN/Kominfo Statistics,internal_structured
+2023-12-27,2023,12,Cryptojacking,Retail & E-commerce,Bali,631,14513,Low,44,103.18,BSSN/Kominfo Statistics,internal_structured
+2023-12-27,2023,12,Zero-Day Exploit,Pemerintahan,Sumatera Utara,42,1722,High,73,9.22,BSSN/Kominfo Statistics,internal_structured
+2024-01-26,2024,1,Phishing,Teknologi Informasi,DKI Jakarta,2011,92506,High,62,9.58,BSSN/Kominfo Statistics,internal_structured
+2024-01-26,2024,1,Ransomware,Energi,DKI Jakarta,668,12024,Medium,80,70.68,BSSN/Kominfo Statistics,internal_structured
+2024-01-26,2024,1,Malware,Pemerintahan,DKI Jakarta,1918,53704,Medium,85,68.03,BSSN/Kominfo Statistics,internal_structured
+2024-01-26,2024,1,DDoS,Retail & E-commerce,Sulawesi Selatan,668,30060,Medium,59,24.42,BSSN/Kominfo Statistics,internal_structured
+2024-01-26,2024,1,Data Breach,Perbankan & Keuangan,Sumatera Utara,592,15392,High,59,6.57,BSSN/Kominfo Statistics,internal_structured
+2024-01-26,2024,1,Social Engineering,Teknologi Informasi,Jawa Barat,1615,17765,Medium,55,69.62,BSSN/Kominfo Statistics,internal_structured
+2024-01-26,2024,1,Scam/Fraud,Energi,Jawa Barat,5401,189035,Low,68,129.2,BSSN/Kominfo Statistics,internal_structured
+2024-01-26,2024,1,SQL Injection,Energi,Jawa Timur,249,10458,Low,46,139.57,BSSN/Kominfo Statistics,internal_structured
+2024-01-26,2024,1,Brute Force,Manufaktur,Kalimantan Timur,914,14624,Medium,68,61.03,BSSN/Kominfo Statistics,internal_structured
+2024-01-26,2024,1,APT,Pendidikan,DKI Jakarta,103,4120,Medium,66,32.53,BSSN/Kominfo Statistics,internal_structured
+2024-01-26,2024,1,Cryptojacking,Manufaktur,Bali,396,18612,Medium,76,55.67,BSSN/Kominfo Statistics,internal_structured
+2024-01-26,2024,1,Zero-Day Exploit,Telekomunikasi,Jawa Barat,44,1980,Medium,81,34.75,BSSN/Kominfo Statistics,internal_structured
+2024-02-25,2024,2,Phishing,Transportasi,Jawa Barat,1390,33360,Medium,47,43.31,BSSN/Kominfo Statistics,internal_structured
+2024-02-25,2024,2,Ransomware,Media,Jawa Barat,1137,54576,Medium,56,65.8,BSSN/Kominfo Statistics,internal_structured
+2024-02-25,2024,2,Malware,Transportasi,Jawa Barat,3079,92370,Low,56,126.57,BSSN/Kominfo Statistics,internal_structured
+2024-02-25,2024,2,DDoS,Teknologi Informasi,Sumatera Utara,420,12600,Low,60,124.56,BSSN/Kominfo Statistics,internal_structured
+2024-02-25,2024,2,Data Breach,Transportasi,DKI Jakarta,734,32296,Critical,61,1.55,BSSN/Kominfo Statistics,internal_structured
+2024-02-25,2024,2,Social Engineering,Manufaktur,Sumatera Utara,2090,22990,Medium,43,41.83,BSSN/Kominfo Statistics,internal_structured
+2024-02-25,2024,2,Scam/Fraud,Kesehatan,Jawa Barat,5282,79230,High,75,19.18,BSSN/Kominfo Statistics,internal_structured
+2024-02-25,2024,2,SQL Injection,Manufaktur,DKI Jakarta,384,8832,Medium,56,35.03,BSSN/Kominfo Statistics,internal_structured
+2024-02-25,2024,2,Brute Force,Media,DKI Jakarta,742,20776,High,75,8.7,BSSN/Kominfo Statistics,internal_structured
+2024-02-25,2024,2,APT,Retail & E-commerce,Jawa Tengah,105,1575,Medium,79,45.72,BSSN/Kominfo Statistics,internal_structured
+2024-02-25,2024,2,Cryptojacking,Manufaktur,Sumatera Utara,241,7230,Critical,67,5.81,BSSN/Kominfo Statistics,internal_structured
+2024-02-25,2024,2,Zero-Day Exploit,Teknologi Informasi,Banten,36,720,Medium,77,54.07,BSSN/Kominfo Statistics,internal_structured
+2024-03-26,2024,3,Phishing,Pendidikan,Jawa Barat,1993,65769,High,54,23.1,BSSN/Kominfo Statistics,internal_structured
+2024-03-26,2024,3,Ransomware,Energi,DKI Jakarta,1041,28107,Medium,42,53.41,BSSN/Kominfo Statistics,internal_structured
+2024-03-26,2024,3,Malware,Pendidikan,Jawa Barat,1586,69784,High,75,11.35,BSSN/Kominfo Statistics,internal_structured
+2024-03-26,2024,3,DDoS,Transportasi,Jawa Timur,500,16000,Medium,62,62.85,BSSN/Kominfo Statistics,internal_structured
+2024-03-26,2024,3,Data Breach,Retail & E-commerce,Jawa Timur,810,8100,Medium,67,41.65,BSSN/Kominfo Statistics,internal_structured
+2024-03-26,2024,3,Social Engineering,Pemerintahan,Jawa Timur,1908,32436,Low,76,162.09,BSSN/Kominfo Statistics,internal_structured
+2024-03-26,2024,3,Scam/Fraud,Perbankan & Keuangan,Jawa Tengah,4998,169932,High,53,12.17,BSSN/Kominfo Statistics,internal_structured
+2024-03-26,2024,3,SQL Injection,Manufaktur,Banten,265,10600,High,63,15.25,BSSN/Kominfo Statistics,internal_structured
+2024-03-26,2024,3,Brute Force,Perbankan & Keuangan,Bali,747,37350,Medium,73,57.87,BSSN/Kominfo Statistics,internal_structured
+2024-03-26,2024,3,APT,Teknologi Informasi,Jawa Barat,148,6956,High,78,18.5,BSSN/Kominfo Statistics,internal_structured
+2024-03-26,2024,3,Cryptojacking,Media,Jawa Timur,711,19908,Medium,54,38.56,BSSN/Kominfo Statistics,internal_structured
+2024-03-26,2024,3,Zero-Day Exploit,Kesehatan,Jawa Barat,77,2156,Medium,79,26.84,BSSN/Kominfo Statistics,internal_structured
+2024-04-25,2024,4,Phishing,Pendidikan,Lainnya,3093,95883,Low,44,89.3,BSSN/Kominfo Statistics,internal_structured
+2024-04-25,2024,4,Ransomware,Energi,DKI Jakarta,830,22410,Medium,56,54.46,BSSN/Kominfo Statistics,internal_structured
+2024-04-25,2024,4,Malware,Pemerintahan,Lainnya,1699,33980,High,49,10.64,BSSN/Kominfo Statistics,internal_structured
+2024-04-25,2024,4,DDoS,Energi,DKI Jakarta,708,32568,Medium,72,68.96,BSSN/Kominfo Statistics,internal_structured
+2024-04-25,2024,4,Data Breach,Perbankan & Keuangan,Bali,359,10052,Critical,70,1.53,BSSN/Kominfo Statistics,internal_structured
+2024-04-25,2024,4,Social Engineering,Media,Jawa Barat,2086,95956,Medium,85,66.11,BSSN/Kominfo Statistics,internal_structured
+2024-04-25,2024,4,Scam/Fraud,Retail & E-commerce,DKI Jakarta,5329,207831,High,81,12.26,BSSN/Kominfo Statistics,internal_structured
+2024-04-25,2024,4,SQL Injection,Teknologi Informasi,Jawa Barat,260,4940,Medium,40,64.05,BSSN/Kominfo Statistics,internal_structured
+2024-04-25,2024,4,Brute Force,Retail & E-commerce,DKI Jakarta,448,5376,Medium,83,44.13,BSSN/Kominfo Statistics,internal_structured
+2024-04-25,2024,4,APT,Energi,Jawa Barat,163,5542,Critical,71,3.84,BSSN/Kominfo Statistics,internal_structured
+2024-04-25,2024,4,Cryptojacking,Manufaktur,Jawa Timur,528,22176,High,70,17.43,BSSN/Kominfo Statistics,internal_structured
+2024-04-25,2024,4,Zero-Day Exploit,Teknologi Informasi,DKI Jakarta,31,1488,Low,41,146.14,BSSN/Kominfo Statistics,internal_structured
+2024-05-25,2024,5,Phishing,Telekomunikasi,Jawa Timur,3216,147936,Low,67,86.74,BSSN/Kominfo Statistics,internal_structured
+2024-05-25,2024,5,Ransomware,Pemerintahan,Jawa Timur,1701,13608,Low,73,150.45,BSSN/Kominfo Statistics,internal_structured
+2024-05-25,2024,5,Malware,Transportasi,DKI Jakarta,1238,47044,Medium,64,47.64,BSSN/Kominfo Statistics,internal_structured
+2024-05-25,2024,5,DDoS,Manufaktur,Jawa Timur,550,7150,Low,53,148.17,BSSN/Kominfo Statistics,internal_structured
+2024-05-25,2024,5,Data Breach,Media,Jawa Barat,422,2954,Medium,53,55.53,BSSN/Kominfo Statistics,internal_structured
+2024-05-25,2024,5,Social Engineering,Retail & E-commerce,Lainnya,1035,28980,Medium,72,49.27,BSSN/Kominfo Statistics,internal_structured
+2024-05-25,2024,5,Scam/Fraud,Media,DKI Jakarta,3288,26304,Medium,40,67.92,BSSN/Kominfo Statistics,internal_structured
+2024-05-25,2024,5,SQL Injection,Kesehatan,Kalimantan Timur,272,5440,Low,46,153.01,BSSN/Kominfo Statistics,internal_structured
+2024-05-25,2024,5,Brute Force,Telekomunikasi,DKI Jakarta,642,12198,Low,60,78.01,BSSN/Kominfo Statistics,internal_structured
+2024-05-25,2024,5,APT,Pendidikan,DKI Jakarta,150,3450,Low,50,165.6,BSSN/Kominfo Statistics,internal_structured
+2024-05-25,2024,5,Cryptojacking,Perbankan & Keuangan,Jawa Barat,359,7180,Critical,50,4.03,BSSN/Kominfo Statistics,internal_structured
+2024-05-25,2024,5,Zero-Day Exploit,Retail & E-commerce,Bali,30,480,Low,42,80.76,BSSN/Kominfo Statistics,internal_structured
+2024-06-24,2024,6,Phishing,Telekomunikasi,DKI Jakarta,1435,14350,High,81,11.5,BSSN/Kominfo Statistics,internal_structured
+2024-06-24,2024,6,Ransomware,Kesehatan,Kalimantan Timur,1321,29062,High,70,13.99,BSSN/Kominfo Statistics,internal_structured
+2024-06-24,2024,6,Malware,Perbankan & Keuangan,Jawa Timur,2106,88452,Medium,49,42.22,BSSN/Kominfo Statistics,internal_structured
+2024-06-24,2024,6,DDoS,Kesehatan,Lainnya,418,6270,Critical,46,2.28,BSSN/Kominfo Statistics,internal_structured
+2024-06-24,2024,6,Data Breach,Pendidikan,DKI Jakarta,863,11219,Low,65,137.66,BSSN/Kominfo Statistics,internal_structured
+2024-06-24,2024,6,Social Engineering,Manufaktur,Sumatera Utara,996,44820,Medium,77,40.32,BSSN/Kominfo Statistics,internal_structured
+2024-06-24,2024,6,Scam/Fraud,Transportasi,Banten,3785,181680,High,75,10.1,BSSN/Kominfo Statistics,internal_structured
+2024-06-24,2024,6,SQL Injection,Perbankan & Keuangan,Jawa Timur,284,6532,High,73,7.85,BSSN/Kominfo Statistics,internal_structured
+2024-06-24,2024,6,Brute Force,Teknologi Informasi,Jawa Barat,398,9154,Medium,59,57.87,BSSN/Kominfo Statistics,internal_structured
+2024-06-24,2024,6,APT,Telekomunikasi,Jawa Barat,191,2483,Low,69,108.56,BSSN/Kominfo Statistics,internal_structured
+2024-06-24,2024,6,Cryptojacking,Manufaktur,DKI Jakarta,304,13072,Medium,61,33.42,BSSN/Kominfo Statistics,internal_structured
+2024-06-24,2024,6,Zero-Day Exploit,Transportasi,Lainnya,56,2184,High,60,11.94,BSSN/Kominfo Statistics,internal_structured
+2024-07-24,2024,7,Phishing,Retail & E-commerce,Banten,1640,31160,High,40,11.87,BSSN/Kominfo Statistics,internal_structured
+2024-07-24,2024,7,Ransomware,Transportasi,Kalimantan Timur,1726,8630,Low,53,134.86,BSSN/Kominfo Statistics,internal_structured
+2024-07-24,2024,7,Malware,Telekomunikasi,DKI Jakarta,1676,40224,Medium,58,36.47,BSSN/Kominfo Statistics,internal_structured
+2024-07-24,2024,7,DDoS,Perbankan & Keuangan,DKI Jakarta,618,12360,Critical,44,2.87,BSSN/Kominfo Statistics,internal_structured
+2024-07-24,2024,7,Data Breach,Perbankan & Keuangan,Bali,805,21735,Medium,54,54.3,BSSN/Kominfo Statistics,internal_structured
+2024-07-24,2024,7,Social Engineering,Pendidikan,Lainnya,949,32266,Medium,59,35.02,BSSN/Kominfo Statistics,internal_structured
+2024-07-24,2024,7,Scam/Fraud,Pendidikan,Jawa Timur,3129,112644,Low,70,113.53,BSSN/Kominfo Statistics,internal_structured
+2024-07-24,2024,7,SQL Injection,Retail & E-commerce,Jawa Timur,287,3731,Low,55,106.24,BSSN/Kominfo Statistics,internal_structured
+2024-07-24,2024,7,Brute Force,Kesehatan,DKI Jakarta,405,9720,Low,72,164.54,BSSN/Kominfo Statistics,internal_structured
+2024-07-24,2024,7,APT,Telekomunikasi,DKI Jakarta,88,4312,High,62,18.06,BSSN/Kominfo Statistics,internal_structured
+2024-07-24,2024,7,Cryptojacking,Teknologi Informasi,Banten,481,2405,Medium,79,64.57,BSSN/Kominfo Statistics,internal_structured
+2024-07-24,2024,7,Zero-Day Exploit,Pemerintahan,DKI Jakarta,24,792,Low,78,135.5,BSSN/Kominfo Statistics,internal_structured
+2024-08-23,2024,8,Phishing,Telekomunikasi,Sumatera Utara,3225,154800,Medium,76,51.23,BSSN/Kominfo Statistics,internal_structured
+2024-08-23,2024,8,Ransomware,Media,DKI Jakarta,1176,28224,Medium,84,70.9,BSSN/Kominfo Statistics,internal_structured
+2024-08-23,2024,8,Malware,Media,Jawa Barat,1481,71088,Medium,62,35.08,BSSN/Kominfo Statistics,internal_structured
+2024-08-23,2024,8,DDoS,Media,Jawa Barat,710,21300,Medium,55,55.45,BSSN/Kominfo Statistics,internal_structured
+2024-08-23,2024,8,Data Breach,Teknologi Informasi,Jawa Barat,896,42112,Low,72,139.88,BSSN/Kominfo Statistics,internal_structured
+2024-08-23,2024,8,Social Engineering,Retail & E-commerce,Kalimantan Timur,2107,65317,Medium,68,28.12,BSSN/Kominfo Statistics,internal_structured
+2024-08-23,2024,8,Scam/Fraud,Teknologi Informasi,Jawa Timur,5944,255592,Low,54,109.04,BSSN/Kominfo Statistics,internal_structured
+2024-08-23,2024,8,SQL Injection,Pendidikan,Jawa Timur,330,9570,Critical,51,2.58,BSSN/Kominfo Statistics,internal_structured
+2024-08-23,2024,8,Brute Force,Transportasi,Lainnya,513,10773,Critical,44,1.96,BSSN/Kominfo Statistics,internal_structured
+2024-08-23,2024,8,APT,Retail & E-commerce,Jawa Timur,87,1131,Low,60,96.83,BSSN/Kominfo Statistics,internal_structured
+2024-08-23,2024,8,Cryptojacking,Transportasi,DKI Jakarta,198,6138,Medium,83,54.08,BSSN/Kominfo Statistics,internal_structured
+2024-08-23,2024,8,Zero-Day Exploit,Telekomunikasi,DKI Jakarta,30,1320,Medium,58,44.89,BSSN/Kominfo Statistics,internal_structured
+2024-09-22,2024,9,Phishing,Teknologi Informasi,DKI Jakarta,1825,43800,High,72,11.64,BSSN/Kominfo Statistics,internal_structured
+2024-09-22,2024,9,Ransomware,Transportasi,Jawa Tengah,1564,45356,Low,82,164.72,BSSN/Kominfo Statistics,internal_structured
+2024-09-22,2024,9,Malware,Perbankan & Keuangan,DKI Jakarta,2562,25620,Low,78,162.68,BSSN/Kominfo Statistics,internal_structured
+2024-09-22,2024,9,DDoS,Media,Banten,340,3060,Medium,81,45.41,BSSN/Kominfo Statistics,internal_structured
+2024-09-22,2024,9,Data Breach,Telekomunikasi,Jawa Barat,537,3222,Medium,78,66.3,BSSN/Kominfo Statistics,internal_structured
+2024-09-22,2024,9,Social Engineering,Manufaktur,Kalimantan Timur,2399,33586,Medium,75,24.45,BSSN/Kominfo Statistics,internal_structured
+2024-09-22,2024,9,Scam/Fraud,Media,Bali,2832,65136,Low,41,161.4,BSSN/Kominfo Statistics,internal_structured
+2024-09-22,2024,9,SQL Injection,Transportasi,Banten,245,10045,High,55,12.9,BSSN/Kominfo Statistics,internal_structured
+2024-09-22,2024,9,Brute Force,Pendidikan,Sulawesi Selatan,639,10863,Low,80,90.19,BSSN/Kominfo Statistics,internal_structured
+2024-09-22,2024,9,APT,Manufaktur,Lainnya,106,530,High,57,8.12,BSSN/Kominfo Statistics,internal_structured
+2024-09-22,2024,9,Cryptojacking,Transportasi,Jawa Barat,418,18810,High,60,8.92,BSSN/Kominfo Statistics,internal_structured
+2024-09-22,2024,9,Zero-Day Exploit,Retail & E-commerce,Jawa Barat,56,2688,High,65,8.42,BSSN/Kominfo Statistics,internal_structured
+2024-10-22,2024,10,Phishing,Retail & E-commerce,DKI Jakarta,2997,119880,High,60,20.81,BSSN/Kominfo Statistics,internal_structured
+2024-10-22,2024,10,Ransomware,Transportasi,DKI Jakarta,534,16554,Medium,55,65.16,BSSN/Kominfo Statistics,internal_structured
+2024-10-22,2024,10,Malware,Pemerintahan,Sulawesi Selatan,1961,25493,Low,75,123.47,BSSN/Kominfo Statistics,internal_structured
+2024-10-22,2024,10,DDoS,Energi,Banten,515,24205,Low,80,92.65,BSSN/Kominfo Statistics,internal_structured
+2024-10-22,2024,10,Data Breach,Energi,DKI Jakarta,376,9776,Medium,49,25.73,BSSN/Kominfo Statistics,internal_structured
+2024-10-22,2024,10,Social Engineering,Retail & E-commerce,Jawa Timur,1651,36322,Critical,43,5.85,BSSN/Kominfo Statistics,internal_structured
+2024-10-22,2024,10,Scam/Fraud,Energi,Jawa Tengah,4722,236100,Low,80,103.51,BSSN/Kominfo Statistics,internal_structured
+2024-10-22,2024,10,SQL Injection,Media,DKI Jakarta,190,3610,High,58,12.16,BSSN/Kominfo Statistics,internal_structured
+2024-10-22,2024,10,Brute Force,Manufaktur,DKI Jakarta,732,10248,Medium,79,63.18,BSSN/Kominfo Statistics,internal_structured
+2024-10-22,2024,10,APT,Energi,Jawa Tengah,182,2730,Critical,65,1.8,BSSN/Kominfo Statistics,internal_structured
+2024-10-22,2024,10,Cryptojacking,Pemerintahan,DKI Jakarta,202,1212,Medium,55,35.42,BSSN/Kominfo Statistics,internal_structured
+2024-10-22,2024,10,Zero-Day Exploit,Media,Jawa Timur,54,648,Medium,48,31.61,BSSN/Kominfo Statistics,internal_structured
+2024-11-21,2024,11,Phishing,Telekomunikasi,Banten,2058,86436,High,50,16.43,BSSN/Kominfo Statistics,internal_structured
+2024-11-21,2024,11,Ransomware,Media,Jawa Timur,1035,42435,High,71,7.96,BSSN/Kominfo Statistics,internal_structured
+2024-11-21,2024,11,Malware,Pemerintahan,Jawa Barat,1784,87416,Critical,84,2.08,BSSN/Kominfo Statistics,internal_structured
+2024-11-21,2024,11,DDoS,Retail & E-commerce,Jawa Barat,875,8750,Medium,43,60.06,BSSN/Kominfo Statistics,internal_structured
+2024-11-21,2024,11,Data Breach,Energi,Sumatera Utara,339,15594,High,85,16.47,BSSN/Kominfo Statistics,internal_structured
+2024-11-21,2024,11,Social Engineering,Pendidikan,DKI Jakarta,2435,14610,Low,75,92.58,BSSN/Kominfo Statistics,internal_structured
+2024-11-21,2024,11,Scam/Fraud,Pemerintahan,Sulawesi Selatan,5752,138048,High,60,7.72,BSSN/Kominfo Statistics,internal_structured
+2024-11-21,2024,11,SQL Injection,Perbankan & Keuangan,DKI Jakarta,154,5698,Medium,44,61.23,BSSN/Kominfo Statistics,internal_structured
+2024-11-21,2024,11,Brute Force,Retail & E-commerce,DKI Jakarta,694,7634,Medium,41,28.19,BSSN/Kominfo Statistics,internal_structured
+2024-11-21,2024,11,APT,Media,Sulawesi Selatan,162,1458,Medium,42,42.77,BSSN/Kominfo Statistics,internal_structured
+2024-11-21,2024,11,Cryptojacking,Perbankan & Keuangan,Jawa Barat,424,16960,Medium,62,51.33,BSSN/Kominfo Statistics,internal_structured
+2024-11-21,2024,11,Zero-Day Exploit,Transportasi,Sulawesi Selatan,56,504,High,78,9.77,BSSN/Kominfo Statistics,internal_structured
