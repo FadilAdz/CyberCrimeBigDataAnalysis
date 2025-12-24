@@ -1,0 +1,80 @@
+source,target,weight
+APT,Cryptojacking,24
+APT,Scam,1
+APT,Zero-Day Exploit,24
+Brute Force,APT,24
+Brute Force,Cryptojacking,24
+Brute Force,Scam,1
+Brute Force,Zero-Day Exploit,24
+Cryptojacking,Scam,1
+Cryptojacking,Zero-Day Exploit,24
+DDoS,APT,24
+DDoS,Brute Force,24
+DDoS,Cryptojacking,24
+DDoS,Data Breach,24
+DDoS,SQL Injection,24
+DDoS,Scam,1
+DDoS,Scam/Fraud,24
+DDoS,Social Engineering,24
+DDoS,Zero-Day Exploit,24
+Data Breach,APT,24
+Data Breach,Brute Force,24
+Data Breach,Cryptojacking,24
+Data Breach,SQL Injection,24
+Data Breach,Scam,1
+Data Breach,Scam/Fraud,24
+Data Breach,Social Engineering,24
+Data Breach,Zero-Day Exploit,24
+Malware,APT,24
+Malware,Brute Force,24
+Malware,Cryptojacking,24
+Malware,DDoS,24
+Malware,Data Breach,24
+Malware,Phishing,1
+Malware,SQL Injection,24
+Malware,Scam,1
+Malware,Scam/Fraud,24
+Malware,Social Engineering,24
+Malware,Zero-Day Exploit,24
+Phishing,APT,24
+Phishing,Brute Force,24
+Phishing,Cryptojacking,24
+Phishing,DDoS,24
+Phishing,Data Breach,24
+Phishing,Malware,24
+Phishing,Ransomware,24
+Phishing,SQL Injection,24
+Phishing,Scam,1
+Phishing,Scam/Fraud,24
+Phishing,Social Engineering,24
+Phishing,Zero-Day Exploit,24
+Ransomware,APT,24
+Ransomware,Brute Force,24
+Ransomware,Cryptojacking,24
+Ransomware,DDoS,24
+Ransomware,Data Breach,24
+Ransomware,Malware,24
+Ransomware,SQL Injection,24
+Ransomware,Scam,1
+Ransomware,Scam/Fraud,24
+Ransomware,Social Engineering,24
+Ransomware,Zero-Day Exploit,24
+SQL Injection,APT,24
+SQL Injection,Brute Force,24
+SQL Injection,Cryptojacking,24
+SQL Injection,Scam,1
+SQL Injection,Zero-Day Exploit,24
+Scam/Fraud,APT,24
+Scam/Fraud,Brute Force,24
+Scam/Fraud,Cryptojacking,24
+Scam/Fraud,SQL Injection,24
+Scam/Fraud,Scam,1
+Scam/Fraud,Zero-Day Exploit,24
+Social Engineering,APT,24
+Social Engineering,Brute Force,24
+Social Engineering,Cryptojacking,24
+Social Engineering,SQL Injection,24
+Social Engineering,Scam,1
+Social Engineering,Scam/Fraud,24
+Social Engineering,Zero-Day Exploit,24
+Zero-Day Exploit,Scam,1

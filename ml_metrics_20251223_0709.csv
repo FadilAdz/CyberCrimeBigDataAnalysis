@@ -1,0 +1,2 @@
+model,mae,rmse,r2_score,train_size,test_size,features_used,created_at
+Linear Regression,1195.7879021814351,1576.7758292909077,0.14923455336255642,17,5,"time_index, month, quarter, rolling_avg_3",2025-12-23 07:09:12
