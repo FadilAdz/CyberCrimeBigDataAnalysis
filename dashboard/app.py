@@ -1,6 +1,7 @@
 """
 Big Data Analysis Dashboard: Cyber Crime in Indonesia
 Interactive Streamlit dashboard for cyber crime analysis.
+# Data updated with 2025 records
 """
 
 import streamlit as st
@@ -79,9 +80,10 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-@st.cache_data
+@st.cache_data(ttl=60)  # Cache for 60 seconds, allows quick refresh
 def load_data():
-    """Load and cache the dataset."""
+    """Load and cache the dataset with 2025 records."""
+    # Updated: 2025-12-24 - Added unified 2025 data
     data_path = project_root / 'data' / 'raw' / 'sample_government_data.csv'
     processed_path = project_root / 'data' / 'processed' / 'cleaned_government_data.csv'
     
