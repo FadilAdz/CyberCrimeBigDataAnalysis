@@ -1,4 +1,4 @@
-#!/home/hata0x/Downloads/CyberCrimeBigDataAnalysis/venv/bin/python
+#!/home/kyra/CyberCrimeBigDataAnalysis/venv/bin/python
 
 from __future__ import print_function
 import sys

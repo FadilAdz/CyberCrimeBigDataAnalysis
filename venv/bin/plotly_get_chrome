@@ -1,8 +1,7 @@
-#!/home/hata0x/Downloads/CyberCrimeBigDataAnalysis/venv/bin/python
-# -*- coding: utf-8 -*-
-import re
+#!/home/kyra/CyberCrimeBigDataAnalysis/venv/bin/python
 import sys
 from plotly.io._kaleido import plotly_get_chrome
 if __name__ == '__main__':
-    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
     sys.exit(plotly_get_chrome())
