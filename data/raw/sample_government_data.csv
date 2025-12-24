@@ -1,0 +1,1531 @@
+incident_id,date,province,attack_type,sector,severity,victims_count,financial_loss_idr,is_resolved,response_time_hours,source
+INC-000026,2022-09-12,Jawa Barat,Malware,Pemerintahan,High,9107,226426749045.0,True,22.0,Kominfo
+INC-001164,2020-11-23,Jawa Timur,Social Engineering,Kesehatan,Medium,172,718095356.0,True,26.0,BSSN
+INC-000915,2021-11-18,Banten,Ransomware,Pendidikan,Critical,84161,1244451676160.0,False,,BSSN
+INC-000989,2024-05-15,Kalimantan Timur,Social Engineering,E-Commerce,Medium,40,162314960.0,True,144.0,Laporan Publik
+INC-000839,2022-07-08,Jawa Timur,SQL Injection,Pendidikan,High,4250,72541613750.0,True,77.0,Kominfo
+INC-000187,2023-04-07,Maluku,Insider Threat,Pemerintahan,Medium,584,5803737688.0,False,10.0,BSSN
+INC-000591,2022-11-30,Papua Barat,Man-in-the-Middle,Energi,Medium,429,4200611415.0,True,36.0,Kominfo
+INC-000948,2024-08-14,DKI Jakarta,Phishing,UMKM,Medium,212,507416488.0,False,15.0,Kepolisian
+INC-000741,2024-05-06,Sumatera Utara,Business Email Compromise,Perbankan,Critical,80409,1851893246280.0,True,14.0,Laporan Publik
+INC-000615,2023-11-24,Jawa Timur,DDoS,Energi,Critical,1636,102430254480.0,True,92.0,Kepolisian
+INC-000783,2023-08-27,Kepulauan Riau,Man-in-the-Middle,Telekomunikasi,High,9293,298415514980.0,False,18.0,Laporan Publik
+INC-000014,2023-03-07,DKI Jakarta,Cryptojacking,Transportasi,Medium,569,126990558.0,False,12.0,Laporan Publik
+INC-001359,2024-02-18,Maluku Utara,Malware,Energi,Low,99,467629173.0,False,67.0,Laporan Publik
+INC-000357,2022-03-17,Kalimantan Tengah,SQL Injection,Telekomunikasi,Medium,421,3903371807.0,True,14.0,BSSN
+INC-001461,2023-06-06,Jawa Tengah,Phishing,Fintech,Low,41,217412873.0,True,5.0,Laporan Publik
+INC-000629,2024-07-30,Jawa Timur,Social Engineering,UMKM,Medium,582,4982401314.0,True,210.0,BSSN
+INC-000970,2024-12-20,Sulawesi Tenggara,Man-in-the-Middle,Kesehatan,High,2497,17766404700.0,False,16.0,BSSN
+INC-000272,2020-08-21,Jawa Barat,Social Engineering,E-Commerce,High,7295,227810448500.0,False,14.0,Kominfo
+INC-001177,2020-09-24,DKI Jakarta,Phishing,E-Commerce,Medium,339,1255323441.0,True,25.0,Laporan Publik
+INC-001222,2021-08-22,Kalimantan Barat,Phishing,Media,Medium,854,6999531742.0,False,52.0,Kepolisian
+INC-000103,2021-11-12,Sumatera Barat,Malware,Ritel,High,9879,60835573530.0,False,31.0,BSSN
+INC-000677,2021-12-21,Kalimantan Timur,Malware,Telekomunikasi,Low,65,198260465.0,False,6.0,Kominfo
+INC-000765,2021-02-24,Jawa Timur,DDoS,Fintech,High,8343,404900974260.0,True,48.0,Kominfo
+INC-000664,2023-10-28,DKI Jakarta,Ransomware,Media,Critical,79467,4340390590260.0,False,60.0,Kominfo
+INC-000283,2022-09-10,Banten,Zero-Day Exploit,Pendidikan,Critical,39640,1100215335200.0,True,65.0,BSSN
+INC-000980,2020-11-16,Jawa Timur,DDoS,Pemerintahan,Low,95,200147045.0,True,80.0,Kepolisian
+INC-000795,2024-12-06,Jawa Barat,Ransomware,Manufaktur,Critical,58124,1162513130680.0,False,37.0,Kominfo
+INC-001355,2022-10-22,Bali,Ransomware,Energi,Critical,67333,5215241828510.0,True,11.0,Kepolisian
+INC-000657,2023-09-14,DKI Jakarta,Data Breach,Kesehatan,High,3910,146061784050.0,True,29.0,Laporan Publik
+INC-000974,2024-03-28,Sulawesi Tenggara,Malware,Ritel,High,6069,272804918295.0,True,144.0,BSSN
+INC-000681,2023-09-15,DI Yogyakarta,Phishing,Kesehatan,Low,37,252536507.0,True,1.0,Kominfo
+INC-000758,2024-03-27,Jawa Tengah,Ransomware,Perbankan,Critical,7083,174836984490.0,True,26.0,BSSN
+INC-000212,2024-11-10,Sulawesi Utara,Social Engineering,Perbankan,Medium,298,1648347962.0,True,9.0,Kominfo
+INC-001446,2022-07-20,Nusa Tenggara Barat,Phishing,Fintech,Critical,97952,3485457360640.0,True,35.0,Kepolisian
+INC-000144,2023-12-18,Maluku Utara,Ransomware,Pendidikan,Critical,86149,7171703522830.0,False,5.0,Kepolisian
+INC-001427,2024-03-17,Banten,Ransomware,Energi,High,332,,True,16.0,Kepolisian
+INC-000747,2022-05-02,Nusa Tenggara Barat,DDoS,Transportasi,Critical,39773,652276404540.0,True,43.0,Kominfo
+INC-000327,2024-07-17,Jawa Barat,Business Email Compromise,Perbankan,High,2613,47909459520.0,True,7.0,Kominfo
+INC-000182,2023-11-21,Sumatera Utara,SQL Injection,Fintech,Low,75,,True,29.0,Laporan Publik
+INC-001435,2022-04-19,Sulawesi Selatan,Business Email Compromise,Fintech,Medium,377,2890145713.0,True,108.0,Kominfo
+INC-000607,2023-03-11,Jawa Timur,Malware,Asuransi,Low,15,125499030.0,True,2.0,BSSN
+INC-000027,2023-05-06,DKI Jakarta,Ransomware,Pemerintahan,Critical,75495,4819735936050.0,True,85.0,Laporan Publik
+INC-000215,2022-08-06,Kalimantan Tengah,DDoS,Pendidikan,High,356,11732357360.0,True,31.0,Kominfo
+INC-000240,2022-04-25,Banten,DDoS,Media,Medium,382,3745536358.0,False,49.0,Kominfo
+INC-000636,2021-12-22,Jawa Barat,Data Breach,UMKM,High,3714,104612145150.0,False,87.0,Laporan Publik
+INC-000084,2021-09-16,Sulawesi Tengah,Phishing,Ritel,Medium,727,2555996778.0,True,64.0,Laporan Publik
+INC-000041,2020-10-26,Riau,Credential Stuffing,Media,Medium,726,2535474414.0,True,143.0,BSSN
+INC-001169,2023-07-21,DKI Jakarta,Data Breach,Pemerintahan,Critical,99662,8180518074440.0,True,168.0,Laporan Publik
+INC-000372,2022-06-07,Kepulauan Riau,Zero-Day Exploit,Media,Critical,34371,3019076460900.0,False,66.0,Laporan Publik
+INC-000705,2023-11-12,DKI Jakarta,Data Breach,Pendidikan,Medium,284,2113656084.0,True,61.0,BSSN
+INC-001297,2021-09-14,Jambi,Data Breach,Asuransi,High,8594,212534475610.0,False,24.0,Laporan Publik
+INC-000242,2022-12-08,Banten,Social Engineering,Pendidikan,Critical,23620,2074682777000.0,True,169.0,Kominfo
+INC-000958,2024-12-03,Jawa Timur,Phishing,Fintech,Medium,802,5384538978.0,False,56.0,Kepolisian
+INC-001455,2023-09-11,Jawa Timur,SQL Injection,Energi,High,7724,151643824440.0,True,101.0,BSSN
+INC-001045,2023-11-21,Sulawesi Selatan,Zero-Day Exploit,Kesehatan,Low,3,18468285.0,False,0.0,Kominfo
+INC-000647,2022-03-28,Maluku Utara,Malware,Manufaktur,High,8039,199864291565.0,False,48.0,Kominfo
+INC-000971,2020-10-02,Jawa Barat,Malware,E-Commerce,Low,84,231404040.0,True,13.0,Laporan Publik
+INC-001180,2022-04-07,Jawa Timur,SQL Injection,Media,High,5366,115652405290.0,True,,BSSN
+INC-000560,2021-12-13,Jawa Barat,Business Email Compromise,Ritel,Medium,248,317295664.0,True,53.0,Laporan Publik
+INC-000326,2022-10-03,Kalimantan Timur,Phishing,Telekomunikasi,Medium,884,2356313492.0,False,37.0,Kominfo
+INC-000119,2021-11-02,Banten,Ransomware,Asuransi,Critical,13120,,True,0.0,BSSN
+INC-000205,2023-03-02,Jawa Timur,Phishing,Perbankan,High,8908,237721738560.0,True,11.0,Kominfo
+INC-000933,2020-07-29,DKI Jakarta,Social Engineering,Energi,Low,78,314285478.0,True,85.0,Kominfo
+INC-001463,2022-07-25,Maluku,Cryptojacking,Asuransi,High,5108,195639081700.0,True,28.0,Laporan Publik
+INC-000268,2024-07-27,Sulawesi Barat,Insider Threat,Manufaktur,Low,27,232687998.0,True,20.0,Kepolisian
+INC-001055,2022-03-28,Kalimantan Utara,DDoS,Pendidikan,Low,18,148421124.0,True,112.0,BSSN
+INC-000609,2023-02-20,DKI Jakarta,Data Breach,Asuransi,Low,80,528985920.0,True,2.0,Kominfo
+INC-000793,2022-12-08,Gorontalo,Social Engineering,Media,Medium,652,2844874208.0,False,8.0,Kepolisian
+INC-000108,2022-12-04,Jawa Tengah,Man-in-the-Middle,Kesehatan,Critical,73723,5576680495100.0,True,12.0,Kominfo
+INC-000856,2021-05-23,Bangka Belitung,Social Engineering,Pendidikan,Low,41,,False,12.0,Kominfo
+INC-000882,2024-11-06,Jawa Barat,Ransomware,UMKM,Critical,7806,137159694360.0,False,19.0,Kominfo
+INC-000902,2022-06-25,Jawa Barat,Social Engineering,Telekomunikasi,Low,1,,True,33.0,BSSN
+INC-000661,2022-07-05,Jawa Timur,Phishing,Manufaktur,Medium,124,359125700.0,False,119.0,Laporan Publik
+INC-001321,2024-11-06,Papua,Social Engineering,Kesehatan,Medium,220,449029240.0,False,37.0,Kominfo
+INC-000625,2021-08-18,Jawa Timur,Ransomware,Perbankan,Critical,56184,3780836544720.0,True,49.0,Kepolisian
+INC-000694,2023-03-30,Bengkulu,Phishing,UMKM,Medium,373,190332575.0,True,27.0,Laporan Publik
+INC-000696,2023-09-25,Banten,Man-in-the-Middle,Kesehatan,Critical,39314,758449619400.0,True,15.0,BSSN
+INC-000380,2022-02-22,Papua Barat,DDoS,Pemerintahan,Medium,719,1919295005.0,False,22.0,Kominfo
+INC-000544,2024-04-18,DKI Jakarta,SQL Injection,Media,Medium,440,2262742240.0,False,32.0,Laporan Publik
+INC-001452,2021-01-13,DKI Jakarta,Zero-Day Exploit,Perbankan,Critical,15481,89662391370.0,True,47.0,Kepolisian
+INC-000903,2022-12-15,Sulawesi Barat,Ransomware,Kesehatan,Critical,85739,7663110036020.0,True,1.0,Laporan Publik
+INC-001419,2023-01-24,Kalimantan Utara,DDoS,Manufaktur,Critical,37735,3253896219650.0,True,110.0,BSSN
+INC-000679,2022-02-18,Jawa Barat,Social Engineering,E-Commerce,Medium,877,8349751247.0,True,165.0,Laporan Publik
+INC-001498,2020-11-08,Banten,Data Breach,Perbankan,Medium,390,1088570730.0,False,23.0,Kominfo
+INC-001348,2023-09-17,Sulawesi Barat,Malware,Telekomunikasi,Low,77,257310515.0,True,1.0,Kepolisian
+INC-000117,2021-08-27,Jawa Barat,Data Breach,Fintech,Medium,142,252086210.0,True,53.0,BSSN
+INC-000386,2023-11-14,Jawa Barat,Phishing,Kesehatan,High,9366,277964850450.0,False,50.0,BSSN
+INC-000198,2022-12-31,DKI Jakarta,DDoS,Fintech,Medium,364,276384108.0,True,86.0,Kepolisian
+INC-000060,2024-05-22,Jawa Tengah,Man-in-the-Middle,Energi,Low,66,249135282.0,True,32.0,BSSN
+INC-000460,2023-02-03,Jawa Barat,Social Engineering,Telekomunikasi,Low,71,235520916.0,False,21.0,Kominfo
+INC-000090,2022-06-22,DKI Jakarta,Cryptojacking,Pemerintahan,Critical,88310,8240932008200.0,True,12.0,Kepolisian
+INC-000289,2023-01-17,Jawa Tengah,Data Breach,Energi,Critical,39262,2761713815060.0,True,4.0,BSSN
+INC-000888,2021-02-19,Jawa Tengah,Ransomware,Transportasi,Critical,40220,467109047000.0,False,43.0,BSSN
+INC-000601,2023-10-10,DKI Jakarta,Data Breach,Fintech,Critical,33305,3062650865450.0,True,3.0,Laporan Publik
+INC-001192,2024-06-25,Jawa Tengah,Social Engineering,Asuransi,High,8964,101892308940.0,False,29.0,Kepolisian
+INC-000542,2022-02-27,Kalimantan Utara,Credential Stuffing,Pendidikan,High,6231,28946702445.0,True,26.0,BSSN
+INC-000197,2023-08-07,Jawa Timur,Phishing,Pemerintahan,Low,89,189411313.0,True,13.0,Laporan Publik
+INC-000414,2023-09-27,Jawa Barat,DDoS,Transportasi,Critical,69122,1492632218740.0,False,30.0,Kominfo
+INC-001126,2023-07-16,DKI Jakarta,Data Breach,E-Commerce,Medium,789,332360727.0,False,41.0,Kominfo
+INC-000608,2024-09-19,Sulawesi Utara,SQL Injection,Media,Medium,426,,True,45.0,Kepolisian
+INC-000445,2023-06-06,Sulawesi Tengah,Malware,Telekomunikasi,High,5418,36649410840.0,True,1.0,Laporan Publik
+INC-000010,2024-02-10,DKI Jakarta,DDoS,E-Commerce,High,969,20576889420.0,False,17.0,BSSN
+INC-000260,2021-08-22,Jambi,Social Engineering,Pemerintahan,Medium,412,1194365340.0,True,31.0,Laporan Publik
+INC-000145,2022-01-04,Jawa Tengah,DDoS,Kesehatan,Medium,541,3615028543.0,True,81.0,BSSN
+INC-000384,2022-04-16,Jawa Tengah,Social Engineering,Media,Medium,308,801173296.0,True,61.0,BSSN
+INC-000768,2022-08-23,Sumatera Selatan,Credential Stuffing,Media,Low,52,121767256.0,True,25.0,BSSN
+INC-000114,2024-07-15,DKI Jakarta,SQL Injection,Telekomunikasi,Medium,875,6077828750.0,True,58.0,BSSN
+INC-000251,2022-02-27,Jawa Barat,DDoS,UMKM,Low,81,527355603.0,True,14.0,BSSN
+INC-000961,2023-06-12,Sumatera Utara,Ransomware,Perbankan,Critical,19157,1510368531200.0,True,6.0,Kominfo
+INC-001109,2024-04-01,Banten,Malware,Transportasi,High,4748,,False,51.0,Laporan Publik
+INC-001197,2020-08-20,Banten,Data Breach,Perbankan,Medium,791,6949026756.0,True,8.0,Kepolisian
+INC-000653,2023-07-18,Aceh,Phishing,Asuransi,Medium,26,195752726.0,False,56.0,BSSN
+INC-000170,2021-12-11,DKI Jakarta,Credential Stuffing,Ritel,Low,44,115950736.0,True,185.0,Kominfo
+INC-001203,2023-02-09,Banten,Social Engineering,Media,Critical,38763,1119224255760.0,True,0.0,Kepolisian
+INC-001340,2022-02-19,Jawa Tengah,Data Breach,Transportasi,High,5658,129107667090.0,True,118.0,BSSN
+INC-000674,2020-11-04,Jawa Barat,Business Email Compromise,Pemerintahan,High,7933,338277677055.0,False,24.0,Laporan Publik
+INC-000520,2021-12-25,Jawa Timur,SQL Injection,Fintech,High,1697,28266632025.0,True,17.0,Kominfo
+INC-000266,2024-01-15,Riau,Malware,Media,High,2925,47353951125.0,True,143.0,Kepolisian
+INC-000716,2024-02-09,DKI Jakarta,Phishing,Ritel,Critical,36057,3402779136540.0,False,48.0,BSSN
+INC-000823,2023-07-20,Sumatera Utara,Malware,Energi,High,6047,184139192510.0,True,18.0,Laporan Publik
+INC-000774,2023-11-12,Jawa Timur,DDoS,Media,High,3122,78866356170.0,True,35.0,Laporan Publik
+INC-001364,2021-03-23,Jawa Barat,Phishing,Perbankan,Low,89,82300614.0,True,75.0,Kominfo
+INC-000860,2023-01-06,Banten,Phishing,Manufaktur,Low,59,104159662.0,False,65.0,BSSN
+INC-001216,2023-05-06,Nusa Tenggara Barat,Social Engineering,Kesehatan,Low,95,169696505.0,False,13.0,BSSN
+INC-000045,2022-05-18,DKI Jakarta,Data Breach,Pemerintahan,Critical,18276,1685318781360.0,False,14.0,Kominfo
+INC-000934,2022-11-05,DKI Jakarta,Data Breach,Energi,Critical,51044,4684227740920.0,True,77.0,Kepolisian
+INC-001117,2021-10-03,Jawa Tengah,Social Engineering,Asuransi,High,9795,456102411900.0,False,68.0,Kominfo
+INC-000990,2024-02-23,DKI Jakarta,Phishing,Pemerintahan,Medium,960,3531539520.0,False,3.0,Kepolisian
+INC-000290,2023-09-17,Jawa Barat,Ransomware,Ritel,Critical,77853,,False,61.0,Laporan Publik
+INC-000254,2022-05-17,Jawa Timur,DDoS,Kesehatan,Medium,681,778671063.0,True,42.0,Laporan Publik
+INC-000768,2022-08-23,Sumatera Selatan,Credential Stuffing,Media,Low,52,121767256.0,True,25.0,BSSN
+INC-000645,2023-10-13,Maluku Utara,Social Engineering,Kesehatan,Medium,567,3975212619.0,False,0.0,BSSN
+INC-001466,2023-07-25,Jawa Tengah,Website Defacement,Media,Medium,230,1972290710.0,True,28.0,BSSN
+INC-000216,2023-04-16,Bangka Belitung,Social Engineering,Asuransi,Medium,355,2953912045.0,True,36.0,BSSN
+INC-001326,2023-06-23,DKI Jakarta,Phishing,Media,Low,21,135612162.0,False,5.0,BSSN
+INC-001384,2020-09-16,Sulawesi Utara,Business Email Compromise,Manufaktur,High,7512,256453294800.0,False,6.0,Laporan Publik
+INC-000957,2024-02-24,DKI Jakarta,Insider Threat,Pemerintahan,High,5740,95410280000.0,True,93.0,Kepolisian
+INC-000978,2021-09-28,Aceh,Ransomware,Manufaktur,Critical,48367,3390042062660.0,True,8.0,Kominfo
+INC-000878,2022-02-04,Sulawesi Tenggara,Ransomware,Energi,Critical,50047,1677015414070.0,True,19.0,Laporan Publik
+INC-000803,2023-09-01,Banten,Malware,Fintech,Critical,97496,5785962517440.0,True,14.0,Kominfo
+INC-001331,2021-02-13,Nusa Tenggara Barat,DDoS,Transportasi,High,4455,9711521325.0,True,5.0,Kepolisian
+INC-000349,2023-08-02,Banten,Phishing,Ritel,Medium,792,5205854808.0,True,4.0,Laporan Publik
+INC-000347,2023-06-16,Kalimantan Utara,Data Breach,Fintech,Critical,70409,6880511114360.0,True,88.0,BSSN
+INC-000100,2023-01-01,Maluku,Phishing,Manufaktur,Low,29,96542885.0,False,28.0,Kepolisian
+INC-001065,2022-05-27,DKI Jakarta,Data Breach,Telekomunikasi,High,1954,61682064550.0,False,249.0,Laporan Publik
+INC-000239,2022-03-04,Banten,Phishing,Kesehatan,Medium,456,2173191120.0,True,4.0,BSSN
+INC-000115,2023-03-19,Sulawesi Tenggara,Data Breach,Telekomunikasi,Medium,834,7262441976.0,True,53.0,BSSN
+INC-001352,2023-11-25,Jawa Timur,Social Engineering,Manufaktur,Critical,88710,6975632785200.0,True,151.0,Laporan Publik
+INC-001451,2020-11-24,DKI Jakarta,Phishing,Manufaktur,Medium,891,2779324812.0,True,76.0,BSSN
+INC-000141,2024-01-15,Jawa Timur,Ransomware,Ritel,Critical,38134,2227650234920.0,True,52.0,Kominfo
+INC-001117,2021-10-03,Jawa Tengah,Social Engineering,Asuransi,High,9795,456102411900.0,False,68.0,Kominfo
+INC-000508,2023-04-21,Jawa Timur,Business Email Compromise,Manufaktur,High,8382,385363288200.0,True,,Kepolisian
+INC-001341,2023-08-26,Jawa Timur,Phishing,Transportasi,Low,57,,False,19.0,BSSN
+INC-001147,2022-08-25,Sulawesi Selatan,Data Breach,Asuransi,High,3248,105006183520.0,True,6.0,Kominfo
+INC-001260,2023-07-23,Jawa Timur,Phishing,Kesehatan,High,8470,162012593050.0,True,106.0,Laporan Publik
+INC-000895,2020-07-04,DKI Jakarta,Malware,Energi,High,1029,25020598050.0,True,1.0,Kominfo
+INC-000294,2023-09-26,Jawa Barat,Cryptojacking,Ritel,Low,58,540441390.0,True,8.0,Kepolisian
+INC-001242,2023-07-16,Jawa Timur,Malware,Manufaktur,Medium,785,2193815950.0,True,55.0,Kominfo
+INC-001251,2021-05-28,Jawa Timur,Ransomware,Perbankan,Medium,611,981534840.0,True,35.0,Kepolisian
+INC-001380,2023-06-06,DKI Jakarta,DDoS,Kesehatan,Low,39,170299740.0,True,0.0,BSSN
+INC-000178,2024-03-26,Jawa Tengah,Ransomware,Media,Medium,531,3552264153.0,True,69.0,BSSN
+INC-001095,2023-02-25,DKI Jakarta,Social Engineering,Perbankan,Critical,70165,648503520750.0,True,0.0,Kepolisian
+INC-000098,2022-05-08,Jawa Timur,Data Breach,Asuransi,High,1039,25854637045.0,True,78.0,Kominfo
+INC-000385,2023-04-23,Jawa Tengah,DDoS,Media,Medium,85,614494155.0,True,2.0,Kominfo
+INC-000929,2021-12-31,Lampung,Man-in-the-Middle,Ritel,Medium,115,810068625.0,True,6.0,Kepolisian
+INC-000557,2022-06-18,DKI Jakarta,Ransomware,UMKM,Critical,98676,6092774289000.0,False,29.0,Kepolisian
+INC-001462,2021-07-08,Sulawesi Selatan,Social Engineering,Asuransi,High,3467,39043689840.0,True,42.0,Laporan Publik
+INC-000310,2022-12-23,Maluku,Business Email Compromise,Energi,Medium,752,6588535952.0,True,14.0,Laporan Publik
+INC-001193,2023-12-26,DKI Jakarta,Malware,Ritel,High,8808,263362591080.0,True,30.0,Kominfo
+INC-000412,2024-03-16,Kalimantan Selatan,Malware,Pemerintahan,High,9003,323031376245.0,True,64.0,BSSN
+INC-001261,2024-02-11,DKI Jakarta,Data Breach,Perbankan,Medium,809,5931139005.0,False,118.0,Kominfo
+INC-000945,2023-01-15,Jawa Barat,Social Engineering,E-Commerce,Medium,668,248234812.0,True,44.0,BSSN
+INC-000825,2023-04-02,Sulawesi Barat,Insider Threat,Pendidikan,Low,65,336010870.0,False,101.0,Kepolisian
+INC-001488,2024-06-29,Sumatera Selatan,Phishing,UMKM,Medium,889,2512693603.0,True,0.0,BSSN
+INC-000871,2021-06-12,Jawa Timur,Ransomware,Fintech,Critical,44744,3555800758160.0,False,40.0,Kepolisian
+INC-000691,2024-10-10,Riau,Social Engineering,Energi,Medium,388,1762734828.0,False,11.0,Kepolisian
+INC-000926,2022-04-15,Jawa Barat,DDoS,Manufaktur,Low,3,15780075.0,True,106.0,Laporan Publik
+INC-000800,2020-10-20,Nusa Tenggara Timur,Data Breach,Transportasi,High,9280,239038972800.0,True,41.0,BSSN
+INC-000799,2023-10-18,Jawa Timur,Data Breach,Transportasi,High,4384,150382379200.0,True,73.0,Kominfo
+INC-000578,2022-04-23,Jawa Timur,Phishing,UMKM,Low,1,9566898.0,True,21.0,Kominfo
+INC-000595,2022-01-21,Jawa Barat,Phishing,UMKM,High,5039,173996544025.0,True,13.0,Laporan Publik
+INC-001319,2020-09-13,DKI Jakarta,Data Breach,Pendidikan,High,1809,12543542685.0,True,38.0,Kepolisian
+INC-000161,2022-06-02,DKI Jakarta,Zero-Day Exploit,UMKM,Medium,621,3010292532.0,True,1.0,Kepolisian
+INC-001123,2022-12-01,Nusa Tenggara Barat,Phishing,Kesehatan,High,9374,280173627250.0,True,15.0,BSSN
+INC-001294,2023-11-17,Riau,Phishing,Ritel,Medium,443,4332963508.0,True,22.0,Kepolisian
+INC-000241,2022-07-28,Jawa Tengah,Phishing,Ritel,Medium,371,3204082511.0,True,30.0,Kominfo
+INC-000537,2021-01-15,DKI Jakarta,Social Engineering,UMKM,High,8859,295108527480.0,True,2.0,Kepolisian
+INC-001021,2022-06-20,Jawa Barat,Data Breach,E-Commerce,High,6252,208198789800.0,False,38.0,Kominfo
+INC-001213,2022-07-16,Sulawesi Tenggara,Credential Stuffing,Fintech,Medium,823,330805673.0,False,28.0,BSSN
+INC-000753,2021-01-22,Jawa Tengah,Phishing,UMKM,Low,55,209073645.0,False,79.0,BSSN
+INC-001035,2024-03-10,DKI Jakarta,DDoS,Media,Low,5,48917420.0,False,23.0,Kepolisian
+INC-001428,2023-08-15,Sulawesi Barat,Phishing,UMKM,Critical,93038,2416976518440.0,False,90.0,BSSN
+INC-001074,2021-07-30,DKI Jakarta,Phishing,Pemerintahan,Low,64,73704704.0,False,67.0,Laporan Publik
+INC-000784,2023-04-26,Jawa Timur,DDoS,Media,Medium,193,1744751652.0,False,23.0,Laporan Publik
+INC-000072,2022-03-23,Aceh,Malware,Manufaktur,Medium,570,1647872280.0,True,61.0,BSSN
+INC-000439,2024-12-05,Jawa Timur,Cryptojacking,E-Commerce,High,3340,21353321400.0,True,131.0,Laporan Publik
+INC-000552,2023-03-14,Banten,Cryptojacking,Pemerintahan,Medium,507,228028320.0,True,17.0,Kominfo
+INC-000295,2022-11-04,Kalimantan Timur,Social Engineering,Transportasi,Critical,33872,1772477387680.0,True,122.0,Kominfo
+INC-000739,2021-03-04,Jawa Barat,Phishing,Transportasi,High,3988,75027579980.0,True,43.0,Kominfo
+INC-000498,2021-12-04,DKI Jakarta,Social Engineering,E-Commerce,Medium,226,754242230.0,True,15.0,BSSN
+INC-000165,2021-10-23,Maluku,Data Breach,Pemerintahan,High,752,31604792800.0,True,38.0,Kepolisian
+INC-001121,2024-10-06,Papua Barat,Zero-Day Exploit,Asuransi,Critical,2868,206483782320.0,False,72.0,Kominfo
+INC-001220,2022-10-23,DKI Jakarta,Social Engineering,Energi,High,6181,170875228440.0,True,81.0,Kominfo
+INC-000757,2022-10-03,Jawa Timur,Malware,E-Commerce,High,9405,315141235200.0,False,104.0,Laporan Publik
+INC-000635,2021-08-25,DKI Jakarta,Ransomware,Pendidikan,Critical,3108,14484585360.0,True,7.0,BSSN
+INC-000628,2022-04-16,Jawa Barat,Man-in-the-Middle,Pemerintahan,Medium,485,1219557235.0,True,139.0,BSSN
+INC-001376,2022-09-17,Jawa Timur,Data Breach,UMKM,High,2115,62770767750.0,True,34.0,Kepolisian
+INC-000898,2023-02-08,Jawa Barat,DDoS,Media,Medium,815,5527423725.0,True,141.0,Kominfo
+INC-000063,2022-10-24,Jawa Timur,Phishing,Perbankan,Low,3,29096463.0,False,2.0,Laporan Publik
+INC-001120,2023-11-02,Nusa Tenggara Barat,Business Email Compromise,Pemerintahan,Medium,180,444334320.0,True,282.0,Kominfo
+INC-000442,2021-08-12,Sulawesi Barat,SQL Injection,Telekomunikasi,Medium,270,2181500910.0,True,150.0,Laporan Publik
+INC-001258,2020-08-25,DI Yogyakarta,Credential Stuffing,Transportasi,Medium,633,775845312.0,True,35.0,BSSN
+INC-001332,2023-11-26,DKI Jakarta,Malware,Kesehatan,Medium,243,623779299.0,False,126.0,Laporan Publik
+INC-000154,2022-04-26,Jawa Timur,Data Breach,Kesehatan,High,6252,104046065340.0,True,156.0,Kominfo
+INC-000317,2022-07-29,Jawa Tengah,DDoS,Pemerintahan,Medium,991,5662631478.0,True,67.0,Kominfo
+INC-000505,2024-03-09,DKI Jakarta,Phishing,Telekomunikasi,Medium,635,6220585095.0,True,23.0,Kominfo
+INC-001374,2023-11-17,DKI Jakarta,SQL Injection,Telekomunikasi,Critical,14418,709085890800.0,True,110.0,Kominfo
+INC-000708,2021-12-19,Jawa Timur,Data Breach,UMKM,Critical,36794,1740725611760.0,True,43.0,Kepolisian
+INC-000332,2023-06-10,Jawa Barat,Data Breach,Manufaktur,High,6602,221190536130.0,False,13.0,Laporan Publik
+INC-001497,2023-10-21,DKI Jakarta,DDoS,Telekomunikasi,Critical,86350,4010908280500.0,True,26.0,Kominfo
+INC-000256,2023-05-15,Bangka Belitung,Business Email Compromise,Telekomunikasi,Low,79,206792454.0,True,167.0,Laporan Publik
+INC-000062,2024-03-25,Banten,Malware,Kesehatan,Medium,273,2244806382.0,True,45.0,Kepolisian
+INC-000840,2022-02-14,Kalimantan Utara,Malware,Fintech,Medium,316,455204952.0,False,131.0,BSSN
+INC-000463,2021-05-14,Jawa Barat,Phishing,Media,Medium,770,5518792510.0,True,5.0,BSSN
+INC-000312,2023-03-26,Jawa Barat,Cryptojacking,Pemerintahan,Critical,82686,5678389940040.0,True,3.0,Kominfo
+INC-000149,2022-04-30,Jawa Barat,Phishing,Ritel,Low,41,235200149.0,True,9.0,BSSN
+INC-001411,2021-11-06,Jawa Barat,Social Engineering,Asuransi,Medium,812,3109185352.0,True,65.0,Laporan Publik
+INC-000938,2022-03-05,Sulawesi Tenggara,Phishing,Pemerintahan,Medium,763,7231620151.0,False,17.0,Laporan Publik
+INC-001470,2022-09-26,Jawa Tengah,Business Email Compromise,Kesehatan,Critical,93152,7312069638720.0,False,64.0,BSSN
+INC-000954,2022-07-30,Bali,Phishing,Perbankan,Low,84,256639068.0,True,7.0,Kominfo
+INC-000973,2022-01-08,Nusa Tenggara Timur,Social Engineering,Asuransi,Low,87,649649967.0,True,33.0,Laporan Publik
+INC-001063,2024-08-11,DKI Jakarta,Social Engineering,Pemerintahan,Low,78,22657206.0,True,42.0,Kepolisian
+INC-000982,2023-12-14,Gorontalo,Data Breach,Kesehatan,High,4368,33516450240.0,False,37.0,Kominfo
+INC-001302,2023-08-29,Sumatera Utara,Ransomware,Media,Critical,26135,143760010450.0,False,7.0,Kominfo
+INC-001051,2021-06-22,Sulawesi Utara,Cryptojacking,Telekomunikasi,High,7128,54637652520.0,True,6.0,Kepolisian
+INC-000862,2023-09-20,Jawa Tengah,Malware,E-Commerce,High,4759,207714835660.0,False,28.0,Kepolisian
+INC-001444,2023-09-11,Sumatera Selatan,DDoS,Kesehatan,Medium,755,2726643995.0,True,8.0,Kepolisian
+INC-000966,2023-04-16,Jawa Barat,Data Breach,Transportasi,High,9183,293939381640.0,True,1.0,BSSN
+INC-000188,2020-10-30,Jawa Barat,DDoS,Ritel,Low,84,135423540.0,False,11.0,BSSN
+INC-001337,2022-10-24,Jawa Tengah,Phishing,Fintech,Medium,805,4378304840.0,True,11.0,BSSN
+INC-000340,2023-10-19,Jawa Barat,Insider Threat,Telekomunikasi,Medium,278,469240648.0,True,1.0,Laporan Publik
+INC-000022,2023-12-03,Sumatera Selatan,Phishing,Pemerintahan,Low,73,60959526.0,False,1.0,BSSN
+INC-001301,2023-04-23,Nusa Tenggara Barat,DDoS,UMKM,High,932,8026905920.0,False,52.0,Kominfo
+INC-001240,2023-03-30,Jawa Barat,Malware,Energi,High,6350,144894077750.0,True,13.0,Kominfo
+INC-000185,2021-10-03,Jawa Tengah,Social Engineering,Telekomunikasi,Medium,501,1463702562.0,True,27.0,BSSN
+INC-000581,2024-06-15,Jawa Barat,Malware,Fintech,High,2196,97107636060.0,False,1.0,Laporan Publik
+INC-000531,2022-09-25,DKI Jakarta,Ransomware,Transportasi,Critical,19890,748039032000.0,True,297.0,BSSN
+INC-001227,2024-06-18,Kalimantan Selatan,Man-in-the-Middle,E-Commerce,Medium,305,388288485.0,False,259.0,BSSN
+INC-000461,2021-06-26,DKI Jakarta,Ransomware,Telekomunikasi,High,1086,29057059440.0,False,74.0,Kepolisian
+INC-000913,2022-03-24,Jawa Barat,Phishing,Perbankan,Medium,257,835346118.0,True,18.0,BSSN
+INC-000944,2021-12-08,Kalimantan Selatan,Data Breach,UMKM,Critical,24572,484039650760.0,True,75.0,Kominfo
+INC-000867,2023-07-20,Jawa Barat,Phishing,E-Commerce,High,698,19739125900.0,True,45.0,Kominfo
+INC-001106,2023-03-16,Maluku Utara,Phishing,Pendidikan,Medium,575,3249104200.0,False,4.0,Laporan Publik
+INC-001142,2021-10-01,Jawa Barat,Phishing,Fintech,Low,30,152769960.0,False,26.0,BSSN
+INC-000371,2022-07-11,Jawa Timur,SQL Injection,Asuransi,High,5429,139749110525.0,True,70.0,Kepolisian
+INC-000911,2021-07-27,Jawa Timur,Data Breach,Energi,Medium,694,,True,36.0,Laporan Publik
+INC-001154,2023-01-04,Jawa Barat,Data Breach,Manufaktur,Medium,429,2821162773.0,True,336.0,BSSN
+INC-000569,2024-01-16,Banten,Phishing,Transportasi,High,532,17901970240.0,True,20.0,Laporan Publik
+INC-001391,2022-03-01,Jawa Tengah,Insider Threat,Pemerintahan,Medium,130,590299840.0,True,172.0,Kominfo
+INC-000047,2021-12-20,DKI Jakarta,Credential Stuffing,E-Commerce,Medium,93,102450846.0,True,8.0,Laporan Publik
+INC-001086,2023-07-18,DKI Jakarta,Phishing,Fintech,High,4917,95456179500.0,True,28.0,Laporan Publik
+INC-000485,2024-02-12,Papua Barat,Phishing,Kesehatan,Medium,133,384350050.0,True,33.0,BSSN
+INC-000209,2021-11-23,Jawa Tengah,DDoS,Ritel,Medium,615,1570118985.0,True,12.0,Laporan Publik
+INC-001172,2022-02-16,DKI Jakarta,Social Engineering,Pemerintahan,Medium,436,2105011052.0,True,21.0,Kominfo
+INC-000762,2024-04-27,Banten,DDoS,Kesehatan,Medium,266,2063933900.0,True,5.0,Kepolisian
+INC-000749,2023-07-23,Jawa Timur,Phishing,Asuransi,Low,59,299318682.0,True,55.0,Kepolisian
+INC-000998,2022-10-17,Jawa Tengah,Ransomware,Perbankan,Critical,36157,2877869772470.0,True,5.0,Kepolisian
+INC-000142,2023-09-06,Jawa Timur,Ransomware,Perbankan,Critical,68042,4186404484340.0,True,6.0,BSSN
+INC-001221,2024-11-11,Banten,Ransomware,Pemerintahan,Low,61,,True,56.0,Laporan Publik
+INC-001174,2023-10-27,Jawa Barat,Phishing,Kesehatan,High,1931,35278906560.0,False,147.0,Kominfo
+INC-001268,2021-10-18,DKI Jakarta,Business Email Compromise,Pemerintahan,Low,66,66098670.0,True,4.0,Kepolisian
+INC-000821,2023-11-03,Nusa Tenggara Barat,Malware,Asuransi,Low,29,223372355.0,True,57.0,Kepolisian
+INC-000948,2024-08-14,DKI Jakarta,Phishing,UMKM,Medium,212,507416488.0,False,15.0,Kepolisian
+INC-000994,2023-06-23,Jawa Tengah,Website Defacement,Pemerintahan,Critical,44351,529531425560.0,True,233.0,Kominfo
+INC-000846,2023-06-21,Maluku,Zero-Day Exploit,Kesehatan,Critical,40236,2997314832960.0,True,22.0,Laporan Publik
+INC-001329,2022-08-13,Papua,Phishing,Energi,Low,60,237448140.0,True,35.0,Laporan Publik
+INC-000927,2023-06-14,Jawa Tengah,Phishing,Transportasi,Low,90,756193140.0,True,48.0,BSSN
+INC-001316,2021-10-05,DKI Jakarta,Ransomware,Pemerintahan,Critical,50582,4856564973400.0,True,1.0,BSSN
+INC-000612,2023-11-21,Jawa Barat,Social Engineering,Pendidikan,Medium,157,1026704483.0,False,112.0,Kepolisian
+INC-000287,2023-02-22,Papua Barat,Social Engineering,Pendidikan,Low,78,538537506.0,False,9.0,BSSN
+INC-001264,2021-08-15,Sulawesi Tengah,Phishing,Asuransi,Low,66,,True,14.0,Kominfo
+INC-000361,2022-08-09,Lampung,Man-in-the-Middle,UMKM,Medium,201,1000441923.0,True,165.0,Kominfo
+INC-000483,2024-04-20,Jawa Tengah,Malware,E-Commerce,Medium,870,6802305540.0,False,111.0,Laporan Publik
+INC-001175,2024-11-04,DKI Jakarta,Social Engineering,Fintech,Low,65,250747510.0,True,111.0,BSSN
+INC-001318,2024-07-12,Papua Barat,Phishing,Ritel,Medium,528,2277308880.0,False,206.0,Laporan Publik
+INC-000353,2024-03-19,Jambi,Ransomware,Telekomunikasi,High,452,15077635200.0,True,0.0,Laporan Publik
+INC-001311,2021-07-15,DKI Jakarta,Phishing,Perbankan,Critical,9007,587388983040.0,True,1.0,BSSN
+INC-000880,2022-01-18,Jawa Timur,DDoS,Telekomunikasi,High,8761,215898461930.0,False,18.0,BSSN
+INC-000381,2024-01-27,Kepulauan Riau,Data Breach,Media,High,1713,29403225315.0,False,5.0,Kepolisian
+INC-000479,2023-04-23,Maluku,Phishing,Media,Low,18,69699906.0,False,2.0,BSSN
+INC-001278,2020-10-25,Banten,Phishing,Pemerintahan,Low,33,312560160.0,True,4.0,BSSN
+INC-001305,2022-01-20,Sumatera Barat,Social Engineering,E-Commerce,Low,74,378177000.0,True,24.0,BSSN
+INC-001096,2022-01-10,Kalimantan Timur,Credential Stuffing,Fintech,Low,67,637918524.0,True,97.0,Kepolisian
+INC-000285,2022-03-02,Jawa Timur,Ransomware,Pendidikan,High,4399,32964016475.0,True,125.0,BSSN
+INC-000151,2023-06-14,Bangka Belitung,Malware,Asuransi,Medium,32,309479232.0,True,167.0,Laporan Publik
+INC-000711,2024-01-02,Sumatera Selatan,Phishing,Manufaktur,Medium,863,5390107277.0,True,,Kominfo
+INC-001025,2022-11-20,DKI Jakarta,Data Breach,Ritel,High,4188,114935702340.0,True,51.0,Laporan Publik
+INC-000706,2024-01-16,Jawa Barat,DDoS,Telekomunikasi,High,4202,202935905150.0,False,20.0,Kominfo
+INC-001020,2021-12-26,Kalimantan Barat,Social Engineering,Media,Low,9,32374548.0,True,168.0,Kominfo
+INC-000977,2023-08-25,DKI Jakarta,Ransomware,Fintech,Critical,57035,1108783214000.0,True,2.0,Kepolisian
+INC-000777,2022-03-31,Bangka Belitung,Ransomware,E-Commerce,Low,28,173457172.0,True,21.0,Kepolisian
+INC-000078,2022-07-19,Jawa Timur,Malware,Ritel,Critical,12595,1193852089100.0,True,15.0,Laporan Publik
+INC-000728,2023-11-16,Jawa Barat,Data Breach,Manufaktur,High,9441,260744653530.0,False,32.0,Laporan Publik
+INC-000651,2023-02-05,DKI Jakarta,DDoS,Telekomunikasi,High,1945,69547345550.0,True,84.0,Kominfo
+INC-000866,2023-08-13,Bali,Ransomware,E-Commerce,Critical,21946,1365318377980.0,True,17.0,Kominfo
+INC-000017,2021-08-13,Jawa Barat,Malware,Fintech,Medium,517,2749393075.0,False,3.0,Kepolisian
+INC-001166,2024-09-02,DKI Jakarta,Phishing,Media,Medium,241,1198928487.0,False,21.0,BSSN
+INC-000416,2021-06-23,DKI Jakarta,Phishing,E-Commerce,Medium,155,1223583485.0,True,36.0,Kominfo
+INC-000496,2022-09-20,Sumatera Barat,DDoS,Manufaktur,High,2929,60630519675.0,True,43.0,Kominfo
+INC-000066,2024-03-09,Sulawesi Selatan,Social Engineering,E-Commerce,Medium,605,4927737705.0,True,51.0,Laporan Publik
+INC-000904,2020-11-28,DI Yogyakarta,Malware,Energi,High,6755,210684228125.0,False,21.0,Kominfo
+INC-000535,2024-09-03,Riau,Credential Stuffing,UMKM,Medium,214,362132940.0,True,86.0,Kepolisian
+INC-000480,2023-06-15,Kalimantan Barat,Ransomware,Pendidikan,Medium,564,1200102888.0,False,153.0,Kominfo
+INC-001011,2024-08-30,Sumatera Utara,Data Breach,Perbankan,Critical,7780,102441827400.0,True,63.0,Kominfo
+INC-001000,2021-02-05,Maluku,Man-in-the-Middle,Transportasi,Medium,28,197739108.0,True,21.0,BSSN
+INC-001382,2024-03-19,Papua,DDoS,Manufaktur,Critical,42833,2848986023730.0,True,11.0,Kominfo
+INC-000593,2023-01-13,Jawa Barat,Malware,Telekomunikasi,Low,17,6583233.0,True,69.0,Kominfo
+INC-000318,2023-07-02,Banten,Malware,UMKM,Low,24,132562656.0,True,67.0,Kepolisian
+INC-001396,2024-09-12,Jawa Timur,Business Email Compromise,E-Commerce,Critical,74438,5440973405140.0,True,121.0,Kepolisian
+INC-001119,2024-03-14,Banten,Phishing,Fintech,Low,86,579724366.0,True,53.0,Laporan Publik
+INC-000527,2022-10-01,Aceh,Malware,Telekomunikasi,Medium,542,4959978042.0,False,27.0,Kominfo
+INC-000352,2021-11-12,Jawa Timur,Ransomware,Ritel,High,4560,201418460400.0,False,10.0,Laporan Publik
+INC-000228,2022-08-07,Papua Barat,Social Engineering,Media,High,5402,59169483510.0,True,50.0,Kominfo
+INC-000199,2023-04-09,Bangka Belitung,Data Breach,Asuransi,Critical,14663,1038944079030.0,False,24.0,Laporan Publik
+INC-000082,2023-04-06,Jawa Barat,Business Email Compromise,UMKM,Medium,519,1693630383.0,False,130.0,Kominfo
+INC-001459,2023-02-08,Kalimantan Selatan,DDoS,Pemerintahan,Medium,500,1062338000.0,False,78.0,Laporan Publik
+INC-000561,2023-10-10,Jawa Tengah,Malware,Manufaktur,Low,33,36108567.0,False,0.0,Laporan Publik
+INC-001139,2022-08-14,Banten,Phishing,Asuransi,Medium,590,1175579720.0,True,71.0,Kominfo
+INC-001421,2022-01-04,Jawa Timur,Phishing,UMKM,Medium,316,877746248.0,True,20.0,BSSN
+INC-000528,2023-01-17,DKI Jakarta,Zero-Day Exploit,Perbankan,Low,13,50232520.0,False,14.0,Kepolisian
+INC-001282,2024-01-23,DKI Jakarta,Ransomware,Fintech,High,5237,63471497340.0,True,8.0,Kepolisian
+INC-001072,2022-02-28,Jawa Timur,Insider Threat,Perbankan,Medium,153,1515558483.0,True,1.0,Kominfo
+INC-000857,2023-03-10,Kalimantan Selatan,DDoS,Transportasi,Medium,488,3670127952.0,True,20.0,BSSN
+INC-001407,2023-01-28,Sulawesi Tenggara,Man-in-the-Middle,Energi,Medium,410,3891821270.0,True,2.0,Laporan Publik
+INC-001062,2024-05-25,DKI Jakarta,Malware,Media,Low,7,24304147.0,True,70.0,Kepolisian
+INC-001196,2024-07-22,Bali,DDoS,Fintech,High,3770,145419587950.0,True,13.0,BSSN
+INC-000492,2022-09-09,Jawa Barat,Data Breach,Perbankan,High,8028,102436316640.0,True,46.0,BSSN
+INC-000081,2022-07-24,Jawa Timur,Data Breach,Ritel,Critical,69187,4471404290470.0,True,9.0,BSSN
+INC-000048,2023-12-12,Jawa Barat,Social Engineering,Manufaktur,Low,15,50194785.0,True,63.0,Laporan Publik
+INC-001420,2024-09-02,DKI Jakarta,Data Breach,E-Commerce,Critical,73959,3144670116900.0,True,2.0,BSSN
+INC-001361,2022-12-24,DKI Jakarta,Ransomware,Energi,Low,60,,False,10.0,Kominfo
+INC-000975,2024-03-25,Jawa Barat,Phishing,Pemerintahan,Low,26,119011750.0,True,68.0,BSSN
+INC-000963,2021-09-07,Nusa Tenggara Timur,Data Breach,Pemerintahan,High,3661,,False,33.0,Kepolisian
+INC-001496,2021-11-22,Aceh,Data Breach,Kesehatan,High,5503,128985532390.0,False,9.0,Kepolisian
+INC-001327,2023-09-24,Jawa Tengah,Man-in-the-Middle,Ritel,Low,1,7835491.0,False,6.0,Kominfo
+INC-000548,2022-03-02,Jawa Tengah,Credential Stuffing,UMKM,High,4421,193982272765.0,True,88.0,Kepolisian
+INC-000397,2022-07-10,Jawa Tengah,Data Breach,Kesehatan,High,9216,31660139520.0,False,0.0,Kepolisian
+INC-000016,2023-08-19,Jawa Timur,SQL Injection,E-Commerce,Low,84,637712712.0,True,101.0,Kominfo
+INC-000379,2023-03-03,Jawa Barat,Phishing,Energi,High,3870,143496600750.0,True,13.0,Laporan Publik
+INC-000906,2021-12-22,Jawa Timur,Phishing,Telekomunikasi,Medium,298,987027852.0,True,34.0,Laporan Publik
+INC-001179,2022-12-09,Riau,Data Breach,Media,Medium,898,7327479746.0,False,75.0,Laporan Publik
+INC-000714,2020-12-10,Jawa Timur,Social Engineering,Media,High,2746,46452530510.0,False,223.0,BSSN
+INC-001486,2024-09-21,Banten,Ransomware,Pemerintahan,Critical,57174,3440926855080.0,True,45.0,Laporan Publik
+INC-000910,2021-09-21,Banten,Social Engineering,Telekomunikasi,Medium,926,4077945654.0,True,35.0,Laporan Publik
+INC-000623,2021-10-16,DKI Jakarta,Phishing,Manufaktur,Low,86,679465102.0,False,1.0,Kepolisian
+INC-000160,2022-03-18,Jawa Barat,Data Breach,UMKM,High,3721,156816633280.0,True,70.0,Kominfo
+INC-000632,2022-03-10,Jawa Timur,Phishing,Kesehatan,Low,51,197095110.0,True,64.0,Kominfo
+INC-000893,2024-08-16,Jawa Barat,Data Breach,Pemerintahan,High,4119,182081898435.0,True,61.0,BSSN
+INC-000323,2023-08-30,Nusa Tenggara Barat,Social Engineering,Fintech,Medium,537,1436251608.0,False,37.0,BSSN
+INC-000102,2022-03-12,Kepulauan Riau,Phishing,Ritel,Low,89,314210940.0,True,17.0,BSSN
+INC-000123,2022-12-01,Sulawesi Selatan,Social Engineering,Pendidikan,Low,61,564764230.0,True,35.0,BSSN
+INC-000177,2021-07-30,DKI Jakarta,Malware,Ritel,Medium,626,1940663852.0,True,5.0,BSSN
+INC-001480,2021-02-12,Nusa Tenggara Timur,Business Email Compromise,Ritel,Medium,552,407965536.0,False,87.0,Laporan Publik
+INC-000343,2022-07-25,DKI Jakarta,Data Breach,Manufaktur,Critical,61180,1653748626600.0,False,,Kominfo
+INC-000396,2022-07-30,Jawa Barat,Data Breach,Pemerintahan,Medium,247,1712965748.0,True,76.0,Kominfo
+INC-001099,2021-05-28,Banten,SQL Injection,Pemerintahan,High,3194,144724803240.0,True,8.0,BSSN
+INC-001136,2022-06-20,Jawa Timur,Zero-Day Exploit,Transportasi,High,3642,4204288380.0,False,81.0,Kominfo
+INC-000071,2022-01-18,Jawa Barat,Insider Threat,Transportasi,Medium,967,6063111274.0,False,14.0,BSSN
+INC-000436,2023-11-28,DKI Jakarta,Website Defacement,Energi,High,5833,74415955750.0,False,9.0,BSSN
+INC-000080,2020-07-12,Jawa Barat,Zero-Day Exploit,E-Commerce,High,5045,154506656500.0,True,2.0,Laporan Publik
+INC-000304,2023-11-22,Banten,Data Breach,Transportasi,High,5944,182687086520.0,True,,BSSN
+INC-000351,2021-10-14,Sulawesi Barat,Data Breach,Pendidikan,High,873,31125662640.0,False,32.0,BSSN
+INC-000293,2023-12-12,Banten,Data Breach,Perbankan,High,9450,221960513250.0,True,25.0,Laporan Publik
+INC-001184,2022-11-22,Maluku,SQL Injection,Perbankan,Low,41,45645095.0,False,,Laporan Publik
+INC-000455,2023-12-27,Jawa Barat,Malware,Telekomunikasi,High,4990,224054018950.0,False,135.0,BSSN
+INC-000428,2020-08-21,DKI Jakarta,Social Engineering,UMKM,Medium,529,4869279423.0,True,,BSSN
+INC-001047,2023-10-31,DKI Jakarta,Social Engineering,UMKM,High,4875,189642935625.0,True,10.0,Kominfo
+INC-000690,2021-07-16,Riau,Insider Threat,Media,High,9203,367989501460.0,True,7.0,Kepolisian
+INC-001189,2023-06-15,Banten,Man-in-the-Middle,Ritel,Medium,490,4340189210.0,True,62.0,Kepolisian
+INC-000507,2022-04-12,DKI Jakarta,Credential Stuffing,Energi,High,1790,66732524600.0,True,13.0,BSSN
+INC-001041,2023-02-02,Kalimantan Timur,Phishing,Kesehatan,Critical,81210,1148739813000.0,True,8.0,BSSN
+INC-000761,2022-05-23,Kalimantan Selatan,Cryptojacking,Fintech,Medium,981,9638304399.0,True,4.0,Kominfo
+INC-000549,2023-05-15,Kepulauan Riau,DDoS,UMKM,High,3085,54682905275.0,True,0.0,BSSN
+INC-000682,2022-01-27,DKI Jakarta,Phishing,Pendidikan,High,9637,451961760015.0,True,,Kominfo
+INC-000447,2023-11-24,Kepulauan Riau,Website Defacement,Manufaktur,Medium,296,906008936.0,False,49.0,Kepolisian
+INC-000551,2021-06-19,Sumatera Selatan,Phishing,Fintech,Medium,723,1182401430.0,True,24.0,Kepolisian
+INC-000429,2023-11-13,Kalimantan Selatan,DDoS,E-Commerce,High,8841,140911659630.0,True,1.0,BSSN
+INC-000599,2023-05-20,DKI Jakarta,Data Breach,Media,Critical,73322,3342599669900.0,True,13.0,Kominfo
+INC-000883,2022-08-28,DKI Jakarta,SQL Injection,UMKM,High,6529,67185825730.0,True,6.0,Kepolisian
+INC-000271,2022-04-26,Nusa Tenggara Barat,Ransomware,Pemerintahan,Medium,649,1099779175.0,False,20.0,Kepolisian
+INC-001465,2024-05-09,DKI Jakarta,DDoS,Perbankan,High,5329,176252651605.0,True,11.0,Laporan Publik
+INC-000383,2023-04-18,Jawa Barat,Business Email Compromise,Pendidikan,Low,13,,True,,Kepolisian
+INC-000518,2020-11-29,DKI Jakarta,Phishing,Perbankan,Medium,83,330624192.0,True,64.0,Kominfo
+INC-001283,2022-10-17,Sumatera Barat,Ransomware,Fintech,Critical,22573,154125509510.0,True,7.0,Kominfo
+INC-000743,2020-09-23,Jawa Barat,Malware,UMKM,Critical,11846,329736371500.0,True,14.0,Kepolisian
+INC-000183,2023-10-12,Sulawesi Barat,Ransomware,E-Commerce,Critical,58745,2054641034550.0,True,5.0,Kominfo
+INC-001110,2021-04-16,Jawa Tengah,SQL Injection,UMKM,High,5829,230493698820.0,True,12.0,Kominfo
+INC-001467,2022-03-01,Gorontalo,Zero-Day Exploit,Media,Low,52,431544412.0,True,,BSSN
+INC-000264,2023-10-31,DKI Jakarta,Ransomware,UMKM,Critical,48829,3279474294470.0,True,162.0,Laporan Publik
+INC-000491,2022-03-08,Jawa Barat,Phishing,Asuransi,Medium,69,377509971.0,True,25.0,Laporan Publik
+INC-000391,2023-08-18,Sulawesi Tengah,Phishing,UMKM,High,7478,54231091630.0,True,38.0,Kepolisian
+INC-000339,2023-02-01,Jawa Timur,Phishing,E-Commerce,Low,9,,True,106.0,BSSN
+INC-000059,2024-02-03,DKI Jakarta,DDoS,Kesehatan,High,8947,151009881690.0,True,7.0,BSSN
+INC-000483,2024-04-20,Jawa Tengah,Malware,E-Commerce,Medium,870,6802305540.0,False,111.0,Laporan Publik
+INC-000433,2022-06-03,DKI Jakarta,Phishing,Media,Medium,995,3481006505.0,True,94.0,Laporan Publik
+INC-001464,2021-06-06,Jawa Barat,Cryptojacking,Fintech,Medium,715,3326851385.0,True,71.0,Laporan Publik
+INC-000745,2022-06-14,Jawa Barat,DDoS,Telekomunikasi,Low,23,,True,56.0,Kepolisian
+INC-001439,2024-02-21,Jawa Timur,Zero-Day Exploit,Kesehatan,Critical,12882,1179203208060.0,False,26.0,BSSN
+INC-001273,2022-08-26,DKI Jakarta,Insider Threat,UMKM,Medium,658,2138109806.0,True,0.0,Kominfo
+INC-000968,2022-10-30,Gorontalo,SQL Injection,UMKM,Medium,495,1111741785.0,False,35.0,Laporan Publik
+INC-000868,2023-02-08,Jawa Tengah,Phishing,Perbankan,Medium,630,4092576390.0,True,2.0,Laporan Publik
+INC-000378,2021-12-28,Jawa Barat,Phishing,Transportasi,Medium,705,4648010010.0,True,26.0,BSSN
+INC-000638,2023-11-30,DKI Jakarta,Ransomware,Manufaktur,Medium,21,49652001.0,True,52.0,Laporan Publik
+INC-001129,2024-01-01,Jawa Barat,Cryptojacking,Manufaktur,Low,77,614903982.0,True,60.0,Kominfo
+INC-000859,2021-12-16,DKI Jakarta,Man-in-the-Middle,Fintech,Medium,396,1814344488.0,False,37.0,Kominfo
+INC-001369,2023-01-21,Jawa Tengah,Data Breach,Pemerintahan,High,9189,289923930855.0,True,54.0,BSSN
+INC-000036,2022-06-03,Jawa Timur,Data Breach,Manufaktur,High,9757,316859599485.0,True,13.0,Kepolisian
+INC-000729,2022-10-04,DKI Jakarta,Malware,Telekomunikasi,Low,47,340581881.0,True,,BSSN
+INC-000236,2024-03-30,DKI Jakarta,Phishing,Asuransi,High,596,5952445700.0,False,46.0,BSSN
+INC-000029,2022-08-05,Papua Barat,Data Breach,UMKM,Critical,29261,848176317380.0,False,62.0,BSSN
+INC-000733,2024-02-17,Bengkulu,Phishing,Ritel,Medium,473,209669075.0,True,5.0,Laporan Publik
+INC-000650,2023-04-25,Jawa Tengah,Phishing,Ritel,Medium,680,3343544360.0,True,3.0,Laporan Publik
+INC-000462,2021-08-24,Jawa Barat,Phishing,Perbankan,Low,47,405422611.0,True,6.0,Kominfo
+INC-001335,2024-11-12,Sumatera Barat,Ransomware,Media,High,8268,113890253100.0,False,99.0,BSSN
+INC-001225,2024-08-17,Sulawesi Selatan,Business Email Compromise,Kesehatan,High,4214,61341470260.0,True,24.0,Laporan Publik
+INC-001252,2022-08-31,Jawa Timur,DDoS,Manufaktur,Critical,14882,1232451937080.0,False,65.0,BSSN
+INC-000308,2023-10-06,Sulawesi Tengah,Phishing,UMKM,High,1874,87893598400.0,True,6.0,Kepolisian
+INC-001173,2023-11-18,Jawa Barat,Social Engineering,Pemerintahan,Medium,506,1051045490.0,True,36.0,Laporan Publik
+INC-000367,2023-09-02,Jawa Barat,DDoS,Ritel,Low,73,663079294.0,True,17.0,BSSN
+INC-001108,2024-09-20,Kalimantan Utara,Malware,Fintech,Medium,482,2469445542.0,True,64.0,Kepolisian
+INC-000949,2023-01-18,Kalimantan Utara,Phishing,Energi,Low,33,212436807.0,True,29.0,Kepolisian
+INC-001046,2021-11-11,Jawa Timur,Ransomware,Media,Medium,34,7537834.0,True,175.0,Laporan Publik
+INC-000894,2022-03-03,Papua Barat,Malware,Transportasi,Low,4,37108532.0,True,21.0,Laporan Publik
+INC-000359,2023-09-13,DKI Jakarta,Credential Stuffing,UMKM,High,217,3680579315.0,True,36.0,Laporan Publik
+INC-000369,2022-01-30,DKI Jakarta,Ransomware,Transportasi,High,965,1351559700.0,True,71.0,Kepolisian
+INC-000238,2022-02-27,Jawa Barat,Phishing,Ritel,High,1009,29253356825.0,False,2.0,Kominfo
+INC-001269,2022-01-06,Jawa Barat,Business Email Compromise,UMKM,Medium,819,2637873693.0,False,19.0,Kepolisian
+INC-000034,2020-10-16,Kalimantan Utara,Phishing,Perbankan,High,7124,135873487360.0,True,7.0,Laporan Publik
+INC-000574,2022-12-30,Kalimantan Utara,DDoS,Transportasi,Medium,911,1468169422.0,False,41.0,Laporan Publik
+INC-001231,2023-11-01,Jawa Timur,Data Breach,Kesehatan,Critical,22468,702784660480.0,False,25.0,Kepolisian
+INC-000070,2023-06-13,Jawa Barat,Phishing,Fintech,Low,63,25959213.0,True,34.0,Kepolisian
+INC-000253,2021-11-16,DKI Jakarta,Data Breach,Asuransi,High,9507,454417772610.0,True,16.0,Kominfo
+INC-001105,2024-05-07,Kalimantan Selatan,Ransomware,UMKM,Medium,932,,True,59.0,BSSN
+INC-000375,2022-07-25,Jawa Tengah,Phishing,Media,Low,73,175396370.0,False,6.0,Kominfo
+INC-000213,2021-01-28,Jawa Timur,Ransomware,Kesehatan,High,1509,47181020235.0,False,56.0,BSSN
+INC-000556,2023-08-31,Banten,Data Breach,UMKM,Critical,56355,223265548350.0,True,1.0,Kepolisian
+INC-000528,2023-01-17,DKI Jakarta,Zero-Day Exploit,Perbankan,Low,13,50232520.0,False,14.0,Kepolisian
+INC-000658,2021-01-14,Banten,SQL Injection,Fintech,Low,22,95399546.0,False,8.0,BSSN
+INC-000861,2022-04-18,Maluku Utara,Credential Stuffing,Ritel,Medium,891,708807429.0,True,19.0,Kepolisian
+INC-000189,2022-10-11,DKI Jakarta,SQL Injection,Fintech,Medium,546,4733934114.0,True,49.0,Laporan Publik
+INC-001128,2024-07-23,Nusa Tenggara Timur,Insider Threat,Asuransi,Medium,382,1847583110.0,True,8.0,Kominfo
+INC-000245,2021-09-22,Jawa Barat,Business Email Compromise,Ritel,High,2531,66678549595.0,False,,Kepolisian
+INC-000104,2022-10-22,Jawa Timur,Social Engineering,Perbankan,High,9628,390079816060.0,False,18.0,Kepolisian
+INC-001471,2021-10-23,Kalimantan Utara,Zero-Day Exploit,Asuransi,Critical,20333,1012208052820.0,True,56.0,Kominfo
+INC-000924,2024-05-10,Sulawesi Tengah,Data Breach,Telekomunikasi,Critical,82641,7244684423730.0,True,2.0,Kepolisian
+INC-001195,2023-05-27,Jawa Barat,Data Breach,Kesehatan,High,7870,138467022950.0,True,1.0,BSSN
+INC-000190,2022-11-02,Jawa Tengah,DDoS,Pendidikan,Critical,25843,1127526471980.0,True,89.0,Laporan Publik
+INC-000486,2023-12-03,Kalimantan Tengah,Social Engineering,Pendidikan,High,3181,158488283115.0,True,20.0,Laporan Publik
+INC-001328,2022-01-16,DKI Jakarta,Insider Threat,Pendidikan,High,6134,167938277510.0,False,112.0,Laporan Publik
+INC-000157,2021-10-16,Jawa Barat,DDoS,Pemerintahan,High,8099,341165434610.0,False,2.0,BSSN
+INC-000606,2024-10-12,Banten,Cryptojacking,Media,Medium,179,302879277.0,True,12.0,BSSN
+INC-001210,2022-11-27,Jawa Timur,DDoS,Pemerintahan,Medium,727,2755576453.0,True,49.0,Kominfo
+INC-000726,2021-02-28,Bangka Belitung,Phishing,Kesehatan,High,4192,97076994560.0,True,90.0,Kominfo
+INC-001053,2021-11-28,Jawa Timur,Malware,Kesehatan,Medium,554,3816604058.0,True,25.0,Laporan Publik
+INC-000665,2021-10-20,Kalimantan Barat,Credential Stuffing,UMKM,Medium,345,3011826540.0,True,77.0,Kominfo
+INC-000120,2022-07-04,DKI Jakarta,Zero-Day Exploit,Ritel,Critical,99575,1999616358250.0,True,57.0,Laporan Publik
+INC-001404,2024-07-10,Sulawesi Utara,Credential Stuffing,Pendidikan,Low,86,673824362.0,True,20.0,Kominfo
+INC-000956,2022-09-27,Sulawesi Utara,Data Breach,Fintech,Critical,91921,8890318760950.0,True,1.0,Kominfo
+INC-001034,2021-12-22,DKI Jakarta,Data Breach,Perbankan,High,8218,51256364530.0,False,39.0,Kominfo
+INC-000499,2024-01-25,Jawa Timur,DDoS,Energi,Critical,14313,31885356360.0,True,15.0,Kominfo
+INC-000325,2021-05-26,DKI Jakarta,Business Email Compromise,Asuransi,High,7841,199555175020.0,True,12.0,Kominfo
+INC-000497,2024-07-06,Jawa Tengah,Malware,Ritel,Medium,451,2241833957.0,True,22.0,Kominfo
+INC-000019,2022-05-28,Nusa Tenggara Barat,DDoS,Energi,High,6894,,True,65.0,BSSN
+INC-000150,2022-09-05,Jawa Barat,DDoS,E-Commerce,High,2789,112205946345.0,False,5.0,Laporan Publik
+INC-001248,2024-03-16,Maluku,Ransomware,Transportasi,High,2483,93138223880.0,False,18.0,BSSN
+INC-000109,2021-07-16,Jawa Timur,Phishing,Energi,Low,33,315645891.0,True,,Laporan Publik
+INC-001416,2022-08-15,Jawa Tengah,Insider Threat,Pemerintahan,Low,56,460695760.0,True,95.0,Laporan Publik
+INC-000077,2024-05-16,Sulawesi Tenggara,SQL Injection,Energi,Medium,964,2451360420.0,False,1.0,Laporan Publik
+INC-000580,2021-03-22,Lampung,Cryptojacking,Telekomunikasi,Low,3,10851465.0,True,24.0,Kominfo
+INC-000718,2023-09-13,Jawa Tengah,Malware,Fintech,Low,31,100358098.0,True,63.0,Kominfo
+INC-001485,2023-07-31,Jawa Barat,Data Breach,Pemerintahan,High,7413,46726918875.0,False,78.0,Laporan Publik
+INC-000571,2023-11-06,Riau,Data Breach,Asuransi,High,6511,172510214645.0,False,43.0,Kepolisian
+INC-001081,2023-12-15,Jawa Timur,Phishing,Telekomunikasi,Critical,86205,8166674639550.0,True,34.0,Kepolisian
+INC-001298,2023-01-21,Jawa Barat,Data Breach,Telekomunikasi,High,4282,,True,1.0,Laporan Publik
+INC-000088,2024-01-25,Jawa Timur,Social Engineering,E-Commerce,Critical,88502,4788688341500.0,True,,BSSN
+INC-000093,2022-08-10,Sulawesi Utara,Ransomware,Manufaktur,Critical,31783,3048189297240.0,False,70.0,BSSN
+INC-001098,2021-06-27,Jawa Timur,Phishing,Kesehatan,High,1777,85919771425.0,True,2.0,Kepolisian
+INC-001006,2023-07-28,Jawa Tengah,Data Breach,Ritel,Critical,77095,163468383250.0,True,80.0,Kepolisian
+INC-000896,2024-01-19,Jawa Tengah,Malware,Pemerintahan,Low,69,557559399.0,True,112.0,Kepolisian
+INC-000064,2022-11-10,Sumatera Barat,DDoS,UMKM,High,9952,299819574880.0,True,66.0,BSSN
+INC-001205,2022-11-22,Jawa Tengah,Data Breach,Asuransi,Critical,65094,3561322032300.0,True,6.0,Kominfo
+INC-000324,2024-08-25,Gorontalo,Cryptojacking,Telekomunikasi,Medium,287,2262315958.0,False,33.0,Kepolisian
+INC-000952,2020-06-16,Sulawesi Barat,DDoS,Pemerintahan,High,4280,36150827400.0,True,15.0,Kominfo
+INC-001185,2021-03-31,DKI Jakarta,Ransomware,Energi,Critical,48850,3791460509000.0,True,42.0,Kominfo
+INC-001104,2022-11-21,Sumatera Utara,Phishing,Asuransi,Low,23,123907141.0,False,58.0,BSSN
+INC-000031,2021-10-12,Nusa Tenggara Barat,Ransomware,Kesehatan,High,6794,51778466770.0,True,51.0,BSSN
+INC-000387,2021-10-23,DKI Jakarta,Business Email Compromise,Fintech,Medium,796,3999256036.0,True,12.0,BSSN
+INC-000886,2022-11-03,Sumatera Barat,Phishing,Transportasi,Medium,617,3859015394.0,True,5.0,Kepolisian
+INC-000901,2021-10-19,Bangka Belitung,Man-in-the-Middle,Energi,High,8061,37028445330.0,False,32.0,Kepolisian
+INC-000815,2022-05-26,Banten,DDoS,Manufaktur,Low,43,72244128.0,False,7.0,Kominfo
+INC-000700,2023-08-03,Jawa Timur,DDoS,Telekomunikasi,High,2122,99358533320.0,False,97.0,Kepolisian
+INC-000434,2024-06-15,Kalimantan Tengah,DDoS,Pemerintahan,Medium,368,58155408.0,True,146.0,Laporan Publik
+INC-001076,2022-07-08,Papua Barat,DDoS,Energi,Medium,782,6033839274.0,True,131.0,Laporan Publik
+INC-000092,2022-05-23,Banten,Credential Stuffing,Asuransi,Medium,567,2786790258.0,True,32.0,Kepolisian
+INC-000390,2021-03-09,Sumatera Barat,Ransomware,E-Commerce,Critical,27745,2741859949650.0,True,12.0,Kominfo
+INC-001118,2022-07-29,Kalimantan Barat,Ransomware,Kesehatan,Low,50,464964000.0,True,3.0,Kominfo
+INC-000131,2021-12-04,Jawa Barat,DDoS,Kesehatan,High,4244,28294472140.0,True,71.0,Kepolisian
+INC-001308,2021-11-22,Jawa Tengah,Phishing,Perbankan,Low,46,344872994.0,False,61.0,Kepolisian
+INC-000153,2024-09-23,Jawa Tengah,SQL Injection,Manufaktur,High,2910,124898684100.0,False,2.0,Laporan Publik
+INC-001299,2023-07-08,Jawa Tengah,Zero-Day Exploit,Pemerintahan,High,7073,114749522800.0,True,57.0,BSSN
+INC-001052,2022-09-10,Maluku,Ransomware,Transportasi,Medium,104,700653824.0,True,32.0,BSSN
+INC-000173,2021-03-16,Jawa Timur,Social Engineering,Manufaktur,High,4612,13101838780.0,True,93.0,BSSN
+INC-000377,2022-06-17,Sumatera Utara,Social Engineering,Telekomunikasi,Medium,318,,True,28.0,BSSN
+INC-001075,2023-04-28,Riau,Phishing,Ritel,High,6939,244306577250.0,False,41.0,Kominfo
+INC-000184,2022-10-04,DKI Jakarta,Insider Threat,Perbankan,Medium,615,5434967175.0,False,53.0,Kepolisian
+INC-000512,2022-10-28,Jawa Barat,Insider Threat,E-Commerce,High,1188,51544243080.0,True,86.0,Kominfo
+INC-001036,2021-04-25,Sulawesi Utara,Social Engineering,Media,Medium,452,117875272.0,False,15.0,Laporan Publik
+INC-000137,2023-02-11,DKI Jakarta,DDoS,Pendidikan,Medium,142,805416048.0,True,48.0,Kominfo
+INC-000279,2024-12-01,Jawa Barat,Social Engineering,Pendidikan,Medium,775,5568322300.0,True,25.0,Kominfo
+INC-000015,2021-06-23,Banten,DDoS,Ritel,High,8727,189502223325.0,True,79.0,Kepolisian
+INC-000619,2024-11-21,Riau,Data Breach,UMKM,High,9380,322839151600.0,True,17.0,Kepolisian
+INC-000656,2022-05-29,Jawa Tengah,Data Breach,Perbankan,Critical,57221,159841141400.0,True,33.0,BSSN
+INC-000337,2022-02-13,Jawa Barat,Phishing,Media,Low,31,38453671.0,True,35.0,BSSN
+INC-000912,2021-01-10,Sulawesi Tenggara,Data Breach,Energi,High,3674,25013841160.0,True,156.0,Kominfo
+INC-000435,2022-07-30,Jawa Timur,Phishing,Telekomunikasi,Medium,659,5508766838.0,False,,Kominfo
+INC-001038,2021-04-25,Jawa Barat,Phishing,Telekomunikasi,Medium,795,6120305910.0,True,6.0,Laporan Publik
+INC-000201,2022-02-22,Kalimantan Utara,Malware,Media,Low,14,102570440.0,True,4.0,Kominfo
+INC-000734,2022-09-16,DKI Jakarta,Malware,Pemerintahan,Medium,796,7609160612.0,False,83.0,BSSN
+INC-000641,2022-04-11,Kalimantan Utara,Data Breach,UMKM,Medium,246,1798911408.0,True,70.0,Kepolisian
+INC-001005,2022-08-25,Jawa Tengah,Ransomware,Manufaktur,High,3763,154724117675.0,False,15.0,BSSN
+INC-001445,2023-03-09,Banten,Phishing,E-Commerce,High,527,3990567845.0,True,19.0,Kominfo
+INC-000095,2023-05-19,DKI Jakarta,Malware,Telekomunikasi,Medium,951,3334124214.0,True,105.0,BSSN
+INC-000357,2022-03-17,Kalimantan Tengah,SQL Injection,Telekomunikasi,Medium,421,3903371807.0,True,14.0,BSSN
+INC-001366,2021-06-01,Jawa Barat,Phishing,Telekomunikasi,Medium,40,339732080.0,True,45.0,BSSN
+INC-000794,2022-01-24,Maluku,Data Breach,Ritel,Medium,76,321125764.0,False,83.0,Laporan Publik
+INC-000953,2024-03-28,Kalimantan Utara,Man-in-the-Middle,Manufaktur,Critical,38030,200224907600.0,True,3.0,BSSN
+INC-000331,2023-10-18,Nusa Tenggara Barat,DDoS,Pendidikan,High,8321,394190192135.0,True,4.0,Kominfo
+INC-000534,2024-02-17,Jawa Barat,Business Email Compromise,Media,Low,70,262239390.0,True,15.0,Kepolisian
+INC-000464,2023-08-22,Jawa Barat,Ransomware,Manufaktur,Critical,25142,2164671139020.0,True,10.0,BSSN
+INC-000495,2024-08-09,Jawa Barat,Social Engineering,Manufaktur,Medium,960,2765372160.0,True,39.0,Kominfo
+INC-000991,2023-03-14,Jawa Tengah,Zero-Day Exploit,Ritel,Critical,42340,542883480000.0,True,1.0,Kepolisian
+INC-000725,2023-04-19,Aceh,Ransomware,Transportasi,Critical,98151,8025505946430.0,False,2.0,Kepolisian
+INC-001417,2023-01-19,Sumatera Utara,Business Email Compromise,Manufaktur,Medium,632,3396388856.0,True,20.0,BSSN
+INC-001073,2022-12-09,Banten,Data Breach,E-Commerce,Critical,18040,411840752400.0,False,26.0,Kominfo
+INC-001032,2023-01-17,DKI Jakarta,Malware,Fintech,High,4399,117847032495.0,False,0.0,BSSN
+INC-000814,2021-10-21,Sumatera Selatan,SQL Injection,Kesehatan,Medium,238,1035049862.0,True,76.0,Laporan Publik
+INC-000735,2022-06-27,Banten,DDoS,Transportasi,Medium,858,,True,54.0,Kepolisian
+INC-001122,2023-03-24,Kalimantan Utara,Data Breach,Fintech,High,1771,88496648625.0,False,16.0,BSSN
+INC-000044,2020-12-21,Jawa Barat,Phishing,Perbankan,Medium,746,6895066136.0,True,,Kominfo
+INC-001010,2023-06-24,Jawa Timur,Phishing,Telekomunikasi,Medium,869,382817094.0,True,28.0,Laporan Publik
+INC-000147,2024-01-15,Jawa Timur,Ransomware,Media,Low,3,12243144.0,False,33.0,Kominfo
+INC-000203,2024-11-24,Papua Barat,DDoS,Kesehatan,Critical,95488,5353796357120.0,False,38.0,Kominfo
+INC-000590,2022-10-30,DKI Jakarta,Ransomware,Asuransi,Critical,76117,1604324098360.0,True,102.0,BSSN
+INC-000252,2024-08-01,Kalimantan Selatan,Malware,Media,Medium,112,995655808.0,False,1.0,Kominfo
+INC-001423,2022-11-01,Bangka Belitung,Ransomware,UMKM,Critical,99694,7256287606400.0,False,1.0,BSSN
+INC-000132,2023-05-27,DKI Jakarta,Social Engineering,Pemerintahan,Low,65,502152105.0,True,18.0,Kominfo
+INC-000610,2021-10-19,Jawa Barat,Credential Stuffing,Transportasi,Medium,148,343054972.0,True,,Laporan Publik
+INC-000300,2024-09-19,Gorontalo,Malware,Manufaktur,Medium,640,4615619200.0,True,58.0,Kominfo
+INC-001424,2022-08-08,Jawa Timur,Data Breach,Energi,High,9991,7595907525.0,True,5.0,Kepolisian
+INC-001476,2021-12-18,Bali,Social Engineering,Pemerintahan,Medium,26,167993618.0,True,11.0,BSSN
+INC-000805,2022-07-23,Jawa Timur,SQL Injection,Asuransi,High,6229,70197186035.0,False,37.0,Laporan Publik
+INC-000717,2024-09-12,DKI Jakarta,Social Engineering,Fintech,Low,75,630520950.0,False,6.0,BSSN
+INC-000356,2022-10-28,DKI Jakarta,Malware,Ritel,Medium,234,2268991062.0,True,4.0,Laporan Publik
+INC-001363,2023-02-14,Papua Barat,Malware,Kesehatan,Low,97,756730853.0,True,29.0,Laporan Publik
+INC-000257,2022-08-12,DKI Jakarta,DDoS,Perbankan,Medium,790,152382310.0,True,2.0,Kominfo
+INC-000662,2022-03-26,Jawa Barat,Data Breach,Ritel,High,9864,396790398360.0,False,91.0,Kepolisian
+INC-001200,2022-01-12,DKI Jakarta,Ransomware,Transportasi,Medium,348,842700792.0,False,,Kepolisian
+INC-000565,2021-12-06,Papua Barat,DDoS,Media,High,9732,180770050920.0,False,52.0,BSSN
+INC-000368,2022-12-23,Riau,Ransomware,Kesehatan,Critical,24396,2266800936360.0,True,32.0,BSSN
+INC-001079,2024-05-19,Kepulauan Riau,DDoS,E-Commerce,High,6276,86224865700.0,True,4.0,BSSN
+INC-001378,2024-07-28,Bangka Belitung,Business Email Compromise,Manufaktur,Medium,922,,False,24.0,BSSN
+INC-000920,2024-08-02,Kepulauan Riau,Malware,Kesehatan,High,1623,73562499345.0,True,14.0,Laporan Publik
+INC-000246,2022-07-21,Kepulauan Riau,Credential Stuffing,Manufaktur,Medium,584,2377570872.0,True,25.0,Kepolisian
+INC-001093,2021-12-01,Papua,Phishing,Manufaktur,Medium,26,53163266.0,False,160.0,Kepolisian
+INC-000525,2021-11-21,DI Yogyakarta,Man-in-the-Middle,Media,Medium,739,6128838119.0,False,212.0,Kepolisian
+INC-001274,2023-11-15,Jawa Tengah,Phishing,Ritel,Low,36,247669092.0,False,6.0,Kepolisian
+INC-000484,2023-06-04,Kalimantan Selatan,Social Engineering,Media,Medium,624,1501748352.0,True,0.0,Laporan Publik
+INC-001403,2020-06-23,Jawa Tengah,Man-in-the-Middle,Pendidikan,Low,3,4315854.0,False,38.0,Laporan Publik
+INC-000399,2021-05-26,DI Yogyakarta,Malware,Pemerintahan,Medium,589,1917999574.0,True,65.0,Laporan Publik
+INC-000931,2021-09-16,Jawa Barat,Data Breach,Pendidikan,Medium,537,5113893960.0,True,87.0,Kepolisian
+INC-000255,2023-02-09,Bangka Belitung,Phishing,Telekomunikasi,Medium,893,7514870044.0,False,26.0,Kepolisian
+INC-000855,2023-03-14,Bengkulu,Data Breach,Telekomunikasi,Critical,39985,699440811300.0,False,20.0,Kominfo
+INC-000469,2023-10-15,Riau,Ransomware,Telekomunikasi,High,3513,74678264970.0,False,0.0,Laporan Publik
+INC-001101,2021-03-20,Jawa Barat,DDoS,Kesehatan,Low,94,308098160.0,True,11.0,Laporan Publik
+INC-000405,2022-06-19,Bali,Data Breach,Asuransi,Critical,52529,341263053140.0,True,23.0,Laporan Publik
+INC-001409,2024-06-01,DKI Jakarta,Business Email Compromise,Pendidikan,Medium,727,369061550.0,True,27.0,Kominfo
+INC-001044,2023-03-06,Jawa Timur,Phishing,Telekomunikasi,High,1259,35259478460.0,False,2.0,BSSN
+INC-000695,2023-05-11,Sulawesi Utara,Data Breach,Pendidikan,High,171,6829203060.0,True,6.0,Kominfo
+INC-001434,2022-06-24,Banten,Malware,Pendidikan,High,333,12491883945.0,False,58.0,BSSN
+INC-000914,2021-03-20,Bali,DDoS,Asuransi,High,1506,18817537770.0,True,31.0,BSSN
+INC-000332,2023-06-10,Jawa Barat,Data Breach,Manufaktur,High,6602,221190536130.0,False,13.0,Laporan Publik
+INC-001233,2023-03-25,Banten,Credential Stuffing,Energi,Medium,561,365626701.0,False,61.0,Laporan Publik
+INC-001313,2021-08-06,Aceh,DDoS,UMKM,Medium,290,365153210.0,False,87.0,BSSN
+INC-001153,2022-08-04,Sumatera Utara,DDoS,Perbankan,Critical,91999,4067839743870.0,True,29.0,Kominfo
+INC-000481,2022-02-12,Jawa Tengah,Phishing,Transportasi,Medium,217,1152764977.0,True,3.0,BSSN
+INC-000541,2021-11-24,Nusa Tenggara Timur,Malware,Asuransi,Medium,891,8837800488.0,False,16.0,Kominfo
+INC-000828,2021-10-25,Jawa Timur,SQL Injection,UMKM,Medium,695,2983562720.0,False,142.0,Laporan Publik
+INC-001209,2023-04-03,DKI Jakarta,Data Breach,Perbankan,Medium,86,537214910.0,True,27.0,Laporan Publik
+INC-000096,2023-07-31,Jawa Tengah,Phishing,Asuransi,Medium,961,7943420346.0,False,15.0,BSSN
+INC-000440,2023-07-26,Bali,Phishing,Manufaktur,Low,83,454994546.0,False,143.0,Kominfo
+INC-001370,2024-08-05,Aceh,Malware,UMKM,Medium,362,3316960750.0,True,12.0,Laporan Publik
+INC-000208,2023-05-28,DKI Jakarta,Ransomware,Perbankan,Critical,5725,16762971750.0,False,,Kepolisian
+INC-000168,2023-03-24,Sumatera Utara,Data Breach,E-Commerce,Critical,37558,2881634169780.0,False,54.0,Kepolisian
+INC-000322,2022-07-09,Sulawesi Barat,Data Breach,Fintech,High,2820,107152315500.0,True,119.0,BSSN
+INC-000159,2022-05-03,Jawa Barat,Cryptojacking,Manufaktur,Medium,218,1676952574.0,True,24.0,Kepolisian
+INC-001418,2024-01-24,DKI Jakarta,Data Breach,Manufaktur,High,816,7916097600.0,True,19.0,BSSN
+INC-001159,2020-02-28,Kalimantan Selatan,Malware,E-Commerce,High,868,41471065300.0,False,89.0,BSSN
+INC-000680,2022-12-28,Jawa Barat,DDoS,Fintech,Medium,436,3085534940.0,True,18.0,Kepolisian
+INC-000008,2022-04-02,DKI Jakarta,SQL Injection,Pendidikan,Medium,676,3484360204.0,True,12.0,Laporan Publik
+INC-001149,2021-11-22,DKI Jakarta,Phishing,Kesehatan,High,1104,11643479520.0,True,13.0,BSSN
+INC-000652,2020-03-31,DKI Jakarta,Malware,Asuransi,High,482,20338351500.0,True,14.0,Kominfo
+INC-000790,2023-10-21,Jawa Tengah,Malware,Transportasi,Medium,488,1467351584.0,True,90.0,Kominfo
+INC-001287,2022-06-18,Sulawesi Tenggara,Social Engineering,Kesehatan,Medium,697,3513270320.0,False,37.0,Kepolisian
+INC-000903,2022-12-15,Sulawesi Barat,Ransomware,Kesehatan,Critical,85739,7663110036020.0,True,1.0,Laporan Publik
+INC-000129,2020-09-05,Maluku Utara,Ransomware,Fintech,High,6822,85002154110.0,False,17.0,Laporan Publik
+INC-000065,2022-06-12,Papua,Website Defacement,Media,Medium,277,1245143254.0,True,3.0,Laporan Publik
+INC-001460,2021-08-23,DKI Jakarta,Social Engineering,E-Commerce,Medium,656,5993573520.0,False,45.0,Kepolisian
+INC-001056,2021-03-18,DKI Jakarta,Business Email Compromise,Media,Low,57,,False,78.0,Laporan Publik
+INC-000408,2023-12-13,Jawa Timur,Malware,Media,Medium,332,3205577860.0,True,70.0,Kepolisian
+INC-000511,2022-08-17,Jawa Barat,Data Breach,Energi,Low,79,693652153.0,True,65.0,Laporan Publik
+INC-000808,2023-01-05,Jawa Barat,Data Breach,Ritel,High,4582,100016583300.0,True,13.0,BSSN
+INC-000605,2024-11-07,Sumatera Selatan,Credential Stuffing,Pendidikan,High,145,5618975475.0,True,48.0,Laporan Publik
+INC-000613,2023-08-30,Banten,Phishing,E-Commerce,Medium,239,1689579191.0,True,30.0,Laporan Publik
+INC-000521,2024-11-01,Bangka Belitung,Data Breach,Fintech,Low,81,556202619.0,True,34.0,Kominfo
+INC-001111,2024-07-08,Banten,Social Engineering,Perbankan,High,794,5501629970.0,True,26.0,Laporan Publik
+INC-001049,2022-07-18,Aceh,Malware,UMKM,Medium,347,1830388565.0,True,39.0,Laporan Publik
+INC-001360,2023-05-24,Jawa Timur,Ransomware,Perbankan,High,4180,121545496600.0,True,11.0,Kepolisian
+INC-000139,2023-02-09,Kalimantan Barat,DDoS,UMKM,Critical,30047,1410938612840.0,False,61.0,BSSN
+INC-000689,2024-08-02,Jawa Barat,Phishing,Fintech,Medium,473,3547611628.0,True,14.0,Kominfo
+INC-000627,2022-01-12,DKI Jakarta,Phishing,Media,Low,89,432685159.0,True,16.0,Laporan Publik
+INC-000426,2021-11-17,Jawa Barat,Data Breach,Manufaktur,High,8086,154912477460.0,True,18.0,BSSN
+INC-001385,2022-03-13,DKI Jakarta,SQL Injection,Pemerintahan,Medium,871,8119320898.0,True,10.0,Kominfo
+INC-000179,2021-11-21,Jawa Tengah,Malware,Kesehatan,High,1479,70498472490.0,True,34.0,BSSN
+INC-001057,2023-05-21,Jawa Timur,Phishing,UMKM,Medium,240,489770640.0,True,15.0,Kominfo
+INC-000672,2023-01-22,Maluku,Malware,Media,High,180,2600577000.0,False,9.0,Kepolisian
+INC-001135,2024-09-16,Maluku Utara,SQL Injection,Asuransi,High,4202,60933454120.0,True,39.0,Kominfo
+INC-000251,2022-02-27,Jawa Barat,DDoS,UMKM,Low,81,527355603.0,True,14.0,BSSN
+INC-000334,2022-06-22,DKI Jakarta,Zero-Day Exploit,Media,High,6329,315456441935.0,True,24.0,Kominfo
+INC-001198,2022-07-27,Papua,Malware,Manufaktur,Critical,15439,716191588330.0,True,104.0,Kominfo
+INC-000074,2023-04-10,Jawa Barat,Social Engineering,Telekomunikasi,Critical,57565,2111556156250.0,False,,BSSN
+INC-001449,2022-09-29,Jawa Timur,Zero-Day Exploit,Kesehatan,Critical,1799,99164460010.0,True,41.0,Laporan Publik
+INC-000582,2024-06-04,Papua Barat,Data Breach,Ritel,Critical,84602,3643241306600.0,True,82.0,Laporan Publik
+INC-000842,2024-01-24,Sumatera Selatan,DDoS,Telekomunikasi,Medium,432,3183460704.0,False,59.0,BSSN
+INC-000538,2024-06-05,Banten,Ransomware,Kesehatan,Critical,99078,7432462989840.0,False,2.0,Kominfo
+INC-000054,2021-08-10,Jambi,Ransomware,Transportasi,Critical,51621,1601973592770.0,True,7.0,Laporan Publik
+INC-000018,2022-11-17,Banten,Data Breach,Fintech,Medium,845,7243943330.0,True,1.0,Kepolisian
+INC-001339,2024-01-30,Kalimantan Selatan,Business Email Compromise,Fintech,Medium,463,2324654013.0,False,115.0,Laporan Publik
+INC-000076,2023-06-28,Jawa Tengah,Credential Stuffing,Ritel,Medium,807,7781792862.0,False,67.0,Laporan Publik
+INC-001387,2022-10-25,Nusa Tenggara Timur,Website Defacement,Fintech,Critical,13834,1221463346200.0,True,53.0,Laporan Publik
+INC-000389,2020-11-08,Aceh,Malware,Manufaktur,Low,91,91696241.0,False,17.0,Kominfo
+INC-001270,2022-01-26,Jawa Tengah,Data Breach,Pendidikan,High,519,13574784945.0,True,7.0,BSSN
+INC-001320,2022-07-16,Sulawesi Selatan,Data Breach,Kesehatan,Critical,6782,539542416920.0,True,3.0,Kepolisian
+INC-000133,2024-01-12,Maluku Utara,Social Engineering,Fintech,Low,91,777087766.0,False,21.0,Laporan Publik
+INC-001262,2021-07-18,DKI Jakarta,Ransomware,E-Commerce,Critical,32153,2012039245590.0,False,15.0,Laporan Publik
+INC-000736,2024-06-02,Banten,DDoS,Asuransi,High,7741,301168327010.0,True,4.0,BSSN
+INC-000727,2023-01-14,Sumatera Utara,Ransomware,Ritel,Critical,13975,1173737331000.0,False,47.0,Laporan Publik
+INC-000448,2022-06-04,Jawa Timur,DDoS,Media,High,1885,73939813025.0,True,49.0,Kepolisian
+INC-000782,2023-07-28,Jawa Timur,DDoS,Energi,Low,67,314469659.0,False,39.0,Kepolisian
+INC-000812,2024-05-16,Jawa Barat,Social Engineering,Transportasi,Critical,40574,4050000925360.0,True,56.0,BSSN
+INC-000879,2020-12-03,DKI Jakarta,Malware,UMKM,Medium,712,468577168.0,False,32.0,Laporan Publik
+INC-000967,2024-06-19,DKI Jakarta,Website Defacement,Perbankan,Medium,98,705532576.0,False,23.0,BSSN
+INC-000482,2021-10-01,DKI Jakarta,Phishing,Media,Low,33,27537147.0,True,41.0,Laporan Publik
+INC-000058,2023-06-02,Lampung,Malware,Energi,Medium,312,1361119656.0,True,73.0,BSSN
+INC-001199,2022-10-06,Bengkulu,DDoS,Energi,Critical,45518,1234089478160.0,True,15.0,Kominfo
+INC-000684,2024-06-23,DKI Jakarta,Man-in-the-Middle,Pemerintahan,Low,40,,True,10.0,Kominfo
+INC-000506,2022-08-25,Banten,Cryptojacking,Kesehatan,Low,24,238904376.0,False,18.0,Kepolisian
+INC-000400,2023-07-28,Jawa Timur,Ransomware,Media,High,3152,99271924800.0,True,11.0,Laporan Publik
+INC-000278,2024-08-28,Jawa Timur,Phishing,Media,Medium,238,1784645856.0,False,8.0,Kepolisian
+INC-000021,2022-05-07,Bali,Ransomware,Asuransi,Critical,89444,5687945209000.0,True,6.0,Laporan Publik
+INC-000354,2021-10-02,DKI Jakarta,Social Engineering,Pemerintahan,Low,32,102979616.0,True,25.0,Kominfo
+INC-000118,2022-11-22,Banten,Malware,UMKM,Medium,64,574285312.0,True,13.0,BSSN
+INC-000639,2021-12-27,Jawa Timur,DDoS,E-Commerce,Medium,823,4402057462.0,True,6.0,Kominfo
+INC-000406,2022-08-17,DKI Jakarta,Social Engineering,Pendidikan,Low,25,102075675.0,True,27.0,Kepolisian
+INC-000870,2020-02-26,Jawa Timur,Zero-Day Exploit,Perbankan,Medium,918,4885591410.0,True,96.0,BSSN
+INC-001448,2020-04-21,Sulawesi Selatan,SQL Injection,Pemerintahan,Critical,67267,549017782590.0,False,41.0,BSSN
+INC-001002,2021-11-13,Sumatera Barat,Social Engineering,Energi,Critical,10399,768399268350.0,True,104.0,Kepolisian
+INC-000928,2023-09-18,Banten,Phishing,Telekomunikasi,Medium,658,1932502572.0,True,133.0,Kepolisian
+INC-000510,2022-09-23,Jawa Tengah,Data Breach,Manufaktur,Low,63,417402594.0,True,55.0,Laporan Publik
+INC-000003,2023-05-23,Jawa Barat,Phishing,Media,High,3858,143817636660.0,True,20.0,Kominfo
+INC-001377,2023-01-24,Jawa Barat,Data Breach,Ritel,Medium,539,5127536106.0,True,24.0,Kominfo
+INC-001188,2021-07-24,Maluku,Phishing,Asuransi,High,3335,159752019425.0,True,73.0,Kepolisian
+INC-000738,2022-10-23,DKI Jakarta,DDoS,Asuransi,High,9934,219987138580.0,False,41.0,BSSN
+INC-001100,2020-08-14,Jawa Timur,Malware,Perbankan,High,9290,460210992800.0,False,23.0,Kominfo
+INC-000504,2023-09-22,Jawa Timur,DDoS,Media,High,7623,223207424055.0,False,40.0,Laporan Publik
+INC-001357,2023-10-31,Jawa Barat,Business Email Compromise,Ritel,High,8335,401339335150.0,True,16.0,Kominfo
+INC-001295,2023-07-20,Jawa Tengah,Phishing,Telekomunikasi,Low,32,305791488.0,True,88.0,Kominfo
+INC-000020,2022-09-02,DKI Jakarta,Malware,Perbankan,Low,77,303884812.0,True,6.0,Kepolisian
+INC-000494,2022-12-19,DKI Jakarta,Man-in-the-Middle,Pemerintahan,Critical,85853,4103788853540.0,True,19.0,BSSN
+INC-001028,2024-04-25,Maluku,Ransomware,Telekomunikasi,Critical,47716,2855670903840.0,True,43.0,Kepolisian
+INC-000224,2022-08-20,Kalimantan Selatan,Zero-Day Exploit,Manufaktur,Low,14,129641078.0,True,75.0,Kominfo
+INC-000007,2024-02-11,Sulawesi Tengah,Phishing,Pendidikan,Medium,13,117568646.0,False,23.0,Kepolisian
+INC-000550,2021-09-11,DKI Jakarta,Zero-Day Exploit,E-Commerce,High,659,16728836915.0,True,48.0,Kominfo
+INC-000892,2020-08-04,Jawa Tengah,Credential Stuffing,Fintech,High,9778,471705875900.0,False,35.0,Laporan Publik
+INC-000218,2021-12-07,Kepulauan Riau,Malware,Telekomunikasi,High,1523,35245707670.0,True,32.0,Kepolisian
+INC-000073,2022-07-08,Maluku Utara,Data Breach,Manufaktur,Medium,316,2010628368.0,False,18.0,Kominfo
+INC-000630,2020-09-22,Lampung,Man-in-the-Middle,Pemerintahan,Low,15,43612515.0,True,30.0,Laporan Publik
+INC-000917,2021-01-19,Banten,Social Engineering,Transportasi,Medium,91,416655603.0,True,14.0,Laporan Publik
+INC-000135,2021-12-19,DKI Jakarta,Insider Threat,Perbankan,Medium,980,2500570940.0,False,14.0,BSSN
+INC-001218,2020-10-19,Jawa Barat,DDoS,Fintech,Low,27,,True,31.0,Laporan Publik
+INC-001134,2024-04-10,DKI Jakarta,Social Engineering,Media,High,353,7402229970.0,True,27.0,BSSN
+INC-000514,2021-07-23,Jawa Tengah,Social Engineering,Media,High,9472,323369201920.0,True,3.0,BSSN
+INC-000097,2021-02-19,Bangka Belitung,DDoS,Energi,Critical,85216,3645478272320.0,False,52.0,BSSN
+INC-000730,2023-03-21,Kalimantan Selatan,Data Breach,Manufaktur,Medium,727,5456412714.0,True,89.0,BSSN
+INC-001394,2022-12-01,Jawa Barat,Ransomware,Transportasi,Critical,24123,51879888720.0,True,13.0,Kepolisian
+INC-000276,2020-11-17,DKI Jakarta,SQL Injection,UMKM,Critical,14739,680065861230.0,True,139.0,Laporan Publik
+INC-001325,2024-03-20,Kalimantan Barat,Phishing,Perbankan,Medium,262,2292439478.0,True,4.0,Kominfo
+INC-000770,2024-06-26,Kalimantan Utara,Phishing,Fintech,High,9940,432080369000.0,True,23.0,BSSN
+INC-000079,2020-09-18,Jawa Barat,Ransomware,Energi,High,5746,43445793300.0,False,33.0,BSSN
+INC-001375,2024-05-09,DKI Jakarta,DDoS,Kesehatan,Medium,200,603394200.0,True,62.0,Kominfo
+INC-000422,2022-05-24,Banten,Data Breach,E-Commerce,Critical,53726,,True,3.0,Laporan Publik
+INC-000005,2024-10-21,Kalimantan Timur,SQL Injection,E-Commerce,Medium,957,1892304810.0,True,124.0,Kepolisian
+INC-000107,2023-01-20,DKI Jakarta,Malware,Pendidikan,Medium,671,588054335.0,True,48.0,Kepolisian
+INC-000942,2023-03-18,Jawa Timur,Data Breach,Pemerintahan,Medium,907,5087211531.0,False,82.0,Laporan Publik
+INC-000259,2023-01-23,Jawa Barat,SQL Injection,Fintech,High,1503,35392907025.0,True,93.0,Kepolisian
+INC-000852,2022-06-02,DKI Jakarta,Ransomware,UMKM,High,964,39440459760.0,True,4.0,BSSN
+INC-000779,2023-10-30,Jawa Timur,Data Breach,Pendidikan,High,9575,56044773000.0,False,30.0,BSSN
+INC-000559,2022-08-01,Sulawesi Selatan,Ransomware,Telekomunikasi,Critical,58920,,True,37.0,Kepolisian
+INC-001304,2022-03-31,Kalimantan Timur,Phishing,Media,High,5894,260640047500.0,True,40.0,BSSN
+INC-001050,2023-09-20,DKI Jakarta,Phishing,Energi,Medium,699,814084059.0,True,14.0,BSSN
+INC-000603,2024-03-20,Jawa Timur,Phishing,Fintech,Low,81,357957630.0,True,56.0,BSSN
+INC-001223,2023-01-09,DI Yogyakarta,DDoS,Telekomunikasi,Medium,956,6384663208.0,True,35.0,Laporan Publik
+INC-001432,2023-07-27,Jawa Barat,DDoS,Media,Medium,244,888951536.0,False,71.0,BSSN
+INC-000721,2020-10-27,DKI Jakarta,Phishing,Pendidikan,Medium,89,,False,103.0,Kominfo
+INC-000262,2023-04-04,Maluku Utara,Social Engineering,Kesehatan,Medium,758,2427815634.0,True,13.0,Kominfo
+INC-001438,2021-01-01,DKI Jakarta,Credential Stuffing,Transportasi,Medium,500,129938000.0,True,67.0,Laporan Publik
+INC-000475,2022-09-23,Jawa Tengah,Man-in-the-Middle,UMKM,Medium,781,720026549.0,True,13.0,Kominfo
+INC-001330,2022-11-08,Sulawesi Selatan,Man-in-the-Middle,Asuransi,Critical,86024,3399260726240.0,True,75.0,Laporan Publik
+INC-001267,2021-06-22,Jawa Timur,Phishing,Media,High,1312,7912252160.0,True,9.0,Kepolisian
+INC-001158,2021-10-09,Jawa Barat,DDoS,Manufaktur,Critical,69684,2292109540440.0,False,48.0,Kepolisian
+INC-001014,2022-10-18,DKI Jakarta,DDoS,Manufaktur,Critical,69666,1057625322420.0,True,96.0,Kepolisian
+INC-000057,2021-12-25,DKI Jakarta,Phishing,Telekomunikasi,Medium,772,,True,,BSSN
+INC-000275,2022-05-22,DKI Jakarta,Cryptojacking,Manufaktur,Medium,360,538197840.0,True,1.0,Laporan Publik
+INC-001336,2023-02-04,Jawa Barat,Man-in-the-Middle,Pemerintahan,Medium,748,5723326488.0,True,14.0,BSSN
+INC-000427,2023-01-01,DI Yogyakarta,Man-in-the-Middle,Pendidikan,High,8562,337572390030.0,False,25.0,Laporan Publik
+INC-001245,2021-06-09,DKI Jakarta,Ransomware,UMKM,High,1260,60765528600.0,True,5.0,Kominfo
+INC-001149,2021-11-22,DKI Jakarta,Phishing,Kesehatan,High,1104,11643479520.0,True,13.0,BSSN
+INC-000374,2021-02-02,Sumatera Utara,Social Engineering,Perbankan,High,4118,27854666750.0,True,96.0,Laporan Publik
+INC-001168,2020-09-06,Banten,Data Breach,Energi,Critical,26117,1506648726310.0,True,1.0,Kominfo
+INC-000604,2023-04-26,Kalimantan Selatan,Phishing,Pendidikan,High,7445,319009129875.0,True,107.0,BSSN
+INC-000006,2021-07-08,Sumatera Barat,Phishing,Manufaktur,Medium,657,3404619990.0,True,5.0,Laporan Publik
+INC-001259,2023-08-19,Jawa Barat,Social Engineering,Asuransi,High,1179,16312095765.0,True,58.0,BSSN
+INC-001484,2020-10-08,DI Yogyakarta,Business Email Compromise,Media,Medium,628,1331452944.0,True,13.0,Laporan Publik
+INC-000698,2022-06-17,Jambi,SQL Injection,Perbankan,Medium,179,30702796.0,True,102.0,Laporan Publik
+INC-000750,2023-07-14,Jawa Barat,Data Breach,UMKM,High,9479,77176216990.0,False,22.0,Kominfo
+INC-000333,2023-04-12,Sulawesi Utara,Cryptojacking,Pemerintahan,High,6138,28706137020.0,True,100.0,Kepolisian
+INC-001285,2023-07-14,Lampung,Man-in-the-Middle,Perbankan,High,691,19753934860.0,True,109.0,Kominfo
+INC-001414,2022-12-20,Banten,Malware,Perbankan,Low,35,30465680.0,True,18.0,BSSN
+INC-000985,2021-06-10,Sumatera Utara,Ransomware,Energi,Medium,649,522648786.0,True,11.0,Laporan Publik
+INC-000222,2021-03-20,Banten,Phishing,Energi,Medium,181,1161450031.0,True,52.0,Laporan Publik
+INC-000530,2023-06-17,DKI Jakarta,Phishing,Energi,Medium,148,984770540.0,True,116.0,BSSN
+INC-001024,2020-11-25,Jawa Barat,Phishing,Kesehatan,High,4468,184129966100.0,False,39.0,Laporan Publik
+INC-001156,2023-03-04,Jawa Timur,Man-in-the-Middle,E-Commerce,Medium,424,213506048.0,True,64.0,Kominfo
+INC-000509,2021-01-18,DKI Jakarta,Malware,Energi,Critical,23694,687440893260.0,True,120.0,BSSN
+INC-000477,2022-06-11,Banten,SQL Injection,Transportasi,Medium,55,275587015.0,True,9.0,Laporan Publik
+INC-000258,2023-09-03,Jawa Barat,DDoS,Media,Medium,203,166030452.0,True,42.0,Kepolisian
+INC-000628,2022-04-16,Jawa Barat,Man-in-the-Middle,Pemerintahan,Medium,485,1219557235.0,True,139.0,BSSN
+INC-000834,2021-05-17,Jawa Timur,Data Breach,Fintech,Critical,80915,4586374671850.0,True,21.0,BSSN
+INC-000163,2021-08-27,Jawa Barat,DDoS,Manufaktur,High,5410,218442761900.0,False,77.0,Kominfo
+INC-000724,2021-11-10,Banten,DDoS,Telekomunikasi,Low,7,24365565.0,True,86.0,Kepolisian
+INC-000555,2022-03-15,Papua Barat,Website Defacement,Energi,High,4088,,False,39.0,Laporan Publik
+INC-000875,2020-11-19,Maluku Utara,Data Breach,Transportasi,Critical,15908,,True,68.0,BSSN
+INC-000617,2021-12-07,Kalimantan Timur,Malware,Media,Low,80,239708400.0,False,17.0,BSSN
+INC-000858,2021-01-10,Jawa Tengah,DDoS,Pemerintahan,Medium,598,2547457276.0,True,49.0,Laporan Publik
+INC-000122,2023-11-24,Jawa Timur,Man-in-the-Middle,E-Commerce,High,4176,190735438320.0,False,25.0,Kepolisian
+INC-001306,2022-11-17,Jawa Timur,Man-in-the-Middle,Pemerintahan,High,5320,163903401200.0,True,26.0,Kepolisian
+INC-001094,2023-03-28,DKI Jakarta,Data Breach,Pendidikan,High,2373,111207109230.0,False,7.0,BSSN
+INC-000085,2023-02-24,Jawa Tengah,Phishing,Manufaktur,Medium,615,3774168900.0,True,13.0,Laporan Publik
+INC-000204,2024-05-27,DKI Jakarta,Malware,Telekomunikasi,Critical,76591,6952865111740.0,False,24.0,Kominfo
+INC-000128,2021-01-16,Jambi,Data Breach,Energi,High,8629,243816407485.0,True,8.0,Kominfo
+INC-000106,2022-03-05,Banten,Credential Stuffing,Telekomunikasi,Medium,75,413900475.0,False,53.0,Kominfo
+INC-000875,2020-11-19,Maluku Utara,Data Breach,Transportasi,Critical,15908,,True,68.0,BSSN
+INC-001167,2024-10-22,Jawa Tengah,Phishing,Ritel,Low,67,484248061.0,False,47.0,Laporan Publik
+INC-000195,2023-03-27,Jawa Tengah,Data Breach,Kesehatan,Low,50,271295500.0,False,65.0,Kominfo
+INC-000169,2024-07-01,Jawa Barat,Data Breach,Manufaktur,Medium,948,668815896.0,True,53.0,Kominfo
+INC-000872,2021-10-30,Sulawesi Utara,Data Breach,Telekomunikasi,Medium,257,433651777.0,False,59.0,Laporan Publik
+INC-000235,2024-03-31,Jawa Barat,Social Engineering,Perbankan,High,2502,64620667710.0,True,14.0,Kepolisian
+INC-001450,2024-03-13,Jawa Barat,Malware,E-Commerce,Low,74,705967770.0,True,11.0,Laporan Publik
+INC-000341,2024-01-28,Bali,Ransomware,Fintech,High,4893,57107866620.0,True,108.0,Kominfo
+INC-000309,2022-12-05,Bali,Malware,UMKM,Medium,402,3112644594.0,True,40.0,BSSN
+INC-000909,2022-11-13,DKI Jakarta,Ransomware,Ritel,High,627,1519010955.0,True,95.0,Kominfo
+INC-000921,2022-01-23,DI Yogyakarta,Data Breach,Transportasi,Medium,51,44326803.0,True,122.0,BSSN
+INC-001157,2021-08-14,Jawa Tengah,Data Breach,Media,Medium,362,2895692662.0,False,98.0,Laporan Publik
+INC-000152,2024-02-21,Banten,DDoS,Energi,Low,23,40737117.0,True,10.0,BSSN
+INC-000221,2021-09-22,Kalimantan Utara,Social Engineering,Kesehatan,Low,47,41226050.0,True,77.0,Kominfo
+INC-001393,2021-11-04,DKI Jakarta,Malware,Perbankan,Medium,441,,True,25.0,Kepolisian
+INC-000751,2024-01-09,Jawa Barat,Data Breach,Media,High,5990,285037983600.0,True,28.0,Kominfo
+INC-000410,2021-02-16,Jawa Barat,Data Breach,Manufaktur,High,3260,92992885500.0,False,70.0,Kepolisian
+INC-000723,2024-01-17,Papua,DDoS,Asuransi,High,1540,14338970800.0,True,26.0,Kominfo
+INC-000206,2022-09-30,Jawa Barat,Website Defacement,UMKM,High,8438,65218103610.0,True,43.0,Kominfo
+INC-001303,2021-08-30,Nusa Tenggara Timur,Phishing,Asuransi,High,9053,284810639080.0,True,5.0,BSSN
+INC-000288,2023-09-21,DKI Jakarta,DDoS,Manufaktur,High,7183,176613089950.0,False,117.0,Kominfo
+INC-000851,2023-09-10,Maluku Utara,Data Breach,E-Commerce,Critical,82007,316688072040.0,True,10.0,Kepolisian
+INC-000207,2020-11-16,Jawa Tengah,Social Engineering,UMKM,Low,23,53681287.0,False,67.0,BSSN
+INC-000890,2021-01-07,Banten,Data Breach,Manufaktur,High,6207,,False,105.0,Kominfo
+INC-001170,2023-05-07,Jawa Barat,Malware,UMKM,Medium,859,3436236225.0,True,124.0,Laporan Publik
+INC-001256,2020-08-27,Jawa Tengah,Phishing,Pendidikan,Low,14,94101056.0,True,22.0,Laporan Publik
+INC-000176,2023-09-27,DKI Jakarta,Data Breach,Energi,Critical,94823,4360821584610.0,False,16.0,Kepolisian
+INC-000193,2022-03-17,Jawa Barat,Ransomware,UMKM,High,5539,270960596215.0,False,350.0,Kepolisian
+INC-000398,2022-03-15,Banten,Data Breach,Transportasi,Critical,55544,2247899561840.0,True,38.0,Laporan Publik
+INC-000192,2022-12-13,Jawa Barat,SQL Injection,Ritel,Critical,22514,,True,62.0,BSSN
+INC-000232,2022-10-31,DKI Jakarta,Malware,Fintech,Medium,427,267801163.0,False,27.0,BSSN
+INC-001284,2023-04-06,Jawa Barat,DDoS,Manufaktur,Medium,347,42813554.0,True,42.0,Kepolisian
+INC-000282,2024-03-19,Jawa Barat,Man-in-the-Middle,UMKM,Critical,38606,50142244920.0,True,24.0,Kominfo
+INC-000451,2023-04-18,Sulawesi Tengah,DDoS,Media,Low,40,,False,25.0,Laporan Publik
+INC-000722,2024-10-14,Kalimantan Tengah,Phishing,Ritel,Medium,532,4194392804.0,True,169.0,Kepolisian
+INC-001347,2020-11-23,Aceh,Phishing,Energi,High,2893,18181463520.0,False,52.0,Kepolisian
+INC-001495,2020-12-02,Sulawesi Barat,Business Email Compromise,Pendidikan,Low,35,74064970.0,True,87.0,Kepolisian
+INC-001131,2023-02-23,Riau,Credential Stuffing,Ritel,High,9440,145791029600.0,True,163.0,Kepolisian
+INC-000688,2020-11-29,Jawa Barat,SQL Injection,Asuransi,Medium,198,1139097960.0,True,39.0,BSSN
+INC-000274,2022-03-26,Jambi,DDoS,Kesehatan,Low,17,33270428.0,True,9.0,Kominfo
+INC-000874,2023-05-02,DKI Jakarta,Malware,Ritel,Critical,17450,325126655000.0,True,29.0,Laporan Publik
+INC-000181,2022-10-03,Lampung,Data Breach,Transportasi,Critical,28624,709523697280.0,True,25.0,Kepolisian
+INC-001017,2024-03-01,DKI Jakarta,Phishing,Fintech,High,3958,,False,8.0,Kominfo
+INC-000905,2023-09-06,Jawa Barat,Phishing,Perbankan,Critical,67720,1269393792800.0,False,64.0,BSSN
+INC-000919,2022-03-08,Sumatera Barat,Website Defacement,Manufaktur,Medium,808,5773541376.0,True,57.0,Kominfo
+INC-000214,2022-12-12,Jawa Tengah,Man-in-the-Middle,Manufaktur,Medium,23,143346787.0,True,88.0,Kepolisian
+INC-001386,2022-09-07,Jawa Barat,Phishing,Pendidikan,Low,76,457840416.0,False,1.0,Laporan Publik
+INC-000038,2024-10-04,Banten,Data Breach,Telekomunikasi,Medium,587,2228023657.0,True,143.0,Laporan Publik
+INC-001208,2023-10-14,Jawa Barat,Ransomware,Media,Critical,43036,269386854520.0,True,153.0,BSSN
+INC-000955,2024-06-12,Jawa Tengah,Social Engineering,Perbankan,Medium,81,194986116.0,True,57.0,BSSN
+INC-000162,2022-02-04,Banten,Ransomware,Ritel,Medium,714,1578852492.0,True,24.0,Kepolisian
+INC-001137,2024-04-21,Jawa Tengah,SQL Injection,UMKM,Low,88,617310056.0,True,12.0,Kominfo
+INC-000013,2023-05-15,DKI Jakarta,Social Engineering,UMKM,High,3087,110136180105.0,True,6.0,Laporan Publik
+INC-000810,2023-08-07,Jawa Timur,Data Breach,Telekomunikasi,Critical,91964,3475337952800.0,True,137.0,BSSN
+INC-000993,2021-01-18,Jawa Timur,Business Email Compromise,Telekomunikasi,Medium,20,197582760.0,True,66.0,Kominfo
+INC-000425,2022-08-06,Jawa Timur,Phishing,Pendidikan,Medium,686,6639754212.0,True,167.0,Kominfo
+INC-000817,2023-02-21,Sulawesi Selatan,Data Breach,Pemerintahan,Medium,236,423257740.0,True,161.0,Laporan Publik
+INC-000087,2022-10-08,Bangka Belitung,DDoS,Fintech,High,2977,43219014280.0,False,49.0,Kominfo
+INC-001300,2023-06-01,Sulawesi Utara,Ransomware,Perbankan,Critical,34205,1331033873150.0,False,79.0,Kominfo
+INC-001437,2023-01-26,Jawa Barat,Credential Stuffing,Asuransi,Critical,80720,4841691343200.0,True,20.0,Kepolisian
+INC-000393,2024-06-16,Jawa Barat,Social Engineering,E-Commerce,Low,26,176870330.0,True,162.0,Kominfo
+INC-001194,2020-10-29,DKI Jakarta,Phishing,Kesehatan,High,2632,19820078600.0,True,30.0,Kominfo
+INC-000536,2021-10-09,Kalimantan Barat,Phishing,E-Commerce,Medium,735,2218695990.0,True,16.0,Kepolisian
+INC-000566,2022-12-21,Nusa Tenggara Timur,Ransomware,Asuransi,High,1932,50558343780.0,True,12.0,BSSN
+INC-000220,2023-07-19,Jawa Barat,Social Engineering,Pendidikan,High,5053,234739616235.0,True,149.0,Kepolisian
+INC-001358,2021-08-19,Banten,Phishing,Asuransi,Medium,164,1229693156.0,True,74.0,Laporan Publik
+INC-000501,2021-08-05,Banten,Phishing,Asuransi,Low,78,434639010.0,True,18.0,BSSN
+INC-000979,2021-03-29,Jawa Barat,Phishing,Manufaktur,Low,81,78152445.0,True,29.0,BSSN
+INC-001001,2024-08-25,DKI Jakarta,SQL Injection,E-Commerce,Low,84,524366052.0,True,4.0,Kominfo
+INC-000112,2022-01-10,Jawa Barat,Malware,Fintech,Low,46,214337552.0,False,27.0,Kominfo
+INC-001392,2024-06-01,DKI Jakarta,Phishing,Perbankan,High,8316,223553747340.0,True,3.0,BSSN
+INC-000297,2021-02-16,Jawa Tengah,Malware,Telekomunikasi,Low,39,345622953.0,True,107.0,Kominfo
+INC-000588,2023-10-21,Banten,Malware,Kesehatan,Low,17,67258749.0,True,18.0,BSSN
+INC-000916,2021-08-30,Jawa Tengah,Malware,Media,High,5306,257674933110.0,False,,Laporan Publik
+INC-000125,2024-11-03,DKI Jakarta,Phishing,Pendidikan,Medium,714,5578774026.0,True,43.0,BSSN
+INC-000806,2024-01-15,DKI Jakarta,Phishing,Pendidikan,Low,91,683868822.0,True,105.0,Kominfo
+INC-000307,2023-04-08,Jawa Barat,SQL Injection,Pendidikan,High,6575,277897963750.0,True,113.0,Laporan Publik
+INC-000907,2020-06-10,Sumatera Barat,Phishing,Perbankan,High,6443,21047992400.0,True,13.0,Kominfo
+INC-000160,2022-03-18,Jawa Barat,Data Breach,UMKM,High,3721,156816633280.0,True,70.0,Kominfo
+INC-000660,2023-06-09,DKI Jakarta,Credential Stuffing,Ritel,Critical,83799,8032120742160.0,True,65.0,Kominfo
+INC-000876,2022-10-24,Banten,Phishing,Transportasi,Low,60,57349020.0,True,35.0,BSSN
+INC-000449,2021-09-08,Nusa Tenggara Timur,Credential Stuffing,Manufaktur,Medium,752,2025029968.0,True,111.0,Kominfo
+INC-001482,2022-07-27,Jawa Barat,Social Engineering,Energi,Low,35,131711125.0,False,24.0,BSSN
+INC-000167,2022-01-23,Jawa Barat,Malware,Transportasi,Medium,832,5380575616.0,True,6.0,Kominfo
+INC-001176,2023-06-06,Kalimantan Selatan,Social Engineering,Pemerintahan,Critical,10628,901222728560.0,True,74.0,Kominfo
+INC-001494,2024-01-04,Jawa Barat,Zero-Day Exploit,Pemerintahan,High,6745,204836240725.0,True,45.0,Laporan Publik
+INC-001345,2022-06-23,Papua,Phishing,Transportasi,Medium,33,184640907.0,True,16.0,Kepolisian
+INC-001324,2024-03-27,Jawa Barat,Man-in-the-Middle,Manufaktur,Medium,406,,True,61.0,BSSN
+INC-000478,2023-03-02,Sumatera Selatan,Business Email Compromise,Asuransi,Medium,513,4076575020.0,False,67.0,Laporan Publik
+INC-001165,2022-03-27,Sumatera Utara,Credential Stuffing,Asuransi,High,9330,5075426700.0,False,35.0,Kepolisian
+INC-000248,2022-11-04,Jawa Tengah,Phishing,Fintech,Medium,746,3468928348.0,True,123.0,BSSN
+INC-000881,2024-07-29,Jawa Barat,Social Engineering,Kesehatan,Medium,502,4227292302.0,True,19.0,Kominfo
+INC-000243,2021-03-25,Jawa Timur,Data Breach,Pemerintahan,Medium,330,931921980.0,True,54.0,Kepolisian
+INC-000025,2022-05-02,Kalimantan Tengah,DDoS,E-Commerce,High,176,3128142160.0,True,3.0,Kominfo
+INC-000217,2023-09-26,Jawa Timur,Insider Threat,Fintech,Medium,707,5164828011.0,False,17.0,Kepolisian
+INC-000564,2022-11-18,Jawa Barat,Data Breach,Energi,Critical,98243,6696721323410.0,True,20.0,Kepolisian
+INC-001279,2024-10-02,Sulawesi Utara,Malware,Pemerintahan,Low,42,309896664.0,True,58.0,Kepolisian
+INC-000554,2022-11-11,Sulawesi Selatan,Phishing,Telekomunikasi,Low,30,291758160.0,True,86.0,Kominfo
+INC-001012,2022-06-07,Banten,Ransomware,Transportasi,Medium,436,2523329508.0,True,9.0,Kominfo
+INC-001155,2021-05-31,DI Yogyakarta,Ransomware,Kesehatan,Critical,20977,797245149360.0,True,87.0,Laporan Publik
+INC-001009,2024-11-05,Papua Barat,Business Email Compromise,Transportasi,Medium,484,4781489240.0,True,4.0,BSSN
+INC-000446,2022-10-21,Banten,Data Breach,Manufaktur,Medium,220,1768163760.0,True,105.0,Laporan Publik
+INC-001360,2023-05-24,Jawa Timur,Ransomware,Perbankan,High,4180,121545496600.0,True,11.0,Kepolisian
+INC-000052,2023-08-11,Jawa Barat,Data Breach,Media,Critical,11391,130569451410.0,True,1.0,Kepolisian
+INC-001102,2023-03-27,DKI Jakarta,Zero-Day Exploit,Perbankan,High,5973,268853211660.0,False,17.0,BSSN
+INC-001307,2024-03-17,Banten,Social Engineering,E-Commerce,Medium,592,3884129168.0,True,164.0,BSSN
+INC-000571,2023-11-06,Riau,Data Breach,Asuransi,High,6511,172510214645.0,False,43.0,Kepolisian
+INC-000863,2020-04-24,Sumatera Selatan,Social Engineering,Transportasi,Medium,939,4272187080.0,True,,Kepolisian
+INC-001323,2024-06-28,DKI Jakarta,Data Breach,E-Commerce,High,5305,261422840375.0,True,54.0,BSSN
+INC-000355,2022-09-25,Kalimantan Utara,SQL Injection,Asuransi,High,5302,163309473470.0,True,4.0,BSSN
+INC-000291,2023-12-02,DKI Jakarta,Data Breach,Fintech,High,9591,438173227125.0,True,7.0,Kominfo
+INC-000585,2021-12-24,Gorontalo,DDoS,Asuransi,Low,2,5308586.0,False,13.0,Kepolisian
+INC-000002,2022-12-26,DKI Jakarta,Zero-Day Exploit,Media,Low,53,486573231.0,True,0.0,Laporan Publik
+INC-000703,2022-11-15,Nusa Tenggara Timur,Ransomware,Kesehatan,Critical,63451,4234493219930.0,True,22.0,BSSN
+INC-001235,2021-12-01,Banten,Malware,Pemerintahan,Low,48,297120336.0,True,45.0,Kominfo
+INC-000011,2024-07-25,Jawa Barat,Malware,Pemerintahan,Medium,56,353252872.0,False,231.0,Laporan Publik
+INC-000972,2023-11-10,DKI Jakarta,DDoS,Energi,Medium,396,1987720020.0,True,23.0,Kepolisian
+INC-000943,2024-04-08,Bali,Phishing,Telekomunikasi,Medium,720,6803627760.0,True,3.0,Kepolisian
+INC-001388,2021-09-14,Sumatera Selatan,Data Breach,Fintech,Critical,68850,3308148175500.0,True,24.0,BSSN
+INC-001277,2023-03-30,Jawa Barat,Man-in-the-Middle,Fintech,Critical,82701,5860737032580.0,True,19.0,Laporan Publik
+INC-000791,2023-11-27,Bengkulu,Zero-Day Exploit,Asuransi,Critical,28115,1169291885150.0,True,24.0,Kepolisian
+INC-000707,2022-01-08,Kalimantan Selatan,Cryptojacking,Kesehatan,Low,9,7820784.0,True,18.0,BSSN
+INC-000631,2023-10-03,Sulawesi Barat,Business Email Compromise,Pendidikan,High,7873,76614209980.0,True,77.0,Kepolisian
+INC-000127,2024-10-11,DKI Jakarta,Data Breach,Telekomunikasi,Critical,22605,395447122950.0,False,3.0,Kepolisian
+INC-000785,2021-03-24,Jawa Barat,Phishing,Energi,Medium,32,137220352.0,True,15.0,Kepolisian
+INC-000465,2022-05-25,Jawa Timur,Social Engineering,Asuransi,High,9328,6839196320.0,True,4.0,Kepolisian
+INC-001219,2023-10-30,DKI Jakarta,Data Breach,Telekomunikasi,High,7485,232625940750.0,True,39.0,Kepolisian
+INC-000592,2021-08-13,DKI Jakarta,Zero-Day Exploit,E-Commerce,Critical,23076,2060329583520.0,False,68.0,Kepolisian
+INC-001008,2024-02-19,DKI Jakarta,Malware,Media,High,2727,,True,67.0,BSSN
+INC-001431,2024-09-22,Sulawesi Utara,Credential Stuffing,Energi,High,7734,,True,147.0,Kominfo
+INC-001004,2022-03-13,Sulawesi Barat,Malware,Fintech,Medium,19,67514638.0,True,66.0,Kominfo
+INC-000740,2022-06-01,Jawa Barat,Business Email Compromise,Perbankan,Medium,850,3277727500.0,False,16.0,Kepolisian
+INC-000807,2024-01-07,Jawa Timur,Website Defacement,UMKM,Medium,426,1042099518.0,True,54.0,Kepolisian
+INC-001160,2021-08-07,DKI Jakarta,Man-in-the-Middle,Asuransi,Medium,992,9534759776.0,True,14.0,Kepolisian
+INC-001150,2023-07-30,DKI Jakarta,Data Breach,Pendidikan,Critical,4271,183375940230.0,True,100.0,Kominfo
+INC-000467,2021-08-10,Jawa Barat,Data Breach,Ritel,Critical,72035,909438993600.0,True,7.0,Laporan Publik
+INC-001401,2024-03-21,Jawa Barat,SQL Injection,Pemerintahan,High,7442,302662679470.0,True,1.0,BSSN
+INC-000932,2024-04-10,Kalimantan Selatan,Data Breach,Ritel,Low,88,104477208.0,True,92.0,Kominfo
+INC-001346,2021-07-20,Jawa Tengah,Data Breach,Manufaktur,Critical,49068,1691350898040.0,False,34.0,BSSN
+INC-001280,2023-03-12,Banten,Data Breach,Manufaktur,High,1440,19039003200.0,True,21.0,Laporan Publik
+INC-001138,2020-11-25,DKI Jakarta,Phishing,UMKM,High,7778,111307380120.0,True,20.0,Kominfo
+INC-000986,2021-04-04,Kalimantan Timur,Ransomware,Fintech,Critical,11207,391580424900.0,True,2.0,Laporan Publik
+INC-000667,2023-01-19,Sulawesi Utara,Data Breach,Fintech,Medium,990,3721655520.0,False,5.0,Kominfo
+INC-001493,2023-04-19,Bangka Belitung,Social Engineering,Perbankan,High,5392,78449771680.0,False,20.0,Kepolisian
+INC-000457,2023-04-25,Kalimantan Barat,Phishing,Manufaktur,High,424,9259958600.0,False,28.0,Kepolisian
+INC-000172,2022-09-28,Banten,Business Email Compromise,Pemerintahan,Medium,205,350875745.0,True,32.0,Laporan Publik
+INC-001015,2023-11-17,Sulawesi Utara,Zero-Day Exploit,Manufaktur,Medium,445,1071251170.0,True,103.0,Kepolisian
+INC-000687,2022-06-22,Banten,DDoS,Perbankan,High,8750,251043275000.0,True,4.0,Kepolisian
+INC-000760,2023-04-21,Jawa Tengah,DDoS,Transportasi,High,656,27300322320.0,False,110.0,Kepolisian
+INC-000083,2021-03-14,Banten,Phishing,Transportasi,Medium,800,2219988800.0,True,180.0,BSSN
+INC-000404,2024-02-16,Sulawesi Tengah,Phishing,Pemerintahan,High,4903,163913222630.0,True,33.0,BSSN
+INC-000713,2023-01-24,Aceh,SQL Injection,Perbankan,Medium,582,5308717074.0,False,17.0,Kepolisian
+INC-000298,2022-02-09,DKI Jakarta,Malware,Pendidikan,Critical,89731,6803786674060.0,True,103.0,Kepolisian
+INC-000502,2022-01-04,DKI Jakarta,Malware,Perbankan,Medium,841,5934968958.0,False,10.0,Kepolisian
+INC-001272,2022-05-08,Jawa Timur,DDoS,Energi,Medium,597,3145480167.0,True,55.0,BSSN
+INC-000922,2023-12-07,Papua,Phishing,Pemerintahan,Medium,21,33775266.0,True,6.0,BSSN
+INC-000032,2022-05-06,Lampung,Business Email Compromise,Kesehatan,High,2973,14906770650.0,True,18.0,Laporan Publik
+INC-000338,2024-06-01,Nusa Tenggara Barat,Malware,Pendidikan,High,6058,,True,10.0,BSSN
+INC-001212,2021-12-16,Jawa Timur,Cryptojacking,Pendidikan,High,9631,383811770855.0,True,20.0,Kepolisian
+INC-000468,2022-01-23,Sumatera Selatan,Man-in-the-Middle,E-Commerce,Low,90,750315870.0,False,8.0,Laporan Publik
+INC-001112,2020-02-01,Jawa Barat,Credential Stuffing,E-Commerce,Medium,649,2706434489.0,True,89.0,Kepolisian
+INC-000156,2021-12-25,Jawa Barat,Data Breach,Media,High,6038,150915009790.0,True,76.0,Laporan Publik
+INC-000877,2023-03-19,Jawa Barat,Malware,Asuransi,Medium,336,2220851136.0,True,12.0,Kepolisian
+INC-001475,2023-01-28,Jawa Timur,Phishing,Energi,Medium,483,2562010227.0,True,,BSSN
+INC-001058,2024-09-17,Jawa Tengah,DDoS,Manufaktur,Medium,793,1160402451.0,True,101.0,BSSN
+INC-001080,2022-04-10,Jawa Barat,Business Email Compromise,Perbankan,Medium,386,1210979658.0,True,138.0,Kominfo
+INC-000472,2024-03-22,Jawa Timur,Cryptojacking,Pendidikan,Low,93,201326214.0,True,8.0,Kominfo
+INC-001161,2020-10-21,Jawa Tengah,Social Engineering,Energi,Medium,497,1946603379.0,True,4.0,Laporan Publik
+INC-000009,2022-09-01,Jawa Tengah,DDoS,Asuransi,Medium,693,5106755808.0,True,90.0,BSSN
+INC-000069,2024-04-26,Jawa Barat,Man-in-the-Middle,Asuransi,Low,49,114758931.0,True,9.0,Laporan Publik
+INC-001483,2023-12-24,DKI Jakarta,Malware,Pendidikan,High,9522,297572402880.0,False,140.0,Laporan Publik
+INC-001322,2023-06-05,Gorontalo,Ransomware,Fintech,Medium,311,855630042.0,True,106.0,Kominfo
+INC-000616,2021-05-26,Jawa Tengah,Malware,Transportasi,Medium,713,6400772833.0,False,14.0,Kominfo
+INC-000522,2022-03-19,Jawa Barat,Credential Stuffing,Pendidikan,Medium,685,2690882075.0,True,46.0,BSSN
+INC-001236,2021-02-26,DKI Jakarta,Phishing,Asuransi,Medium,704,579961536.0,True,6.0,BSSN
+INC-001367,2023-06-29,Sulawesi Tenggara,Ransomware,Transportasi,Low,59,163995810.0,True,62.0,BSSN
+INC-000533,2022-05-29,Jawa Timur,Malware,Energi,Low,1,5882655.0,True,1.0,Kepolisian
+INC-001230,2023-02-19,Bengkulu,Phishing,E-Commerce,Medium,889,8462619473.0,True,5.0,Kepolisian
+INC-000301,2022-10-28,Sulawesi Tenggara,Data Breach,E-Commerce,High,5973,63638970120.0,True,,Kepolisian
+INC-000470,2020-12-22,DKI Jakarta,DDoS,Perbankan,High,8127,320041991430.0,True,73.0,Kepolisian
+INC-001474,2024-11-09,Bengkulu,Cryptojacking,Manufaktur,High,3566,173136449830.0,False,3.0,Laporan Publik
+INC-000715,2021-06-08,Jawa Timur,Phishing,Energi,Low,2,8185704.0,False,28.0,Kepolisian
+INC-000654,2023-03-07,Jawa Timur,Phishing,Pendidikan,Medium,502,514506828.0,True,123.0,Laporan Publik
+INC-000796,2023-07-18,Sulawesi Utara,Social Engineering,UMKM,Medium,476,421028664.0,False,12.0,Kepolisian
+INC-000693,2022-12-30,Sumatera Selatan,Insider Threat,Telekomunikasi,Medium,627,4223185461.0,False,3.0,Kominfo
+INC-000720,2022-02-17,Jawa Barat,DDoS,Media,High,9777,226958829465.0,False,28.0,Laporan Publik
+INC-001271,2021-08-30,Jawa Tengah,Social Engineering,Media,Medium,258,1180206810.0,True,8.0,BSSN
+INC-000669,2020-11-14,Jawa Timur,Phishing,Asuransi,Medium,749,,True,88.0,BSSN
+INC-000553,2023-01-10,DKI Jakarta,Zero-Day Exploit,Asuransi,Critical,81720,6202977847200.0,False,51.0,Kominfo
+INC-001473,2021-03-11,Jawa Timur,Malware,UMKM,High,5245,204060580075.0,True,123.0,Kepolisian
+INC-000061,2021-10-26,Bangka Belitung,Malware,Kesehatan,High,8334,263919028500.0,True,24.0,BSSN
+INC-001171,2023-07-23,Jawa Barat,DDoS,Ritel,Medium,340,2615902880.0,True,131.0,Kepolisian
+INC-000091,2021-11-26,DKI Jakarta,Business Email Compromise,Asuransi,Medium,755,200302255.0,True,,BSSN
+INC-001390,2024-12-02,Riau,Website Defacement,Fintech,Low,44,316152408.0,True,48.0,Kominfo
+INC-000049,2023-10-11,Banten,Business Email Compromise,Pendidikan,Low,96,166715232.0,True,35.0,Kepolisian
+INC-000804,2022-04-30,Bangka Belitung,Social Engineering,Transportasi,Medium,791,3776071054.0,True,3.0,Kominfo
+INC-000314,2021-12-10,DKI Jakarta,Data Breach,Perbankan,Critical,99412,8304958009600.0,True,9.0,Kepolisian
+INC-000211,2023-01-30,Jawa Barat,Data Breach,Fintech,Low,16,119234912.0,True,14.0,Kepolisian
+INC-001224,2021-12-28,DKI Jakarta,Data Breach,Manufaktur,Critical,51481,1230838636600.0,True,4.0,Kepolisian
+INC-001379,2022-04-29,Jawa Tengah,Data Breach,Media,High,4933,180413474410.0,True,12.0,Laporan Publik
+INC-000113,2024-08-16,Jawa Timur,Malware,Transportasi,Medium,82,542795146.0,True,22.0,BSSN
+INC-000126,2021-12-07,Jawa Barat,Phishing,Telekomunikasi,Medium,671,2891492659.0,True,51.0,Kominfo
+INC-000313,2022-02-23,Jawa Barat,Credential Stuffing,Fintech,High,546,16383218670.0,False,56.0,Laporan Publik
+INC-001472,2021-05-17,Jawa Timur,Ransomware,Manufaktur,High,4361,175319003160.0,True,,Kominfo
+INC-001442,2020-08-18,Sulawesi Selatan,DDoS,Ritel,Low,95,333481445.0,True,17.0,BSSN
+INC-000089,2022-05-20,DKI Jakarta,DDoS,UMKM,Medium,208,905691072.0,False,142.0,Kepolisian
+INC-000171,2021-06-22,Jambi,Data Breach,Perbankan,High,1745,14484852375.0,True,59.0,Kominfo
+INC-001443,2023-10-28,Jawa Timur,Phishing,Ritel,Low,80,503132160.0,True,83.0,Laporan Publik
+INC-001183,2024-10-11,DKI Jakarta,Phishing,Transportasi,Low,97,530810578.0,True,58.0,Kepolisian
+INC-001048,2023-04-27,Jawa Timur,Phishing,Telekomunikasi,Medium,988,3993131428.0,True,82.0,Kominfo
+INC-000456,2024-07-02,Banten,DDoS,Fintech,High,4398,50090801100.0,True,23.0,Kepolisian
+INC-001395,2021-05-25,Papua,Man-in-the-Middle,Pemerintahan,High,9429,126803266380.0,True,31.0,BSSN
+INC-000611,2021-05-21,Sumatera Selatan,Ransomware,Media,Critical,17630,1146987172900.0,True,12.0,Kepolisian
+INC-000648,2022-09-10,Banten,Credential Stuffing,Pendidikan,High,7063,47275095735.0,True,7.0,BSSN
+INC-001436,2021-05-28,Kalimantan Timur,SQL Injection,Perbankan,High,9547,334695957370.0,False,12.0,BSSN
+INC-000148,2022-05-21,Lampung,Credential Stuffing,E-Commerce,Medium,338,2088644636.0,False,20.0,Kepolisian
+INC-000675,2024-01-18,Banten,DDoS,Transportasi,Critical,31782,2522206171560.0,False,50.0,Kominfo
+INC-000140,2023-12-07,DKI Jakarta,Data Breach,Ritel,Medium,358,1571616778.0,True,61.0,Laporan Publik
+INC-000033,2023-04-02,Jawa Timur,Data Breach,Kesehatan,Medium,284,1602198212.0,False,66.0,Kepolisian
+INC-001239,2022-04-26,Jawa Barat,DDoS,Pemerintahan,Critical,47514,812927003940.0,True,40.0,BSSN
+INC-001290,2023-05-08,Banten,Phishing,Kesehatan,Low,60,,True,28.0,Laporan Publik
+INC-000231,2020-11-18,DKI Jakarta,Malware,Media,Low,72,675486936.0,True,9.0,BSSN
+INC-000234,2024-03-01,Sumatera Barat,Phishing,E-Commerce,High,1406,27289588280.0,True,16.0,Kominfo
+INC-000039,2022-07-23,Maluku,Phishing,Telekomunikasi,High,3949,109212734455.0,True,41.0,BSSN
+INC-000899,2022-11-26,Banten,Credential Stuffing,Asuransi,High,9797,316151835190.0,True,40.0,Laporan Publik
+INC-000573,2022-09-13,Lampung,Business Email Compromise,Energi,Medium,737,5206600619.0,True,195.0,Kominfo
+INC-001373,2023-02-07,Jawa Barat,Insider Threat,Kesehatan,Medium,244,509075012.0,True,35.0,Kepolisian
+INC-001144,2021-08-13,Jawa Barat,Data Breach,E-Commerce,Low,80,275477840.0,True,115.0,Kepolisian
+INC-000962,2022-11-13,Banten,Website Defacement,Kesehatan,Medium,29,151922793.0,True,82.0,BSSN
+INC-000887,2021-07-24,DKI Jakarta,Credential Stuffing,Telekomunikasi,Medium,321,147130029.0,True,20.0,Kominfo
+INC-000250,2021-05-09,Jawa Barat,Ransomware,Media,Critical,77121,1982742349500.0,True,12.0,Kominfo
+INC-000692,2021-03-12,Jawa Timur,Data Breach,Fintech,High,1125,49127985000.0,True,41.0,Kominfo
+INC-000413,2023-10-03,Sumatera Utara,Phishing,E-Commerce,Medium,108,526314564.0,True,63.0,Kepolisian
+INC-000452,2021-08-01,Kalimantan Timur,Social Engineering,Perbankan,Low,6,46776744.0,False,96.0,Kepolisian
+INC-000586,2024-02-01,Jawa Barat,Man-in-the-Middle,Ritel,Medium,850,6829873250.0,True,43.0,Laporan Publik
+INC-000394,2023-04-19,Jawa Timur,Malware,E-Commerce,Medium,694,756731354.0,True,158.0,Laporan Publik
+INC-001456,2021-06-13,Bangka Belitung,Ransomware,Fintech,Critical,15961,1319559554390.0,False,86.0,Laporan Publik
+INC-000558,2020-09-05,Sulawesi Barat,Malware,E-Commerce,Medium,266,932711178.0,True,29.0,Kominfo
+INC-001148,2022-10-15,Jawa Timur,Social Engineering,Media,Medium,297,1476530154.0,False,,BSSN
+INC-000035,2021-01-28,Jawa Tengah,Credential Stuffing,Fintech,Medium,86,453187234.0,True,109.0,Kepolisian
+INC-000110,2020-09-04,Kalimantan Tengah,Phishing,Ritel,Low,72,683672256.0,True,95.0,BSSN
+INC-001440,2022-07-07,Nusa Tenggara Barat,DDoS,Fintech,Medium,512,2875485184.0,False,87.0,BSSN
+INC-001253,2023-07-14,Jawa Timur,Man-in-the-Middle,Energi,Medium,412,1858550540.0,False,81.0,Kominfo
+INC-000563,2024-09-18,Jawa Timur,DDoS,UMKM,High,8752,88368856480.0,True,42.0,Kominfo
+INC-000373,2024-10-22,Kalimantan Timur,DDoS,Media,High,5856,284523832320.0,True,37.0,Laporan Publik
+INC-000105,2022-04-19,Jawa Barat,Malware,Telekomunikasi,Medium,860,2207196020.0,False,21.0,Kepolisian
+INC-000809,2022-04-04,Jawa Timur,Data Breach,Pendidikan,Medium,480,4236699840.0,True,40.0,Kominfo
+INC-001060,2023-03-16,Jawa Timur,Social Engineering,UMKM,Low,38,250738858.0,True,127.0,Laporan Publik
+INC-000925,2023-04-30,Banten,Phishing,Media,Low,73,98456560.0,True,58.0,Kepolisian
+INC-000363,2020-08-04,Banten,Phishing,Pemerintahan,High,6902,100782210270.0,True,14.0,Kepolisian
+INC-001241,2023-07-19,DKI Jakarta,Data Breach,Asuransi,Low,60,421017000.0,True,63.0,Laporan Publik
+INC-000775,2023-12-21,Jawa Timur,Zero-Day Exploit,E-Commerce,Medium,846,403477704.0,False,27.0,Kepolisian
+INC-000075,2020-11-09,DI Yogyakarta,DDoS,Transportasi,Medium,298,2013487362.0,True,16.0,Kepolisian
+INC-001309,2023-03-12,Jawa Tengah,Man-in-the-Middle,Ritel,High,6918,189455241120.0,False,25.0,Laporan Publik
+INC-000889,2024-03-14,Jawa Barat,DDoS,Media,High,874,25921170660.0,False,10.0,Laporan Publik
+INC-000388,2023-02-10,Jawa Tengah,Ransomware,E-Commerce,Critical,1148,10616302200.0,True,4.0,Laporan Publik
+INC-000811,2022-11-15,Jawa Timur,Business Email Compromise,Media,Critical,73936,5585901768000.0,True,61.0,Kominfo
+INC-000594,2022-11-01,Bali,Data Breach,Media,Critical,76312,6338699077280.0,True,52.0,Laporan Publik
+INC-000759,2022-03-25,DKI Jakarta,Phishing,Manufaktur,Low,55,261261825.0,True,19.0,Kepolisian
+INC-001067,2021-09-21,Banten,Ransomware,Transportasi,High,2697,67637820270.0,True,8.0,Kepolisian
+INC-001039,2020-11-21,DKI Jakarta,SQL Injection,Pemerintahan,High,4884,142175144760.0,True,35.0,Kepolisian
+INC-000124,2022-03-15,Jawa Timur,Ransomware,Transportasi,Critical,88822,2563582340440.0,True,141.0,Kominfo
+INC-000947,2022-01-28,Kalimantan Tengah,Data Breach,Manufaktur,Critical,55165,1975853631400.0,True,29.0,Laporan Publik
+INC-001132,2021-05-31,Jawa Barat,Malware,Manufaktur,Medium,50,355859550.0,True,17.0,Kominfo
+INC-001286,2024-05-05,DI Yogyakarta,Social Engineering,Pemerintahan,Medium,536,3991482656.0,True,75.0,Laporan Publik
+INC-000702,2024-03-27,Sulawesi Tenggara,Phishing,E-Commerce,Medium,679,1991344719.0,False,18.0,BSSN
+INC-000431,2023-08-02,DKI Jakarta,Social Engineering,Perbankan,Low,56,233658656.0,False,35.0,Laporan Publik
+INC-000575,2022-07-27,Jawa Barat,Data Breach,Ritel,Medium,610,1492131980.0,True,0.0,Kepolisian
+INC-000822,2020-10-28,Jawa Tengah,DDoS,Asuransi,High,1882,70857648170.0,False,288.0,Laporan Publik
+INC-000423,2023-03-06,DKI Jakarta,Data Breach,Pemerintahan,Medium,717,1892209605.0,False,2.0,Kominfo
+INC-000345,2023-10-16,Jawa Barat,Cryptojacking,Pendidikan,Low,95,503466560.0,True,58.0,BSSN
+INC-000640,2024-09-06,Jawa Barat,DDoS,Ritel,High,5379,264283932660.0,True,49.0,Kepolisian
+INC-001162,2021-10-09,Jawa Barat,Phishing,Pendidikan,Low,3,26168709.0,False,45.0,Kominfo
+INC-001383,2020-08-31,Banten,Ransomware,Telekomunikasi,High,665,2357155675.0,True,11.0,Laporan Publik
+INC-000826,2022-09-19,Jawa Timur,Social Engineering,Perbankan,Medium,765,2900356740.0,False,21.0,Laporan Publik
+INC-000659,2024-06-24,DKI Jakarta,Malware,UMKM,High,1678,24787533460.0,True,,Laporan Publik
+INC-001342,2023-09-17,Jawa Barat,Business Email Compromise,Fintech,High,7226,181561668290.0,True,58.0,Laporan Publik
+INC-000513,2023-05-29,Kalimantan Barat,Cryptojacking,Energi,Low,4,29292612.0,True,,Kominfo
+INC-000529,2022-11-17,DKI Jakarta,Malware,Kesehatan,High,7532,233898464380.0,False,6.0,Kominfo
+INC-000230,2021-06-21,Kalimantan Tengah,Phishing,Telekomunikasi,Medium,860,7966235040.0,True,8.0,Kominfo
+INC-001023,2023-04-07,Maluku Utara,DDoS,Energi,High,6014,203046742830.0,True,199.0,Kominfo
+INC-000843,2022-03-26,Banten,Phishing,Pendidikan,Low,33,111226962.0,False,33.0,Laporan Publik
+INC-001064,2022-10-02,Banten,Phishing,Kesehatan,Low,53,514269812.0,True,17.0,Laporan Publik
+INC-000030,2022-12-05,Banten,Website Defacement,UMKM,Medium,115,892653920.0,True,4.0,BSSN
+INC-000490,2024-06-24,Banten,Credential Stuffing,Transportasi,Critical,96899,3879709022310.0,True,47.0,Laporan Publik
+INC-000292,2022-11-10,Sulawesi Selatan,Ransomware,Asuransi,Critical,22534,1535013150580.0,False,23.0,BSSN
+INC-001477,2022-02-15,Lampung,Ransomware,Media,Critical,46783,2809528270010.0,True,18.0,Kepolisian
+INC-000644,2023-01-26,DKI Jakarta,Ransomware,Transportasi,Medium,838,6391817346.0,True,55.0,BSSN
+INC-000267,2022-08-11,Banten,Ransomware,Transportasi,Critical,41232,1875391340160.0,True,83.0,Kominfo
+INC-000040,2021-02-13,Banten,Social Engineering,Pendidikan,Low,86,819984372.0,False,21.0,Kominfo
+INC-000458,2022-02-19,Jawa Timur,Data Breach,Media,High,8052,131875696260.0,False,14.0,Laporan Publik
+INC-000797,2024-10-03,Jawa Tengah,Man-in-the-Middle,Telekomunikasi,High,700,33463724000.0,True,25.0,Kepolisian
+INC-000764,2023-05-24,Jawa Barat,Man-in-the-Middle,Telekomunikasi,Medium,988,6051091956.0,False,154.0,BSSN
+INC-000959,2022-08-03,Jawa Timur,Man-in-the-Middle,Perbankan,Low,89,,True,70.0,BSSN
+INC-000202,2024-10-08,Bengkulu,Data Breach,Media,Medium,266,2567310704.0,True,27.0,Laporan Publik
+INC-000847,2020-12-22,Jawa Tengah,Phishing,Kesehatan,Medium,719,5624668695.0,False,19.0,Laporan Publik
+INC-001090,2023-02-09,DKI Jakarta,Data Breach,Energi,Medium,868,5271624400.0,True,149.0,Kepolisian
+INC-000709,2023-11-03,Jawa Barat,Social Engineering,Transportasi,Medium,575,772522275.0,True,27.0,Kepolisian
+INC-001468,2024-10-07,Kalimantan Timur,Phishing,Manufaktur,Low,22,23850882.0,True,151.0,Laporan Publik
+INC-001019,2022-11-28,DKI Jakarta,Social Engineering,UMKM,Low,22,131308980.0,True,9.0,Kominfo
+INC-000937,2022-04-30,Jawa Timur,Phishing,E-Commerce,Critical,77256,957503910960.0,True,126.0,Kepolisian
+INC-001033,2020-06-18,DI Yogyakarta,Malware,E-Commerce,Medium,527,4710004003.0,True,36.0,BSSN
+INC-000841,2022-01-30,Jawa Barat,Data Breach,Transportasi,Medium,879,1319423829.0,True,24.0,BSSN
+INC-000572,2021-10-13,Jawa Tengah,Man-in-the-Middle,Manufaktur,Low,69,391075992.0,True,169.0,Laporan Publik
+INC-000401,2023-08-13,Jawa Tengah,Ransomware,Pendidikan,High,5792,69942396480.0,False,3.0,Kominfo
+INC-000247,2022-10-11,Jawa Barat,Social Engineering,Manufaktur,Low,96,390947424.0,False,5.0,Laporan Publik
+INC-001263,2024-02-28,DKI Jakarta,Data Breach,Ritel,Critical,19344,673294034400.0,True,9.0,Kepolisian
+INC-000832,2024-09-02,Jawa Tengah,Ransomware,Media,High,7134,181433279130.0,False,0.0,Kepolisian
+INC-001281,2022-10-08,DKI Jakarta,Zero-Day Exploit,Pendidikan,Critical,27797,175116374510.0,True,2.0,Kepolisian
+INC-001312,2023-02-10,Jawa Barat,Ransomware,Telekomunikasi,Medium,237,425925024.0,True,55.0,BSSN
+INC-001354,2021-04-26,Nusa Tenggara Barat,Ransomware,Pendidikan,High,5567,135608584955.0,True,152.0,Kepolisian
+INC-000802,2023-03-20,Jawa Barat,Ransomware,Perbankan,High,4583,67984038680.0,True,25.0,Kominfo
+INC-001007,2023-12-17,DKI Jakarta,Data Breach,UMKM,High,3873,188090327865.0,True,6.0,Laporan Publik
+INC-000476,2021-09-13,Sulawesi Tenggara,Data Breach,Fintech,Medium,634,4277700708.0,False,46.0,Kepolisian
+INC-001500,2021-12-07,Bali,Data Breach,Telekomunikasi,High,2095,84927099525.0,False,79.0,Kominfo
+INC-000441,2024-09-07,Sumatera Utara,Data Breach,Pemerintahan,High,4993,192352054585.0,True,5.0,Kominfo
+INC-000568,2023-07-22,Kalimantan Tengah,Data Breach,Energi,Critical,6167,264743574690.0,True,157.0,BSSN
+INC-000348,2022-05-18,Jawa Barat,Ransomware,Pendidikan,Critical,84106,126068165520.0,False,30.0,Kominfo
+INC-001059,2023-07-05,Sumatera Barat,DDoS,Media,Critical,39735,2394127921950.0,True,86.0,Kominfo
+INC-000836,2022-12-10,Jawa Tengah,Malware,Pendidikan,Low,97,30958714.0,True,9.0,BSSN
+INC-000370,2024-05-11,Bengkulu,Ransomware,Perbankan,High,9853,43698104265.0,False,8.0,Laporan Publik
+INC-000719,2022-12-05,Jawa Barat,Social Engineering,Asuransi,High,3972,104959603500.0,True,15.0,BSSN
+INC-000216,2023-04-16,Bangka Belitung,Social Engineering,Asuransi,Medium,355,2953912045.0,True,36.0,BSSN
+INC-000761,2022-05-23,Kalimantan Selatan,Cryptojacking,Fintech,Medium,981,9638304399.0,True,4.0,Kominfo
+INC-000838,2020-07-27,DKI Jakarta,DDoS,Fintech,High,9711,142841623860.0,True,78.0,Laporan Publik
+INC-001141,2021-12-22,Kalimantan Timur,Phishing,Energi,Medium,90,592971660.0,True,4.0,BSSN
+INC-001030,2024-03-16,DKI Jakarta,Man-in-the-Middle,Media,Low,33,242589732.0,True,14.0,Kepolisian
+INC-001250,2021-12-09,Banten,Data Breach,Media,Critical,20924,1881778179040.0,True,43.0,Kominfo
+INC-001293,2022-03-03,Kalimantan Utara,Malware,Energi,Medium,538,1898500318.0,False,99.0,Kominfo
+INC-000263,2022-04-08,Jawa Tengah,Malware,Transportasi,High,110,5144922200.0,False,18.0,Kepolisian
+INC-000649,2021-07-25,Jawa Timur,SQL Injection,Media,High,4668,53494136340.0,True,69.0,BSSN
+INC-001083,2023-04-02,Jawa Barat,SQL Injection,Fintech,Low,56,6447896.0,True,81.0,Laporan Publik
+INC-001429,2024-01-14,Jawa Barat,Social Engineering,Transportasi,High,3231,84483929520.0,True,27.0,BSSN
+INC-000781,2023-07-01,Papua,Ransomware,UMKM,Critical,16120,750983729600.0,False,7.0,Kepolisian
+INC-000620,2024-11-23,Jawa Barat,Data Breach,Manufaktur,High,4283,5719325465.0,True,25.0,Laporan Publik
+INC-000487,2021-01-01,Jawa Tengah,Data Breach,Media,Medium,338,947729692.0,True,41.0,Laporan Publik
+INC-000827,2023-06-28,DKI Jakarta,DDoS,E-Commerce,High,3318,120337024920.0,True,5.0,Laporan Publik
+INC-000642,2023-08-16,Jawa Timur,Malware,Ritel,Low,99,926011944.0,False,94.0,Laporan Publik
+INC-000180,2023-09-05,Jawa Timur,Phishing,Manufaktur,Medium,157,1222544242.0,False,39.0,BSSN
+INC-000697,2022-10-19,DI Yogyakarta,DDoS,Pemerintahan,Medium,647,449076877.0,True,10.0,BSSN
+INC-000344,2024-06-12,DKI Jakarta,Data Breach,Pendidikan,Critical,64295,3254501026700.0,False,3.0,Kepolisian
+INC-000360,2023-06-14,Jawa Tengah,Business Email Compromise,E-Commerce,Medium,491,498418028.0,True,3.0,Laporan Publik
+INC-000186,2021-04-12,Jawa Barat,Phishing,Fintech,Medium,238,1390060896.0,True,81.0,Kepolisian
+INC-000454,2023-09-13,Jawa Barat,Data Breach,Pemerintahan,Low,41,285146595.0,True,142.0,BSSN
+INC-000415,2024-04-13,DKI Jakarta,Data Breach,UMKM,High,2748,108512350740.0,False,11.0,Laporan Publik
+INC-001436,2021-05-28,Kalimantan Timur,SQL Injection,Perbankan,High,9547,334695957370.0,False,12.0,BSSN
+INC-001314,2022-12-31,Jawa Timur,Data Breach,E-Commerce,High,2831,3124433150.0,True,59.0,Kominfo
+INC-000646,2022-07-17,Jawa Timur,Credential Stuffing,UMKM,Medium,350,911337350.0,False,58.0,Kepolisian
+INC-001116,2022-10-22,Papua Barat,Data Breach,Pendidikan,Critical,68507,5695082819800.0,False,28.0,BSSN
+INC-000873,2024-03-06,DKI Jakarta,Ransomware,Fintech,High,7387,323036427865.0,True,88.0,Laporan Publik
+INC-000939,2022-04-24,Nusa Tenggara Timur,SQL Injection,E-Commerce,High,4603,139716078795.0,False,,BSSN
+INC-001178,2022-06-24,Jawa Tengah,Zero-Day Exploit,Ritel,High,5951,233319904840.0,True,39.0,Kominfo
+INC-000699,2023-09-27,Jawa Tengah,Zero-Day Exploit,Transportasi,Critical,84768,6052711543680.0,False,59.0,Laporan Publik
+INC-000540,2023-01-09,DKI Jakarta,Social Engineering,Manufaktur,High,7102,74259435260.0,True,128.0,BSSN
+INC-000940,2022-05-17,Jawa Barat,Ransomware,Media,Medium,466,1896839486.0,False,57.0,Kominfo
+INC-000900,2022-08-27,Banten,Malware,UMKM,Critical,87649,4923474846870.0,True,17.0,Kominfo
+INC-001238,2023-10-10,Jawa Tengah,Malware,Manufaktur,High,2868,8886153840.0,True,2.0,Kepolisian
+INC-001289,2024-06-06,Jawa Barat,Ransomware,Pendidikan,Critical,96018,9402290919060.0,True,46.0,BSSN
+INC-001453,2022-12-31,DKI Jakarta,Social Engineering,Perbankan,Medium,845,8433170980.0,True,18.0,Kominfo
+INC-000637,2021-02-14,DKI Jakarta,Man-in-the-Middle,Perbankan,Medium,228,1493720568.0,False,63.0,Kepolisian
+INC-001317,2022-11-18,DKI Jakarta,Website Defacement,Media,Medium,49,95058432.0,True,164.0,Kominfo
+INC-000270,2023-08-27,DKI Jakarta,Ransomware,Ritel,High,9367,367704676110.0,True,192.0,Kominfo
+INC-000046,2023-01-29,Jawa Barat,Business Email Compromise,Pendidikan,High,5587,176693763625.0,True,91.0,Kominfo
+INC-000643,2021-02-18,Sumatera Selatan,Website Defacement,UMKM,Medium,190,1855301550.0,False,0.0,Kepolisian
+INC-001054,2022-09-13,Jawa Timur,Ransomware,Pendidikan,Critical,56918,198600562320.0,True,57.0,Laporan Publik
+INC-000515,2024-09-23,Kalimantan Selatan,SQL Injection,E-Commerce,High,8028,222133234680.0,False,46.0,Laporan Publik
+INC-001490,2022-08-30,DKI Jakarta,Phishing,Manufaktur,Low,27,220855950.0,True,,Kominfo
+INC-001469,2022-01-06,Sulawesi Tengah,Malware,E-Commerce,Medium,13,,True,72.0,Laporan Publik
+INC-000316,2021-09-24,Gorontalo,Zero-Day Exploit,UMKM,Critical,39699,,True,86.0,Laporan Publik
+INC-000489,2022-09-12,Jawa Timur,Ransomware,Manufaktur,Critical,97798,4539697097760.0,True,3.0,Kepolisian
+INC-000051,2023-04-20,Jawa Tengah,SQL Injection,Energi,Critical,85880,7600825717200.0,True,38.0,Kominfo
+INC-001143,2023-01-24,Jawa Tengah,SQL Injection,Perbankan,High,6134,214110306330.0,True,,Laporan Publik
+INC-000280,2023-02-28,Banten,DDoS,E-Commerce,Medium,998,5058763198.0,False,85.0,BSSN
+INC-000818,2020-09-20,DKI Jakarta,Malware,Manufaktur,Medium,303,1325895276.0,False,32.0,Kepolisian
+INC-000778,2024-03-30,Sulawesi Tenggara,Social Engineering,Manufaktur,High,1174,14880543920.0,False,12.0,Laporan Publik
+INC-000737,2023-06-13,Jawa Timur,Ransomware,Pemerintahan,High,2281,15118684695.0,True,55.0,BSSN
+INC-001066,2023-03-07,Jawa Barat,Phishing,Pendidikan,High,3331,131671415445.0,True,1.0,Kominfo
+INC-001088,2022-12-17,Sumatera Utara,Phishing,Manufaktur,Medium,38,344404906.0,False,58.0,Kepolisian
+INC-000616,2021-05-26,Jawa Tengah,Malware,Transportasi,Medium,713,6400772833.0,False,14.0,Kominfo
+INC-001371,2020-03-25,Jawa Barat,Man-in-the-Middle,Telekomunikasi,Medium,944,2018059600.0,True,5.0,BSSN
+INC-000311,2023-06-20,Sulawesi Tengah,Data Breach,Fintech,High,8383,369830547590.0,True,77.0,Kepolisian
+INC-000614,2024-04-20,Jawa Timur,Data Breach,Pendidikan,High,9083,222809850275.0,True,12.0,Kepolisian
+INC-000261,2021-09-19,Gorontalo,Malware,UMKM,Critical,75391,3404567090800.0,True,0.0,Kominfo
+INC-000579,2023-12-10,Jawa Tengah,Ransomware,E-Commerce,High,771,3044470830.0,True,84.0,Laporan Publik
+INC-001232,2024-07-13,Banten,Ransomware,Kesehatan,Medium,459,2228396805.0,True,93.0,Kominfo
+INC-001338,2022-03-13,Jawa Barat,Phishing,Fintech,High,8361,400555945260.0,True,14.0,Kominfo
+INC-000158,2023-06-19,Banten,Phishing,Pemerintahan,Low,52,161934760.0,True,40.0,Laporan Publik
+INC-001425,2023-08-20,Jawa Tengah,Phishing,UMKM,Medium,178,,True,27.0,Laporan Publik
+INC-001402,2023-02-03,DKI Jakarta,DDoS,Energi,Medium,10,32038000.0,True,42.0,Laporan Publik
+INC-001479,2024-06-08,Banten,Phishing,E-Commerce,Low,99,203816646.0,True,73.0,Kepolisian
+INC-000523,2021-11-03,DI Yogyakarta,DDoS,Transportasi,Medium,577,1052928641.0,True,82.0,Kominfo
+INC-000587,2023-11-27,Jawa Timur,Data Breach,UMKM,High,2075,59039684500.0,False,,BSSN
+INC-000438,2021-11-16,Papua Barat,Phishing,Ritel,Low,49,363138118.0,True,24.0,Laporan Publik
+INC-000012,2021-04-07,Jawa Timur,Malware,Telekomunikasi,Medium,103,118272634.0,True,1.0,Kepolisian
+INC-001356,2023-10-21,DKI Jakarta,Ransomware,Perbankan,Critical,74745,885810469500.0,False,2.0,BSSN
+INC-001140,2022-07-09,DKI Jakarta,Ransomware,Energi,Critical,7212,215906581560.0,False,40.0,Laporan Publik
+INC-001127,2020-09-30,Jambi,Insider Threat,Pendidikan,Low,4,16475680.0,True,35.0,BSSN
+INC-000328,2024-01-01,Jambi,Phishing,Pemerintahan,Medium,848,463936560.0,True,97.0,Laporan Publik
+INC-000997,2022-11-06,Jawa Tengah,Credential Stuffing,Fintech,High,9884,75664046220.0,True,9.0,Kepolisian
+INC-001082,2023-01-30,Jawa Barat,SQL Injection,Asuransi,Medium,571,5049946269.0,True,3.0,Laporan Publik
+INC-001151,2023-09-24,DKI Jakarta,Malware,Asuransi,Low,43,164501402.0,True,10.0,Kominfo
+INC-001265,2023-11-02,Jawa Barat,Website Defacement,Pemerintahan,Critical,38656,1642927160320.0,True,66.0,Kepolisian
+INC-000395,2022-04-06,DKI Jakarta,Data Breach,Pemerintahan,High,9471,205964274285.0,True,28.0,Kominfo
+INC-000166,2023-05-25,DKI Jakarta,Business Email Compromise,Pendidikan,Low,40,268826440.0,True,4.0,Kominfo
+INC-000524,2022-09-11,Sulawesi Selatan,Social Engineering,Pemerintahan,High,2770,125702309150.0,True,68.0,Kominfo
+INC-000099,2022-01-31,Kalimantan Utara,Data Breach,Fintech,High,1710,43882045650.0,True,8.0,Laporan Publik
+INC-000772,2022-05-14,Jawa Barat,Cryptojacking,UMKM,Low,10,23030870.0,False,14.0,Laporan Publik
+INC-000004,2021-11-22,Jawa Barat,Malware,Pemerintahan,High,4910,37815641600.0,True,7.0,Kominfo
+INC-000835,2020-07-21,Lampung,Malware,Ritel,Medium,153,814076433.0,True,24.0,Kepolisian
+INC-000273,2022-10-07,Sumatera Utara,DDoS,E-Commerce,High,6820,62482418900.0,True,38.0,Kominfo
+INC-000853,2020-08-30,DKI Jakarta,Data Breach,Ritel,Medium,726,479982558.0,False,6.0,BSSN
+INC-000329,2023-03-26,Bali,Business Email Compromise,Telekomunikasi,Medium,763,5283366032.0,True,54.0,BSSN
+INC-000223,2023-01-28,Jawa Timur,Data Breach,Media,High,4659,129813414165.0,False,37.0,Kepolisian
+INC-000453,2024-06-14,Jawa Timur,Malware,Asuransi,High,2697,27222371775.0,True,65.0,Kominfo
+INC-001400,2022-02-09,Jawa Barat,Credential Stuffing,Kesehatan,Medium,712,3166879168.0,True,53.0,BSSN
+INC-001406,2023-04-07,DKI Jakarta,Malware,Asuransi,Medium,329,2915772041.0,True,79.0,Kepolisian
+INC-000848,2022-06-06,Jawa Barat,Cryptojacking,UMKM,Medium,680,6525828080.0,True,13.0,BSSN
+INC-000965,2022-12-04,DKI Jakarta,Man-in-the-Middle,Fintech,Critical,69112,6886310004320.0,True,104.0,Laporan Publik
+INC-000752,2023-08-07,Kalimantan Utara,Data Breach,Asuransi,High,4411,,True,19.0,BSSN
+INC-000969,2021-08-27,Jawa Timur,Ransomware,Media,Critical,59051,2769837348350.0,False,54.0,Kepolisian
+INC-001026,2023-10-05,Sulawesi Tengah,Ransomware,Kesehatan,High,9323,23978709385.0,False,19.0,BSSN
+INC-001107,2022-12-26,Kepulauan Riau,Malware,Telekomunikasi,High,9453,133792515585.0,False,63.0,BSSN
+INC-000196,2022-04-25,Maluku,Phishing,Telekomunikasi,High,1825,49852065000.0,True,64.0,Kominfo
+INC-001362,2021-04-13,Papua Barat,Data Breach,Pendidikan,High,9717,52213667895.0,False,49.0,Laporan Publik
+INC-000526,2023-05-13,Kalimantan Selatan,Business Email Compromise,Asuransi,Medium,249,1485215031.0,True,,Laporan Publik
+INC-000676,2023-02-12,Banten,Zero-Day Exploit,Telekomunikasi,High,767,23101303680.0,False,0.0,Kepolisian
+INC-000837,2022-08-21,DI Yogyakarta,Data Breach,Energi,Critical,87348,3627992192160.0,True,22.0,Kominfo
+INC-001412,2022-10-07,DKI Jakarta,Cryptojacking,Perbankan,Medium,259,2507924195.0,True,48.0,Kepolisian
+INC-000417,2022-07-07,Jawa Barat,Ransomware,Kesehatan,Critical,84637,,False,152.0,Laporan Publik
+INC-000891,2024-10-01,Banten,Ransomware,Manufaktur,High,7904,245107071040.0,False,79.0,Kominfo
+INC-000420,2020-07-12,DKI Jakarta,Data Breach,Pendidikan,High,7507,72546146600.0,True,2.0,Laporan Publik
+INC-000996,2021-03-04,DKI Jakarta,Phishing,Energi,Medium,553,2072830914.0,False,25.0,Kepolisian
+INC-000318,2023-07-02,Banten,Malware,UMKM,Low,24,132562656.0,True,67.0,Kepolisian
+INC-000517,2023-04-16,Jawa Barat,Data Breach,Transportasi,High,4590,,False,40.0,Laporan Publik
+INC-000319,2023-06-02,DKI Jakarta,Business Email Compromise,Energi,High,4637,172982890855.0,True,35.0,Kepolisian
+INC-001103,2024-12-26,Jawa Tengah,DDoS,Pemerintahan,Low,61,547750781.0,True,177.0,Laporan Publik
+INC-001191,2021-06-19,Riau,Phishing,Energi,Medium,86,154592740.0,True,60.0,Kepolisian
+INC-001146,2023-10-14,Kepulauan Riau,Data Breach,Fintech,High,6576,226152092400.0,False,78.0,Laporan Publik
+INC-001070,2023-06-13,Bangka Belitung,Social Engineering,Pemerintahan,High,7063,348966443840.0,False,104.0,Kepolisian
+INC-001124,2024-12-01,Banten,Data Breach,Telekomunikasi,High,1828,83490792400.0,True,52.0,BSSN
+INC-001275,2024-02-26,Jawa Barat,Phishing,Telekomunikasi,Medium,754,2872984296.0,True,89.0,BSSN
+INC-001291,2022-08-05,DKI Jakarta,Ransomware,Media,Medium,578,5433172834.0,True,13.0,Kominfo
+INC-001215,2021-06-07,Lampung,Business Email Compromise,Transportasi,Medium,851,7645607813.0,False,76.0,Kepolisian
+INC-000686,2021-10-28,Jawa Timur,Business Email Compromise,Pendidikan,High,6704,104506007920.0,False,132.0,BSSN
+INC-001027,2022-04-30,DKI Jakarta,Data Breach,Ritel,Medium,217,1578712541.0,False,23.0,BSSN
+INC-000055,2024-03-30,Banten,Phishing,Pemerintahan,Medium,662,6393133924.0,True,76.0,BSSN
+INC-000516,2024-03-04,Papua,DDoS,Telekomunikasi,Critical,15080,86531754400.0,True,10.0,Kepolisian
+INC-001249,2024-02-12,Maluku,Phishing,Telekomunikasi,Medium,616,3681114976.0,False,93.0,Kepolisian
+INC-000589,2022-05-20,Jawa Tengah,Social Engineering,Asuransi,Critical,80803,4792747525940.0,False,48.0,BSSN
+INC-000621,2023-08-15,Jawa Barat,Phishing,Pendidikan,Low,88,165072424.0,True,20.0,BSSN
+INC-000744,2022-04-10,Sumatera Selatan,Phishing,Ritel,Medium,789,7739768877.0,True,28.0,Kominfo
+INC-000056,2021-04-25,Banten,SQL Injection,Ritel,Low,62,413136008.0,False,93.0,Laporan Publik
+INC-001368,2023-11-25,DKI Jakarta,Business Email Compromise,Telekomunikasi,Medium,901,4360973348.0,True,240.0,Kepolisian
+INC-000121,2020-07-08,Kalimantan Barat,Data Breach,Transportasi,Critical,6295,213360400850.0,True,49.0,Kepolisian
+INC-001343,2023-08-17,Nusa Tenggara Barat,Man-in-the-Middle,Pendidikan,Low,97,836451855.0,False,54.0,Kominfo
+INC-000304,2023-11-22,Banten,Data Breach,Transportasi,High,5944,182687086520.0,True,,BSSN
+INC-001207,2022-06-18,Jawa Barat,Credential Stuffing,Energi,High,3180,139670067900.0,False,152.0,Kominfo
+INC-000668,2022-09-14,Jawa Barat,Phishing,UMKM,High,4060,127203799100.0,True,27.0,Kepolisian
+INC-000358,2024-01-31,Jawa Barat,Phishing,Kesehatan,Medium,744,1728203376.0,True,47.0,Kepolisian
+INC-000284,2023-07-10,Jawa Barat,Man-in-the-Middle,Manufaktur,Medium,591,5777535624.0,True,109.0,Kepolisian
+INC-001089,2024-03-05,Jawa Tengah,Malware,Fintech,Low,39,69932928.0,True,107.0,Laporan Publik
+INC-000143,2023-05-12,Jawa Barat,Phishing,Manufaktur,Low,76,296940664.0,True,25.0,Kominfo
+INC-000543,2024-09-08,DKI Jakarta,Ransomware,Transportasi,Critical,91751,1059589176030.0,True,5.0,Laporan Publik
+INC-000303,2021-10-13,Papua,Phishing,Telekomunikasi,Low,79,453003538.0,True,39.0,Laporan Publik
+INC-000269,2023-01-05,DI Yogyakarta,Ransomware,Manufaktur,High,3103,115905784945.0,True,113.0,Laporan Publik
+INC-000830,2021-08-07,Maluku Utara,Data Breach,Pendidikan,High,6100,84699994500.0,True,33.0,Kominfo
+INC-000584,2020-08-10,DKI Jakarta,DDoS,Telekomunikasi,Medium,443,3888475028.0,True,19.0,Laporan Publik
+INC-000999,2022-03-10,Aceh,Social Engineering,UMKM,High,3653,93622079460.0,True,41.0,Kepolisian
+INC-001087,2024-11-23,Jawa Tengah,Data Breach,Asuransi,High,5141,94123201645.0,False,52.0,Kepolisian
+INC-000833,2021-08-10,Jawa Timur,Data Breach,E-Commerce,Critical,41077,1209782140890.0,True,128.0,BSSN
+INC-001043,2020-09-01,Kalimantan Timur,Data Breach,Telekomunikasi,Medium,454,,True,68.0,BSSN
+INC-001350,2022-11-25,Jawa Barat,DDoS,Pendidikan,Medium,853,266671684.0,False,57.0,Kominfo
+INC-001365,2023-07-25,Kalimantan Barat,Ransomware,Telekomunikasi,Medium,577,3427636765.0,True,1.0,Kominfo
+INC-000598,2022-04-06,Jawa Barat,Social Engineering,Ritel,Low,50,43540100.0,True,2.0,Kepolisian
+INC-001254,2024-06-01,Sulawesi Utara,Credential Stuffing,Fintech,Low,28,44169496.0,True,55.0,Kominfo
+INC-000164,2024-10-10,Sulawesi Tenggara,Phishing,Transportasi,Low,51,16149201.0,True,35.0,Laporan Publik
+INC-000500,2022-10-08,DKI Jakarta,DDoS,Kesehatan,Medium,545,2276688995.0,True,9.0,Laporan Publik
+INC-000043,2024-07-26,Jawa Barat,DDoS,Pemerintahan,Medium,722,6102250140.0,True,4.0,Laporan Publik
+INC-000951,2022-09-02,Lampung,Man-in-the-Middle,Pemerintahan,Critical,76199,6603636984960.0,True,42.0,Laporan Publik
+INC-000226,2024-03-31,Banten,SQL Injection,E-Commerce,Medium,161,895604682.0,True,17.0,Laporan Publik
+INC-000330,2023-12-21,Maluku,Website Defacement,Perbankan,High,7081,99184735365.0,True,242.0,BSSN
+INC-001069,2023-10-29,Jawa Barat,Phishing,Media,Medium,921,5488140453.0,True,2.0,Laporan Publik
+INC-001244,2024-02-25,Jawa Timur,SQL Injection,UMKM,High,6055,174379398200.0,False,9.0,BSSN
+INC-000670,2024-07-08,Jawa Timur,Business Email Compromise,Pendidikan,Critical,70778,663809875280.0,True,43.0,Kepolisian
+INC-000545,2023-01-07,Jawa Barat,Social Engineering,Perbankan,Medium,899,5865784412.0,True,57.0,Laporan Publik
+INC-000459,2021-04-30,Banten,Data Breach,Pemerintahan,Critical,93403,1719160673520.0,True,,BSSN
+INC-000376,2023-05-10,DKI Jakarta,Malware,Telekomunikasi,Medium,644,529466532.0,True,43.0,Laporan Publik
+INC-000342,2023-11-19,Jawa Barat,Insider Threat,Pemerintahan,High,8260,270201078700.0,True,2.0,Kepolisian
+INC-001377,2023-01-24,Jawa Barat,Data Breach,Ritel,Medium,539,5127536106.0,True,24.0,Kominfo
+INC-001492,2024-03-16,Jawa Tengah,DDoS,Transportasi,High,8151,87634498380.0,True,3.0,BSSN
+INC-000964,2023-03-08,Aceh,DDoS,Asuransi,Low,93,714732063.0,False,104.0,Kepolisian
+INC-000346,2023-04-02,Maluku,Credential Stuffing,UMKM,Critical,66715,4494394742200.0,True,1.0,BSSN
+INC-000364,2021-04-11,Jawa Timur,Malware,Telekomunikasi,Medium,116,176128716.0,False,6.0,BSSN
+INC-000296,2024-07-20,Jawa Timur,Phishing,Ritel,Critical,8689,797487281250.0,True,0.0,Laporan Publik
+INC-001457,2022-05-13,Jawa Timur,Malware,Telekomunikasi,Low,8,12870376.0,True,12.0,Kominfo
+INC-000094,2023-10-11,Jawa Tengah,Malware,E-Commerce,Critical,61645,244841611000.0,True,0.0,Kepolisian
+INC-000950,2024-01-30,Maluku,SQL Injection,Energi,Medium,425,2536620150.0,True,28.0,Laporan Publik
+INC-000995,2024-03-06,Aceh,Credential Stuffing,E-Commerce,Medium,849,6931011864.0,True,24.0,Laporan Publik
+INC-000788,2021-01-17,Jawa Barat,Data Breach,Telekomunikasi,High,600,22048806000.0,True,14.0,Kominfo
+INC-000539,2022-07-23,Kalimantan Selatan,Ransomware,Pendidikan,Critical,14092,561493626200.0,True,26.0,BSSN
+INC-001217,2024-05-29,Nusa Tenggara Barat,Data Breach,Energi,Critical,78078,2993548778220.0,True,29.0,Kominfo
+INC-000787,2023-10-17,Sulawesi Barat,Malware,E-Commerce,High,2438,90779844250.0,False,55.0,Kepolisian
+INC-000432,2020-10-14,Jawa Tengah,Malware,Manufaktur,Medium,952,4691433152.0,True,30.0,Kepolisian
+INC-000194,2021-04-08,Bengkulu,Data Breach,Media,Medium,722,7150246136.0,True,222.0,Kominfo
+INC-001163,2022-02-03,Sumatera Barat,Social Engineering,Ritel,High,2887,70891309885.0,False,27.0,Kominfo
+INC-000992,2024-11-11,DKI Jakarta,SQL Injection,Transportasi,Medium,277,1350435663.0,True,103.0,Kepolisian
+INC-000174,2021-07-12,Sulawesi Utara,SQL Injection,Manufaktur,Low,24,223882080.0,False,5.0,Kominfo
+INC-001237,2024-09-18,DKI Jakarta,Ransomware,Pemerintahan,High,2734,3510961790.0,True,5.0,Laporan Publik
+INC-000820,2023-10-01,Riau,SQL Injection,Manufaktur,Critical,78066,1723477914540.0,True,29.0,Kominfo
+INC-000918,2024-05-14,Banten,Malware,Manufaktur,Low,62,547770930.0,True,7.0,BSSN
+INC-000382,2020-05-30,Jawa Barat,Data Breach,Fintech,High,1979,4070961320.0,False,13.0,Kominfo
+INC-000001,2023-07-03,Banten,Social Engineering,Ritel,Low,35,210422940.0,True,43.0,Kominfo
+INC-000755,2024-06-13,Bangka Belitung,Ransomware,Energi,Critical,42616,1588002991120.0,False,158.0,BSSN
+INC-000655,2023-08-06,Nusa Tenggara Timur,Phishing,Transportasi,Critical,49458,349049835000.0,False,19.0,Laporan Publik
+INC-000624,2022-03-23,DKI Jakarta,Data Breach,Transportasi,Low,76,583965304.0,True,61.0,Kominfo
+INC-000712,2021-09-05,Riau,Malware,Asuransi,Medium,859,3981417755.0,True,45.0,BSSN
+INC-000633,2023-03-21,Jawa Barat,Phishing,Manufaktur,Low,27,209540817.0,True,16.0,Laporan Publik
+INC-000418,2024-04-28,Jawa Timur,Malware,Kesehatan,Critical,46312,1161671220080.0,True,42.0,BSSN
+INC-001292,2023-03-09,Jawa Barat,SQL Injection,Kesehatan,Medium,720,6018588000.0,True,54.0,Laporan Publik
+INC-000626,2024-09-15,Kalimantan Barat,Insider Threat,Pemerintahan,Medium,391,1081459080.0,True,15.0,Laporan Publik
+INC-000908,2022-08-19,Kalimantan Timur,DDoS,Pemerintahan,Critical,60155,2603521032550.0,True,19.0,Kominfo
+INC-000265,2021-12-15,Papua,Ransomware,Ritel,Critical,10230,789294320100.0,False,116.0,BSSN
+INC-001077,2024-03-27,DI Yogyakarta,Social Engineering,Perbankan,High,6412,215809645800.0,True,97.0,Kepolisian
+INC-000155,2021-09-18,DKI Jakarta,Data Breach,Telekomunikasi,High,112,4663653680.0,True,38.0,Kepolisian
+INC-000116,2021-04-08,Maluku Utara,Malware,Pemerintahan,High,3514,,True,,Laporan Publik
+INC-000600,2022-04-08,Aceh,Business Email Compromise,Asuransi,Medium,564,,True,69.0,Kominfo
+INC-001114,2022-09-03,Jawa Barat,DDoS,Manufaktur,High,6804,226847265120.0,True,63.0,BSSN
+INC-000679,2022-02-18,Jawa Barat,Social Engineering,E-Commerce,Medium,877,8349751247.0,True,165.0,Laporan Publik
+INC-000321,2024-09-09,Maluku,Malware,E-Commerce,Medium,231,1123897698.0,True,42.0,Kominfo
+INC-001022,2022-06-20,Jawa Barat,Malware,E-Commerce,Low,73,686164522.0,True,30.0,Laporan Publik
+INC-000663,2023-04-17,Bangka Belitung,Phishing,Media,Medium,823,2596620964.0,True,34.0,BSSN
+INC-000577,2022-04-25,Jawa Timur,Ransomware,Fintech,Critical,61184,2181512460800.0,True,40.0,Kominfo
+INC-001399,2024-06-26,DKI Jakarta,Ransomware,UMKM,High,1289,42200094070.0,False,27.0,Kominfo
+INC-001243,2023-11-06,Jawa Barat,Data Breach,Transportasi,Critical,81981,5796668278260.0,True,18.0,BSSN
+INC-001353,2021-03-31,Kalimantan Utara,Phishing,Manufaktur,Medium,869,3847289809.0,False,1.0,BSSN
+INC-000984,2022-02-02,Jawa Timur,Social Engineering,Pendidikan,High,3001,111529569135.0,True,117.0,Kominfo
+INC-000792,2023-05-09,Jawa Timur,Data Breach,Pemerintahan,High,4708,78777363280.0,True,85.0,Kepolisian
+INC-000146,2024-09-06,Jawa Barat,Malware,Energi,Medium,942,6505422798.0,True,51.0,BSSN
+INC-000597,2022-09-15,Riau,Phishing,Media,Medium,925,1385608375.0,True,27.0,Kominfo
+INC-000570,2022-03-30,Nusa Tenggara Timur,Insider Threat,Perbankan,High,4251,13720123755.0,False,20.0,Laporan Publik
+INC-001182,2021-06-14,Bali,Phishing,UMKM,Critical,87158,1123725479260.0,True,84.0,Kominfo
+INC-001181,2023-10-20,Papua,Social Engineering,Fintech,High,4454,148667816730.0,False,47.0,Laporan Publik
+INC-001040,2024-01-02,DKI Jakarta,Data Breach,Media,High,9124,364187197200.0,False,70.0,Kominfo
+INC-000546,2022-08-06,Sumatera Barat,Malware,Pemerintahan,High,4637,80828543955.0,True,15.0,Laporan Publik
+INC-001068,2021-03-25,Jawa Timur,Social Engineering,Media,Low,22,,False,107.0,Kepolisian
+INC-000671,2022-11-27,Jawa Tengah,Business Email Compromise,Pemerintahan,Medium,131,155745114.0,True,61.0,Laporan Publik
+INC-000748,2023-06-03,Jawa Timur,Data Breach,Media,High,9256,167753707680.0,True,42.0,Kepolisian
+INC-001255,2021-06-26,Sulawesi Tengah,Zero-Day Exploit,Energi,High,1195,58090658850.0,False,27.0,Kominfo
+INC-000824,2023-03-12,Nusa Tenggara Timur,Phishing,Transportasi,Medium,460,367741480.0,False,34.0,Kepolisian
+INC-001349,2021-10-09,Jawa Timur,Man-in-the-Middle,Kesehatan,Medium,184,1240636376.0,False,22.0,Kominfo
+INC-000731,2021-10-21,Jawa Timur,Phishing,Energi,Low,92,218828348.0,True,16.0,Kepolisian
+INC-000732,2024-07-08,DI Yogyakarta,DDoS,Perbankan,High,2766,91722413220.0,True,75.0,Kepolisian
+INC-001397,2022-01-31,Lampung,Phishing,Kesehatan,Low,4,12633284.0,True,61.0,Laporan Publik
+INC-001398,2021-02-19,Jawa Timur,Website Defacement,UMKM,Medium,511,1175735372.0,True,,Laporan Publik
+INC-000503,2023-12-08,Jawa Tengah,Ransomware,Kesehatan,High,5930,280669183050.0,True,48.0,Kominfo
+INC-001214,2021-07-06,Jawa Barat,Malware,Kesehatan,Low,54,22274946.0,True,3.0,Kepolisian
+INC-000136,2023-02-02,Jawa Timur,Phishing,Ritel,High,1748,13958793840.0,True,142.0,Laporan Publik
+INC-001031,2021-08-27,Jawa Barat,DDoS,Manufaktur,Medium,522,433088784.0,True,10.0,Laporan Publik
+INC-000164,2024-10-10,Sulawesi Tenggara,Phishing,Transportasi,Low,51,16149201.0,True,35.0,Laporan Publik
+INC-001368,2023-11-25,DKI Jakarta,Business Email Compromise,Telekomunikasi,Medium,901,4360973348.0,True,240.0,Kepolisian
+INC-000409,2023-10-25,Banten,Phishing,Ritel,Medium,120,,True,5.0,Laporan Publik
+INC-001152,2022-01-22,Banten,Ransomware,Transportasi,Critical,1209,84019479180.0,True,74.0,Kominfo
+INC-001133,2024-05-18,Jawa Barat,DDoS,Fintech,Medium,900,4101304500.0,False,67.0,BSSN
+INC-000037,2023-02-13,Nusa Tenggara Timur,Business Email Compromise,Pemerintahan,High,344,12145792040.0,True,20.0,Kepolisian
+INC-000816,2021-07-29,Jawa Barat,Business Email Compromise,Pemerintahan,High,5341,158145247470.0,False,20.0,Kepolisian
+INC-000392,2022-09-03,Banten,Phishing,E-Commerce,Medium,289,1776467394.0,False,21.0,Kominfo
+INC-001204,2020-02-04,Jawa Timur,Ransomware,Pemerintahan,High,1601,79013256440.0,True,30.0,Kominfo
+INC-000786,2021-02-10,Papua,Malware,Transportasi,High,2276,52242632580.0,True,128.0,Kepolisian
+INC-001206,2022-10-21,Jawa Barat,Phishing,Media,Low,95,246861680.0,True,90.0,Laporan Publik
+INC-000988,2024-10-04,Jawa Tengah,Insider Threat,Telekomunikasi,High,3972,185905428420.0,True,57.0,Kepolisian
+INC-000981,2023-05-06,DKI Jakarta,Ransomware,Media,High,732,29564923680.0,True,22.0,BSSN
+INC-000746,2024-05-12,Aceh,Phishing,E-Commerce,Low,54,249062904.0,True,3.0,Laporan Publik
+INC-000130,2024-03-13,Papua,Malware,Perbankan,High,8301,100310529150.0,True,37.0,Kominfo
+INC-000634,2024-06-24,DKI Jakarta,Phishing,Media,Low,86,431108884.0,True,2.0,Kepolisian
+INC-001092,2022-03-13,DKI Jakarta,Malware,Media,High,3344,121315939360.0,True,76.0,BSSN
+INC-000299,2023-10-12,DKI Jakarta,Ransomware,Perbankan,Critical,38412,3086070783840.0,True,18.0,BSSN
+INC-000801,2024-02-03,Jawa Barat,Malware,E-Commerce,Medium,899,4261123352.0,True,5.0,Laporan Publik
+INC-000320,2022-09-19,Jambi,Phishing,UMKM,Medium,227,1015665192.0,True,106.0,Kepolisian
+INC-000101,2024-07-18,DKI Jakarta,Cryptojacking,Kesehatan,High,1825,6272762250.0,False,32.0,Laporan Publik
+INC-000519,2024-02-07,DKI Jakarta,DDoS,E-Commerce,High,8478,390232802250.0,True,73.0,Kepolisian
+INC-000407,2024-06-01,DKI Jakarta,Phishing,Perbankan,Low,95,738706890.0,True,30.0,Laporan Publik
+INC-001499,2021-11-20,Jawa Tengah,Phishing,Fintech,Low,9,30150540.0,True,34.0,Kominfo
+INC-000673,2022-09-08,Bangka Belitung,Phishing,Pemerintahan,Medium,694,5977204084.0,True,160.0,Kominfo
+INC-001415,2022-10-25,Jawa Barat,Ransomware,Energi,High,9189,180064335960.0,True,64.0,Kominfo
+INC-000583,2024-03-02,Nusa Tenggara Timur,Phishing,Transportasi,High,2560,39434982400.0,False,37.0,BSSN
+INC-000829,2023-05-26,Banten,Zero-Day Exploit,Energi,Critical,3837,222048763170.0,True,32.0,Kepolisian
+INC-001115,2022-08-23,DKI Jakarta,Data Breach,Ritel,High,7468,46980254500.0,True,42.0,Laporan Publik
+INC-000960,2022-08-27,Sumatera Utara,SQL Injection,Fintech,Low,97,54681131.0,True,86.0,Laporan Publik
+INC-001325,2024-03-20,Kalimantan Barat,Phishing,Perbankan,Medium,262,2292439478.0,True,4.0,Kominfo
+INC-000710,2024-01-28,DKI Jakarta,Malware,Asuransi,Medium,625,6070916250.0,True,189.0,Kominfo
+INC-001266,2024-11-30,Kepulauan Riau,Social Engineering,Fintech,High,5079,210736445880.0,True,22.0,Kepolisian
+INC-001422,2024-02-01,Jawa Timur,Ransomware,Kesehatan,Medium,959,491592990.0,True,6.0,Kepolisian
+INC-000350,2024-05-27,Jawa Tengah,Phishing,Asuransi,Medium,897,4639496589.0,True,58.0,Kepolisian
+INC-001190,2024-07-30,Banten,Ransomware,Ritel,Medium,93,736991613.0,False,58.0,BSSN
+INC-000437,2023-01-03,Jawa Barat,Cryptojacking,Fintech,Medium,343,748272336.0,False,81.0,Laporan Publik
+INC-000191,2022-09-07,Jawa Tengah,Cryptojacking,Pemerintahan,High,6012,104270234220.0,True,30.0,Laporan Publik
+INC-000987,2023-07-01,Aceh,Credential Stuffing,Kesehatan,Critical,72127,2877472765310.0,True,17.0,Laporan Publik
+INC-000789,2022-06-23,Jawa Timur,Social Engineering,Manufaktur,Low,58,461650884.0,True,49.0,Kominfo
+INC-000884,2022-10-06,Bali,Man-in-the-Middle,Pendidikan,Low,60,103377840.0,True,4.0,Kepolisian
+INC-001097,2022-07-16,Nusa Tenggara Barat,Phishing,Transportasi,Low,69,421198563.0,True,10.0,BSSN
+INC-000249,2023-09-19,Sumatera Utara,Phishing,Media,Medium,890,2960362500.0,True,78.0,Kominfo
+INC-001078,2024-02-16,Kalimantan Barat,Phishing,Kesehatan,Critical,43722,3503634487920.0,False,19.0,Kominfo
+INC-000776,2023-11-18,DKI Jakarta,Zero-Day Exploit,Ritel,Medium,77,37551976.0,True,50.0,BSSN
+INC-000854,2022-05-25,Banten,Data Breach,Energi,High,8763,272359735950.0,True,73.0,Kominfo
+INC-001447,2023-08-05,DKI Jakarta,Cryptojacking,Pendidikan,Low,6,13680732.0,True,12.0,BSSN
+INC-001145,2022-06-09,Jawa Tengah,Malware,Perbankan,High,8557,87581408420.0,False,10.0,Kominfo
+INC-000362,2023-11-24,Jawa Barat,Data Breach,Fintech,Critical,28213,700887659360.0,True,104.0,Kominfo
+INC-000864,2022-11-24,Sulawesi Tengah,Phishing,Kesehatan,Medium,442,623531168.0,True,3.0,Kepolisian
+INC-000596,2024-07-31,Gorontalo,SQL Injection,Pendidikan,Critical,88483,4092874072150.0,True,96.0,BSSN
+INC-001334,2022-04-19,Jawa Tengah,Malware,Asuransi,High,1431,63596337435.0,True,12.0,Kepolisian
+INC-000831,2021-01-08,Maluku Utara,Phishing,E-Commerce,Medium,962,2298012132.0,False,46.0,Kepolisian
+INC-000946,2023-07-10,DKI Jakarta,SQL Injection,Kesehatan,Critical,16150,640700054500.0,False,40.0,Kepolisian
+INC-001113,2022-06-30,DI Yogyakarta,Malware,Kesehatan,High,3783,6312408375.0,False,53.0,Kominfo
+INC-000488,2024-02-15,Kalimantan Selatan,Ransomware,Telekomunikasi,Critical,20642,,True,12.0,Kepolisian
+INC-000683,2022-11-20,DKI Jakarta,Ransomware,Media,Critical,9080,705642030400.0,True,0.0,BSSN
+INC-000936,2023-02-24,Kalimantan Utara,Data Breach,Transportasi,Critical,26825,2172025078500.0,True,11.0,Kominfo
+INC-001037,2023-03-18,Jawa Barat,Phishing,Pendidikan,Medium,601,1307423814.0,False,50.0,Kominfo
+INC-000233,2023-07-22,Banten,Credential Stuffing,Pendidikan,Medium,907,6551987507.0,True,78.0,Laporan Publik
+INC-000935,2021-07-11,Jawa Timur,Man-in-the-Middle,Fintech,High,8678,,True,21.0,Kepolisian
+INC-001310,2022-01-24,Jawa Tengah,DDoS,Transportasi,Medium,694,5633520016.0,True,0.0,Kominfo
+INC-000678,2023-01-02,Aceh,SQL Injection,Transportasi,Medium,437,2037153723.0,True,73.0,Laporan Publik
+INC-001156,2023-03-04,Jawa Timur,Man-in-the-Middle,E-Commerce,Medium,424,213506048.0,True,64.0,Kominfo
+INC-000685,2022-01-30,DKI Jakarta,DDoS,Pemerintahan,Medium,175,1261388800.0,False,67.0,Kominfo
+INC-001179,2022-12-09,Riau,Data Breach,Media,Medium,898,7327479746.0,False,75.0,Laporan Publik
+INC-001491,2024-07-24,Maluku Utara,Phishing,Ritel,Medium,768,2487422976.0,True,5.0,Kepolisian
+INC-000923,2024-01-21,Banten,DDoS,Media,High,5028,22726434300.0,True,18.0,Laporan Publik
+INC-000618,2023-07-16,Jawa Barat,Malware,Telekomunikasi,Medium,615,3979869180.0,False,86.0,Laporan Publik
+INC-000930,2022-09-04,DKI Jakarta,Zero-Day Exploit,Transportasi,High,790,36350597850.0,True,4.0,Kepolisian
+INC-000754,2022-08-08,Jawa Timur,Ransomware,Pemerintahan,Critical,57888,567902698560.0,False,6.0,BSSN
+INC-000335,2023-05-13,Maluku Utara,Business Email Compromise,Fintech,Low,57,118073904.0,False,30.0,Kepolisian
+INC-000704,2022-11-06,DKI Jakarta,Website Defacement,Pemerintahan,Medium,662,1451233090.0,False,0.0,BSSN
+INC-000466,2022-10-06,DKI Jakarta,Data Breach,E-Commerce,High,1006,27889111650.0,True,46.0,Laporan Publik
+INC-000210,2021-01-12,Sulawesi Barat,Man-in-the-Middle,Media,Medium,443,2684480768.0,True,63.0,Kominfo
+INC-000850,2023-01-11,Kalimantan Barat,DDoS,Manufaktur,High,5180,203205417100.0,True,159.0,Kominfo
+INC-001084,2022-02-05,Jawa Timur,Phishing,Transportasi,High,3663,84695171715.0,False,97.0,Kepolisian
+INC-000767,2022-05-03,Jawa Tengah,Man-in-the-Middle,Perbankan,Medium,180,490547340.0,True,58.0,Kominfo
+INC-000983,2023-08-17,DKI Jakarta,DDoS,UMKM,Medium,13,52108004.0,False,106.0,Kepolisian
+INC-001381,2023-08-02,Jambi,Phishing,UMKM,Medium,592,3660933920.0,True,41.0,Kominfo
+INC-000567,2023-04-17,DKI Jakarta,Data Breach,E-Commerce,High,7700,49496447000.0,True,18.0,BSSN
+INC-000771,2022-12-22,Banten,DDoS,Fintech,High,771,11037053895.0,True,84.0,Kepolisian
+INC-000023,2021-06-29,Jawa Barat,Social Engineering,Ritel,Medium,525,,True,2.0,Kepolisian
+INC-000068,2021-03-16,DKI Jakarta,SQL Injection,Transportasi,High,7326,253630698750.0,True,85.0,BSSN
+INC-000780,2023-07-29,DKI Jakarta,Malware,E-Commerce,Medium,600,2394015600.0,False,39.0,BSSN
+INC-000421,2020-09-05,Jawa Tengah,Man-in-the-Middle,Energi,Low,3,7627101.0,False,237.0,Kominfo
+INC-001433,2023-07-08,Lampung,Phishing,Pendidikan,Critical,77452,1501287743920.0,True,129.0,BSSN
+INC-001454,2021-08-12,Jambi,Business Email Compromise,UMKM,Medium,648,402613416.0,True,12.0,Laporan Publik
+INC-001405,2022-01-17,Jawa Timur,Phishing,Manufaktur,Medium,583,400463283.0,True,10.0,Kepolisian
+INC-001481,2021-10-18,Jawa Timur,Phishing,Energi,Critical,73908,1087365537360.0,False,42.0,Kominfo
+INC-001130,2022-02-21,DKI Jakarta,Phishing,Asuransi,Medium,104,226879120.0,True,58.0,BSSN
+INC-001441,2022-01-24,DKI Jakarta,Cryptojacking,Pemerintahan,Medium,899,8889348859.0,True,100.0,BSSN
+INC-001018,2022-07-26,Jawa Timur,SQL Injection,UMKM,High,2808,133095381120.0,False,5.0,Kominfo
+INC-000306,2023-10-31,DKI Jakarta,Phishing,Energi,Medium,110,491617060.0,True,56.0,Kepolisian
+INC-000547,2023-08-30,Kalimantan Tengah,Data Breach,E-Commerce,High,2435,100138120975.0,True,16.0,Kepolisian
+INC-001413,2022-09-08,Jawa Tengah,Malware,UMKM,High,5744,106705799760.0,True,71.0,Kominfo
+INC-000277,2023-10-22,DKI Jakarta,Ransomware,Pemerintahan,Critical,64294,1058637357580.0,True,124.0,Laporan Publik
+INC-000532,2024-06-08,Sumatera Utara,Ransomware,Fintech,Critical,62509,5435929536150.0,True,9.0,Kominfo
+INC-000622,2022-05-22,DKI Jakarta,Malware,Manufaktur,Low,73,451794080.0,False,5.0,Kepolisian
+INC-001234,2020-11-02,Maluku,DDoS,Telekomunikasi,High,1673,78496540990.0,True,103.0,Laporan Publik
+INC-000138,2020-07-03,Kalimantan Barat,Malware,Kesehatan,High,2230,96827001400.0,False,8.0,Kepolisian
+INC-000869,2023-11-17,DKI Jakarta,Malware,Transportasi,Low,96,686264256.0,True,6.0,BSSN
+INC-001091,2023-08-09,Bengkulu,Social Engineering,Pemerintahan,Medium,621,1513438479.0,False,34.0,Kepolisian
+INC-001211,2022-04-26,DKI Jakarta,Phishing,Fintech,Medium,512,1242958848.0,True,43.0,Kominfo
+INC-000845,2022-01-17,Papua Barat,Data Breach,Perbankan,Critical,12036,1087449109560.0,True,59.0,BSSN
+INC-001202,2021-06-18,Jawa Barat,Malware,Telekomunikasi,Medium,575,4832835900.0,False,,Kominfo
+INC-001013,2022-12-06,Banten,Cryptojacking,Kesehatan,Medium,857,827128408.0,True,16.0,Kominfo
+INC-001186,2021-07-25,DKI Jakarta,Business Email Compromise,Fintech,Low,90,307605330.0,True,215.0,Kominfo
+INC-000773,2022-12-31,DKI Jakarta,Ransomware,Fintech,Critical,55079,1681406547220.0,True,15.0,Kominfo
+INC-000769,2023-08-20,DKI Jakarta,Insider Threat,Transportasi,Medium,76,396874128.0,False,68.0,BSSN
+INC-001333,2023-03-08,Jawa Tengah,Malware,Energi,Medium,524,636690916.0,True,82.0,Kepolisian
+INC-000281,2021-12-07,Kepulauan Riau,Insider Threat,Pendidikan,Low,82,270672980.0,True,51.0,Laporan Publik
+INC-000366,2022-11-02,Banten,Phishing,Perbankan,High,6633,126912936645.0,True,29.0,Kepolisian
+INC-000474,2021-10-23,Jawa Barat,Phishing,Media,Medium,755,2430956550.0,True,27.0,Kepolisian
+INC-000305,2023-07-08,DKI Jakarta,Social Engineering,Ritel,High,6039,195917419170.0,False,24.0,BSSN
+INC-000756,2024-02-23,DI Yogyakarta,Malware,Pendidikan,Medium,944,8253538320.0,True,48.0,Laporan Publik
+INC-001458,2022-03-26,Jawa Barat,Phishing,E-Commerce,Low,64,257720832.0,False,1.0,BSSN
+INC-001026,2023-10-05,Sulawesi Tengah,Ransomware,Kesehatan,High,9323,23978709385.0,False,19.0,BSSN
+INC-000403,2023-01-19,Jawa Timur,Credential Stuffing,Energi,Critical,65860,2974219159200.0,True,27.0,Laporan Publik
+INC-000813,2021-09-26,DKI Jakarta,Data Breach,Pemerintahan,Critical,44284,260818589120.0,False,165.0,BSSN
+INC-001315,2023-06-14,Jawa Barat,Social Engineering,Kesehatan,Medium,837,3499574841.0,False,24.0,Kepolisian
+INC-000450,2021-06-30,Jawa Timur,Business Email Compromise,E-Commerce,High,7827,316695604380.0,False,34.0,Kepolisian
+INC-001344,2021-05-03,Jawa Timur,DDoS,Pendidikan,Medium,153,897815628.0,True,78.0,Kominfo
+INC-000763,2022-11-10,Kalimantan Barat,Malware,Kesehatan,Medium,542,4613533268.0,True,17.0,Laporan Publik
+INC-000493,2022-02-01,Jawa Tengah,Ransomware,Media,Critical,49002,1616017357200.0,True,11.0,Kepolisian
+INC-000576,2022-10-22,Nusa Tenggara Barat,Malware,Pemerintahan,Medium,458,2170734968.0,False,110.0,Laporan Publik
+INC-000227,2023-10-07,Jawa Timur,Malware,Transportasi,High,6866,,True,8.0,Kepolisian
+INC-000865,2022-07-03,DKI Jakarta,Insider Threat,Ritel,Medium,421,2417102035.0,True,29.0,Laporan Publik
+INC-000844,2024-07-30,Papua Barat,Phishing,Telekomunikasi,Low,33,126659379.0,True,78.0,Kominfo
+INC-001247,2023-07-12,DKI Jakarta,SQL Injection,Transportasi,Medium,907,8367321704.0,True,28.0,Kominfo
+INC-000941,2023-07-14,Nusa Tenggara Timur,Ransomware,Pemerintahan,Critical,47732,2065201351200.0,True,16.0,Kepolisian
+INC-000819,2024-07-29,Kalimantan Timur,Phishing,Manufaktur,Medium,609,4918726134.0,True,5.0,BSSN
+INC-001296,2023-09-16,Banten,Data Breach,Fintech,Critical,16926,442380305640.0,True,27.0,Kominfo
+INC-001257,2021-07-11,Nusa Tenggara Barat,Malware,Telekomunikasi,Critical,41983,2783021582750.0,False,70.0,Kepolisian
+INC-001042,2020-08-28,Jawa Timur,Credential Stuffing,Manufaktur,Low,54,54549450.0,True,67.0,Kepolisian
+INC-000430,2022-12-19,Kalimantan Barat,Man-in-the-Middle,UMKM,Low,83,87500841.0,True,109.0,Laporan Publik
+INC-001201,2022-05-12,Papua Barat,Phishing,Transportasi,High,4882,118669581150.0,True,6.0,Laporan Publik
+INC-000111,2024-09-22,Maluku Utara,Malware,Manufaktur,Medium,802,7595017794.0,False,34.0,Kominfo
+INC-000405,2022-06-19,Bali,Data Breach,Asuransi,Critical,52529,341263053140.0,True,23.0,Laporan Publik
+INC-000402,2024-07-04,Jawa Barat,SQL Injection,Perbankan,High,4318,121969423320.0,True,8.0,Kepolisian
+INC-001228,2020-12-25,Kalimantan Barat,Insider Threat,Fintech,Medium,937,4758854340.0,True,62.0,BSSN
+INC-001410,2024-06-03,Jawa Timur,Phishing,Manufaktur,Low,62,357910190.0,False,,Kepolisian
+INC-000885,2023-03-21,Sulawesi Tengah,Phishing,Energi,Low,18,147338838.0,False,2.0,BSSN
+INC-000053,2022-06-30,Jawa Barat,Phishing,E-Commerce,Low,30,11560680.0,False,44.0,BSSN
+INC-000666,2024-06-09,Banten,Business Email Compromise,Transportasi,Medium,345,1629396015.0,False,32.0,Laporan Publik
+INC-001229,2022-12-19,Jawa Tengah,Zero-Day Exploit,Kesehatan,Low,22,108044244.0,True,12.0,Laporan Publik
+INC-000849,2021-08-23,Kepulauan Riau,Phishing,Energi,Low,80,284966960.0,True,41.0,BSSN
+INC-001487,2020-06-28,Jawa Tengah,Ransomware,Pendidikan,Critical,97356,4027217586840.0,True,22.0,Laporan Publik
+INC-000976,2021-11-17,Jawa Tengah,Phishing,Manufaktur,Medium,449,1708263155.0,True,26.0,Kominfo
+INC-001085,2022-07-30,Jawa Tengah,Website Defacement,Media,High,4684,189382972760.0,False,48.0,Kepolisian
+INC-000028,2022-01-23,DKI Jakarta,Ransomware,Media,High,6653,233324967920.0,False,18.0,BSSN
+INC-001276,2024-03-16,Jawa Tengah,Phishing,Pendidikan,Low,92,703443776.0,True,89.0,Kepolisian
+INC-001071,2021-05-17,Jawa Timur,Man-in-the-Middle,Asuransi,Low,29,167936448.0,False,60.0,Kominfo
+INC-000302,2023-02-04,Jawa Timur,Malware,Pemerintahan,Critical,70930,807115307200.0,True,,Kominfo
+INC-000742,2020-07-23,Maluku,Insider Threat,Media,Medium,858,4523159784.0,True,69.0,Laporan Publik
+INC-000701,2022-09-08,Banten,SQL Injection,Transportasi,High,6438,157267882470.0,True,23.0,Kominfo
+INC-001430,2023-10-26,DKI Jakarta,Business Email Compromise,Asuransi,Low,40,234509040.0,True,165.0,Laporan Publik
+INC-000798,2023-01-30,Jambi,SQL Injection,Asuransi,Medium,426,860344062.0,True,212.0,Kominfo
+INC-000134,2024-02-16,Aceh,Credential Stuffing,Media,High,4990,58610519050.0,True,14.0,BSSN
+INC-000042,2022-06-28,DKI Jakarta,DDoS,Fintech,Critical,74273,2611811530460.0,True,19.0,Laporan Publik
+INC-000175,2024-11-25,Nusa Tenggara Barat,DDoS,Kesehatan,High,5974,25987138960.0,True,28.0,Kominfo
+INC-001478,2022-10-08,DKI Jakarta,Insider Threat,Telekomunikasi,Medium,101,105587824.0,True,35.0,BSSN
+INC-001061,2023-05-11,Sulawesi Tenggara,Ransomware,Energi,Critical,94608,3139520122080.0,True,29.0,Kominfo
+INC-000315,2021-06-19,Sulawesi Selatan,Ransomware,Kesehatan,High,3339,118757929185.0,False,43.0,Kepolisian
+INC-001288,2023-05-28,Maluku Utara,DDoS,Pendidikan,Medium,465,670828995.0,True,26.0,Laporan Publik
+INC-001246,2022-10-22,Papua,Business Email Compromise,Pendidikan,High,6077,129484462100.0,True,64.0,Laporan Publik
+INC-001226,2022-05-14,Jawa Timur,Phishing,Pemerintahan,Medium,266,342885172.0,True,,Kepolisian
+INC-000471,2023-08-27,Jawa Tengah,Ransomware,Kesehatan,Critical,33535,739459828650.0,True,80.0,Laporan Publik
+INC-000200,2022-04-10,Papua,Data Breach,Manufaktur,Critical,71320,4171347756400.0,True,156.0,BSSN
+INC-000365,2023-02-15,Jawa Tengah,Ransomware,Media,High,4577,114836243450.0,True,137.0,Laporan Publik
+INC-000225,2022-11-23,DKI Jakarta,SQL Injection,Telekomunikasi,Low,93,,True,32.0,Kominfo
+INC-001408,2021-09-01,Banten,Social Engineering,Manufaktur,Critical,62821,5033719831580.0,True,3.0,Kepolisian
+INC-001389,2020-07-27,DKI Jakarta,SQL Injection,Kesehatan,Medium,326,2429428936.0,True,39.0,Kominfo
+INC-000244,2024-05-02,Jambi,SQL Injection,UMKM,Medium,333,406198728.0,True,0.0,BSSN
+INC-000219,2022-03-27,DKI Jakarta,SQL Injection,Telekomunikasi,Low,79,349750301.0,True,6.0,Kepolisian
+INC-000237,2023-11-18,Gorontalo,Cryptojacking,Fintech,Low,72,,True,36.0,Laporan Publik
+INC-000286,2021-10-04,Sulawesi Tenggara,Ransomware,Kesehatan,High,9368,295640730600.0,True,22.0,Laporan Publik
+INC-000024,2023-05-10,DKI Jakarta,Data Breach,Pemerintahan,Medium,85,183992530.0,False,14.0,Kominfo
+INC-000419,2023-12-18,Papua Barat,Phishing,Asuransi,Medium,198,972254052.0,True,0.0,Laporan Publik
+INC-000424,2022-01-23,Sumatera Selatan,Data Breach,Perbankan,Critical,30480,648032536800.0,True,20.0,Laporan Publik
+INC-000086,2023-01-12,Jawa Barat,Phishing,Media,Low,97,198874832.0,False,14.0,Laporan Publik
+INC-001187,2024-09-08,Bengkulu,SQL Injection,Energi,Low,80,449346320.0,True,44.0,Kepolisian
+INC-001003,2021-12-11,Jawa Timur,Data Breach,E-Commerce,Critical,99848,372100546160.0,True,10.0,Laporan Publik
+INC-000229,2022-12-11,DKI Jakarta,Malware,Manufaktur,Low,15,89326695.0,True,127.0,Laporan Publik
+INC-001372,2024-04-22,Jawa Timur,SQL Injection,Telekomunikasi,Low,61,592721323.0,True,49.0,Kepolisian
+INC-000050,2021-03-10,Jawa Tengah,Malware,Telekomunikasi,Medium,554,,True,190.0,Laporan Publik
+INC-000411,2023-03-06,Nusa Tenggara Barat,Data Breach,Media,High,6676,162993505220.0,True,56.0,Laporan Publik
+INC-000444,2023-10-02,Aceh,Insider Threat,Kesehatan,Low,95,174271895.0,False,49.0,Laporan Publik
+INC-000562,2024-07-11,Jawa Tengah,SQL Injection,Fintech,Critical,1037,58147680260.0,True,33.0,BSSN
+INC-000067,2020-12-13,Jawa Barat,Data Breach,Pendidikan,High,7731,315407869110.0,True,0.0,BSSN
+INC-001489,2024-11-10,Jawa Tengah,Ransomware,Kesehatan,Critical,71461,3482240934250.0,True,28.0,BSSN
+INC-001016,2021-12-02,Jawa Barat,DDoS,Telekomunikasi,Medium,106,1003622840.0,True,2.0,Kepolisian
+INC-001125,2024-01-18,Banten,Malware,E-Commerce,Low,81,700642386.0,True,108.0,BSSN
+INC-001351,2022-04-01,Jawa Tengah,Phishing,Perbankan,Low,69,465302121.0,True,13.0,BSSN
+INC-000443,2021-02-19,Banten,SQL Injection,Asuransi,Medium,896,3773891072.0,True,22.0,Kepolisian
+INC-000473,2023-07-25,Jawa Tengah,Social Engineering,Media,Medium,82,,False,64.0,Kominfo
+INC-001029,2023-09-07,DKI Jakarta,Ransomware,Pemerintahan,Critical,51298,2333603986740.0,False,3.0,BSSN
+INC-001426,2023-10-07,Jawa Timur,Business Email Compromise,Perbankan,Medium,999,7036078878.0,False,55.0,Kominfo
+INC-000766,2024-03-15,Jambi,DDoS,Energi,High,9653,407004989475.0,True,38.0,Kominfo
+INC-000897,2023-02-22,Jawa Timur,Malware,Asuransi,Critical,96428,3082562090000.0,True,6.0,BSSN
+INC-000336,2024-10-04,Maluku,Credential Stuffing,Kesehatan,Low,9,10613061.0,True,94.0,Kominfo
+INC-000602,2023-10-05,Kepulauan Riau,Malware,Pemerintahan,Medium,973,4622033143.0,False,7.0,Laporan Publik
